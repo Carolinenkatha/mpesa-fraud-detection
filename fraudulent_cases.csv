@@ -1,0 +1,2755 @@
+TransactionID,Amount,SenderCounty,ReceiverCounty,TimeOfDay,TransactionType,AccountAgeMonths,TransactionsLast24Hours,DeviceChangedRecently,NewLocationLogin,FailedPinAttempts,IsWeekend,Fraudulent
+TXN000001,335293,Mombasa,Nyeri,2,Withdraw,15,1,No,Yes,3,Yes,Yes
+TXN000002,16713,Nyeri,Nakuru,22,Withdraw,4,3,Yes,Yes,8,Yes,Yes
+TXN000007,333331,Kiambu,Mombasa,19,Paybill,107,12,Yes,No,5,Yes,Yes
+TXN000008,280093,Nyeri,Nakuru,21,Till,94,8,Yes,No,6,No,Yes
+TXN000009,441947,Uasin Gishu,Kiambu,2,Paybill,99,25,Yes,Yes,0,No,Yes
+TXN000010,478796,Kakamega,Kisumu,8,Paybill,73,29,No,Yes,7,No,Yes
+TXN000015,80181,Nairobi,Mombasa,11,Till,48,25,Yes,Yes,5,No,Yes
+TXN000016,125591,Nyeri,Kisumu,4,Withdraw,8,8,Yes,Yes,7,Yes,Yes
+TXN000018,229740,Mombasa,Machakos,0,Paybill,116,17,No,Yes,3,Yes,Yes
+TXN000019,308562,Nairobi,Machakos,2,Paybill,29,1,Yes,Yes,3,Yes,Yes
+TXN000020,146052,Kakamega,Uasin Gishu,6,Send Money,86,16,Yes,Yes,7,Yes,Yes
+TXN000022,381843,Nyeri,Kakamega,4,Withdraw,44,26,Yes,Yes,3,Yes,Yes
+TXN000023,96250,Nairobi,Nyeri,0,Send Money,36,15,Yes,Yes,7,Yes,Yes
+TXN000024,485733,Kakamega,Nakuru,12,Send Money,97,28,Yes,Yes,6,No,Yes
+TXN000026,81208,Machakos,Nairobi,1,Withdraw,25,10,Yes,Yes,8,Yes,Yes
+TXN000027,263688,Kisumu,Mombasa,19,Send Money,118,28,Yes,Yes,8,Yes,Yes
+TXN000028,354055,Meru,Mombasa,13,Till,111,8,No,Yes,3,Yes,Yes
+TXN000029,490105,Kisumu,Kiambu,14,Till,34,7,No,Yes,4,No,Yes
+TXN000030,487123,Mombasa,Nyeri,6,Till,97,30,Yes,Yes,7,Yes,Yes
+TXN000031,69495,Kisumu,Kakamega,17,Till,120,12,Yes,Yes,5,No,Yes
+TXN000033,142838,Nyeri,Kakamega,8,Send Money,37,20,Yes,No,3,No,Yes
+TXN000035,289289,Nyeri,Nairobi,11,Paybill,91,14,Yes,Yes,1,Yes,Yes
+TXN000037,185479,Kisumu,Uasin Gishu,0,Paybill,100,18,No,Yes,3,Yes,Yes
+TXN000038,386221,Mombasa,Uasin Gishu,1,Withdraw,119,11,No,Yes,4,Yes,Yes
+TXN000040,208960,Nyeri,Machakos,0,Send Money,43,9,Yes,No,5,No,Yes
+TXN000044,171063,Uasin Gishu,Kisumu,19,Till,52,23,No,Yes,3,No,Yes
+TXN000045,212950,Uasin Gishu,Meru,19,Till,71,27,Yes,No,4,Yes,Yes
+TXN000047,49011,Kisumu,Nairobi,1,Paybill,105,25,Yes,No,3,Yes,Yes
+TXN000048,249158,Uasin Gishu,Kakamega,12,Paybill,79,28,Yes,No,6,Yes,Yes
+TXN000049,77419,Kisumu,Nyeri,14,Send Money,84,23,Yes,Yes,6,Yes,Yes
+TXN000055,204248,Machakos,Kiambu,12,Withdraw,116,25,Yes,No,7,Yes,Yes
+TXN000056,282232,Uasin Gishu,Kakamega,0,Withdraw,96,24,Yes,No,3,No,Yes
+TXN000057,176278,Meru,Nyeri,0,Withdraw,86,22,No,Yes,7,Yes,Yes
+TXN000058,310372,Kakamega,Kisumu,1,Till,73,22,Yes,Yes,6,Yes,Yes
+TXN000060,246626,Nairobi,Nairobi,7,Paybill,3,24,Yes,No,3,Yes,Yes
+TXN000061,440047,Mombasa,Meru,6,Withdraw,3,20,Yes,Yes,2,No,Yes
+TXN000064,445848,Machakos,Mombasa,16,Till,88,20,Yes,Yes,5,No,Yes
+TXN000065,6683,Kakamega,Kisumu,13,Paybill,109,14,No,Yes,6,No,Yes
+TXN000068,176418,Machakos,Kiambu,10,Till,4,16,No,Yes,7,Yes,Yes
+TXN000069,461591,Mombasa,Nakuru,23,Withdraw,77,23,No,Yes,8,Yes,Yes
+TXN000070,256205,Nairobi,Mombasa,9,Paybill,72,25,Yes,No,7,No,Yes
+TXN000074,189255,Nairobi,Nyeri,9,Paybill,23,10,Yes,Yes,4,Yes,Yes
+TXN000077,79598,Nyeri,Uasin Gishu,19,Paybill,20,26,No,Yes,3,Yes,Yes
+TXN000079,319672,Kisumu,Nakuru,5,Send Money,95,4,Yes,Yes,4,Yes,Yes
+TXN000080,82118,Nakuru,Kiambu,22,Till,1,14,No,No,4,Yes,Yes
+TXN000081,368617,Uasin Gishu,Mombasa,17,Paybill,111,15,Yes,Yes,4,Yes,Yes
+TXN000086,306931,Uasin Gishu,Machakos,10,Send Money,56,21,No,Yes,7,No,Yes
+TXN000088,164947,Nyeri,Kakamega,13,Send Money,33,11,Yes,No,8,Yes,Yes
+TXN000091,289588,Kisumu,Kakamega,22,Till,53,3,Yes,Yes,7,Yes,Yes
+TXN000093,99984,Machakos,Nyeri,8,Send Money,118,20,Yes,Yes,4,No,Yes
+TXN000094,148339,Machakos,Machakos,17,Withdraw,93,10,No,Yes,7,No,Yes
+TXN000095,238781,Uasin Gishu,Nairobi,10,Withdraw,120,11,Yes,Yes,6,Yes,Yes
+TXN000097,456023,Nairobi,Kisumu,13,Paybill,13,28,No,Yes,8,No,Yes
+TXN000101,153859,Meru,Kisumu,5,Paybill,46,12,No,Yes,3,No,Yes
+TXN000102,41452,Nakuru,Kakamega,20,Till,79,28,No,Yes,7,Yes,Yes
+TXN000103,240997,Mombasa,Kakamega,11,Till,33,22,Yes,No,4,Yes,Yes
+TXN000107,355393,Kakamega,Nairobi,18,Till,97,24,Yes,Yes,0,No,Yes
+TXN000109,278369,Kiambu,Machakos,3,Withdraw,65,30,No,Yes,4,No,Yes
+TXN000110,39528,Mombasa,Uasin Gishu,0,Till,19,25,Yes,No,8,No,Yes
+TXN000114,194566,Kakamega,Meru,13,Till,86,24,No,Yes,6,Yes,Yes
+TXN000115,17202,Machakos,Mombasa,21,Till,89,12,Yes,No,7,Yes,Yes
+TXN000116,285506,Nakuru,Mombasa,14,Send Money,116,21,No,Yes,6,No,Yes
+TXN000117,347531,Kisumu,Meru,6,Send Money,28,21,Yes,Yes,5,Yes,Yes
+TXN000118,435113,Kisumu,Meru,0,Till,98,18,Yes,Yes,3,No,Yes
+TXN000121,249740,Meru,Nairobi,23,Till,58,25,No,Yes,7,Yes,Yes
+TXN000122,240196,Mombasa,Kakamega,22,Withdraw,83,1,Yes,No,6,No,Yes
+TXN000125,225530,Uasin Gishu,Uasin Gishu,23,Send Money,58,29,Yes,No,5,No,Yes
+TXN000127,226477,Meru,Nyeri,17,Till,13,24,No,Yes,8,Yes,Yes
+TXN000129,303045,Machakos,Nyeri,11,Send Money,65,7,Yes,No,3,Yes,Yes
+TXN000130,399874,Meru,Kiambu,0,Paybill,36,19,Yes,No,8,Yes,Yes
+TXN000132,36532,Uasin Gishu,Uasin Gishu,14,Till,19,24,Yes,Yes,8,Yes,Yes
+TXN000136,4080,Machakos,Mombasa,0,Withdraw,27,10,Yes,Yes,4,No,Yes
+TXN000137,391700,Nyeri,Nyeri,21,Till,56,6,Yes,No,8,Yes,Yes
+TXN000140,436271,Nakuru,Uasin Gishu,18,Withdraw,89,30,No,Yes,6,Yes,Yes
+TXN000143,91013,Meru,Meru,14,Till,78,5,Yes,Yes,7,No,Yes
+TXN000146,338040,Kakamega,Meru,20,Paybill,111,28,Yes,No,7,Yes,Yes
+TXN000147,168622,Machakos,Mombasa,16,Paybill,78,16,Yes,Yes,7,Yes,Yes
+TXN000151,67657,Machakos,Kisumu,21,Send Money,77,23,Yes,No,8,No,Yes
+TXN000152,338753,Kisumu,Nakuru,10,Withdraw,86,14,No,Yes,5,No,Yes
+TXN000153,100716,Nyeri,Nyeri,23,Send Money,29,5,Yes,Yes,4,Yes,Yes
+TXN000155,22957,Nakuru,Nyeri,7,Till,53,12,Yes,No,4,No,Yes
+TXN000156,424001,Kiambu,Uasin Gishu,16,Withdraw,101,16,Yes,No,7,No,Yes
+TXN000158,149505,Uasin Gishu,Mombasa,7,Withdraw,11,25,Yes,No,7,Yes,Yes
+TXN000161,481029,Mombasa,Nairobi,8,Paybill,107,16,Yes,No,7,Yes,Yes
+TXN000162,437811,Kiambu,Mombasa,1,Paybill,20,18,No,Yes,4,Yes,Yes
+TXN000164,376774,Meru,Uasin Gishu,5,Send Money,19,10,No,Yes,5,Yes,Yes
+TXN000165,274506,Uasin Gishu,Machakos,8,Send Money,47,3,Yes,No,7,Yes,Yes
+TXN000168,105741,Nyeri,Uasin Gishu,17,Withdraw,6,26,Yes,Yes,5,No,Yes
+TXN000169,132859,Machakos,Kiambu,3,Till,5,25,Yes,No,5,Yes,Yes
+TXN000171,420082,Nyeri,Kiambu,10,Send Money,11,24,No,Yes,6,Yes,Yes
+TXN000175,497844,Kakamega,Mombasa,18,Paybill,73,2,Yes,No,5,No,Yes
+TXN000181,421400,Kakamega,Nyeri,13,Withdraw,71,5,Yes,Yes,4,No,Yes
+TXN000183,460353,Mombasa,Nyeri,4,Till,107,25,Yes,Yes,6,Yes,Yes
+TXN000184,86377,Mombasa,Kiambu,6,Till,21,11,Yes,No,8,No,Yes
+TXN000186,432711,Meru,Uasin Gishu,19,Send Money,111,1,Yes,Yes,4,Yes,Yes
+TXN000190,167358,Kisumu,Mombasa,1,Till,31,15,Yes,No,7,Yes,Yes
+TXN000195,210070,Mombasa,Uasin Gishu,16,Withdraw,7,19,Yes,No,8,No,Yes
+TXN000196,400817,Machakos,Machakos,17,Till,71,9,Yes,Yes,1,No,Yes
+TXN000198,78137,Uasin Gishu,Meru,23,Till,78,29,Yes,No,5,Yes,Yes
+TXN000200,218437,Nairobi,Meru,15,Paybill,75,10,Yes,No,4,Yes,Yes
+TXN000201,274898,Meru,Mombasa,6,Send Money,81,24,No,Yes,3,Yes,Yes
+TXN000202,231281,Nyeri,Meru,15,Send Money,41,14,Yes,No,3,No,Yes
+TXN000203,370079,Machakos,Kisumu,14,Till,18,17,Yes,No,7,No,Yes
+TXN000205,493659,Kakamega,Machakos,17,Till,39,25,No,Yes,7,No,Yes
+TXN000208,72020,Nakuru,Nairobi,3,Withdraw,14,20,Yes,Yes,0,Yes,Yes
+TXN000209,173218,Uasin Gishu,Kakamega,15,Paybill,92,16,Yes,Yes,0,Yes,Yes
+TXN000211,462600,Kiambu,Nairobi,0,Till,108,6,Yes,No,7,Yes,Yes
+TXN000213,101138,Kisumu,Nairobi,23,Till,104,4,No,Yes,7,No,Yes
+TXN000214,414639,Nyeri,Machakos,2,Withdraw,38,19,Yes,Yes,6,No,Yes
+TXN000215,350932,Nairobi,Kiambu,12,Paybill,13,6,Yes,No,5,Yes,Yes
+TXN000220,86314,Mombasa,Nyeri,14,Send Money,42,28,No,Yes,3,No,Yes
+TXN000222,428106,Machakos,Mombasa,17,Send Money,1,24,Yes,Yes,0,No,Yes
+TXN000223,490040,Kisumu,Kisumu,20,Withdraw,115,3,No,Yes,4,No,Yes
+TXN000225,62247,Nairobi,Kiambu,14,Withdraw,23,18,No,Yes,3,Yes,Yes
+TXN000226,278936,Kisumu,Kiambu,6,Send Money,49,27,Yes,Yes,7,No,Yes
+TXN000227,16941,Mombasa,Mombasa,19,Send Money,104,22,No,Yes,3,Yes,Yes
+TXN000228,234113,Kakamega,Nakuru,17,Paybill,77,22,Yes,Yes,0,No,Yes
+TXN000229,395565,Nakuru,Meru,10,Till,111,25,Yes,Yes,8,No,Yes
+TXN000230,124255,Kiambu,Nairobi,17,Paybill,39,29,Yes,Yes,6,No,Yes
+TXN000231,328250,Nyeri,Machakos,22,Withdraw,87,14,No,Yes,5,No,Yes
+TXN000232,214095,Nakuru,Nakuru,9,Paybill,20,10,No,Yes,8,No,Yes
+TXN000233,422508,Uasin Gishu,Nakuru,8,Paybill,60,30,Yes,No,6,Yes,Yes
+TXN000235,458078,Kiambu,Nairobi,6,Paybill,10,7,Yes,No,3,No,Yes
+TXN000236,388796,Nakuru,Nyeri,10,Till,16,24,No,Yes,3,No,Yes
+TXN000238,420957,Uasin Gishu,Nairobi,18,Paybill,93,16,No,Yes,5,No,Yes
+TXN000241,88793,Nyeri,Nairobi,2,Send Money,18,24,No,Yes,8,Yes,Yes
+TXN000242,400783,Nairobi,Nakuru,16,Withdraw,1,14,Yes,Yes,1,Yes,Yes
+TXN000247,289824,Uasin Gishu,Machakos,18,Send Money,61,2,Yes,Yes,1,No,Yes
+TXN000248,469178,Kiambu,Nairobi,2,Till,68,30,Yes,Yes,3,No,Yes
+TXN000249,471548,Nakuru,Meru,4,Withdraw,70,19,Yes,Yes,5,Yes,Yes
+TXN000250,487047,Uasin Gishu,Kisumu,22,Send Money,10,10,Yes,Yes,6,No,Yes
+TXN000251,262609,Mombasa,Machakos,19,Withdraw,96,12,Yes,Yes,6,Yes,Yes
+TXN000253,97430,Mombasa,Mombasa,8,Paybill,88,19,No,Yes,4,Yes,Yes
+TXN000254,199279,Mombasa,Mombasa,0,Till,92,26,Yes,No,5,No,Yes
+TXN000257,408559,Kisumu,Kiambu,9,Till,11,24,Yes,Yes,6,Yes,Yes
+TXN000258,258588,Kiambu,Kakamega,2,Till,19,3,Yes,No,4,No,Yes
+TXN000259,132013,Kisumu,Kiambu,0,Withdraw,32,24,No,Yes,7,Yes,Yes
+TXN000261,168170,Uasin Gishu,Machakos,9,Withdraw,78,23,Yes,No,5,Yes,Yes
+TXN000263,310547,Kiambu,Mombasa,13,Withdraw,70,6,Yes,No,3,No,Yes
+TXN000265,305313,Mombasa,Nakuru,21,Till,52,18,No,Yes,5,Yes,Yes
+TXN000266,87259,Mombasa,Nairobi,3,Till,83,20,Yes,No,5,No,Yes
+TXN000267,116442,Kakamega,Meru,22,Paybill,66,24,Yes,No,5,No,Yes
+TXN000268,180912,Mombasa,Kisumu,11,Till,4,16,Yes,No,6,Yes,Yes
+TXN000269,179915,Mombasa,Kakamega,23,Withdraw,59,26,Yes,No,5,No,Yes
+TXN000270,167250,Mombasa,Kisumu,23,Paybill,9,10,Yes,Yes,0,No,Yes
+TXN000271,270579,Kakamega,Nakuru,12,Paybill,23,18,Yes,No,8,No,Yes
+TXN000278,256763,Machakos,Nairobi,15,Paybill,37,5,Yes,No,7,Yes,Yes
+TXN000285,279118,Meru,Kiambu,16,Send Money,36,20,Yes,No,4,No,Yes
+TXN000286,71137,Kisumu,Nakuru,4,Till,97,26,No,Yes,4,Yes,Yes
+TXN000288,332253,Machakos,Kakamega,15,Till,102,29,Yes,No,8,No,Yes
+TXN000289,305162,Nyeri,Uasin Gishu,6,Withdraw,1,28,Yes,No,5,Yes,Yes
+TXN000291,413348,Nairobi,Mombasa,5,Withdraw,44,29,Yes,Yes,1,No,Yes
+TXN000292,239396,Kiambu,Mombasa,20,Till,1,14,Yes,Yes,4,Yes,Yes
+TXN000293,131326,Nakuru,Uasin Gishu,20,Send Money,11,12,Yes,Yes,6,No,Yes
+TXN000295,4919,Kakamega,Mombasa,7,Withdraw,2,23,No,Yes,6,Yes,Yes
+TXN000296,46885,Kiambu,Kisumu,12,Paybill,94,26,Yes,Yes,5,No,Yes
+TXN000297,336420,Machakos,Nakuru,20,Paybill,87,5,Yes,Yes,2,No,Yes
+TXN000299,184355,Nakuru,Nyeri,19,Till,55,11,Yes,Yes,4,Yes,Yes
+TXN000300,408454,Uasin Gishu,Kiambu,20,Send Money,89,1,No,Yes,8,Yes,Yes
+TXN000301,410987,Nakuru,Kakamega,20,Send Money,115,26,Yes,No,6,Yes,Yes
+TXN000303,399938,Kiambu,Nakuru,1,Send Money,61,25,Yes,Yes,1,Yes,Yes
+TXN000305,145523,Uasin Gishu,Meru,20,Send Money,11,10,Yes,Yes,2,No,Yes
+TXN000306,162668,Uasin Gishu,Mombasa,14,Send Money,90,14,Yes,Yes,3,Yes,Yes
+TXN000307,162207,Nairobi,Kisumu,15,Till,86,24,Yes,Yes,0,Yes,Yes
+TXN000308,274255,Kiambu,Mombasa,0,Till,67,26,No,Yes,5,Yes,Yes
+TXN000311,119799,Nairobi,Kakamega,11,Withdraw,95,17,Yes,Yes,0,Yes,Yes
+TXN000312,482513,Nakuru,Uasin Gishu,23,Till,20,6,Yes,No,3,No,Yes
+TXN000313,142267,Kisumu,Nakuru,16,Send Money,106,3,No,Yes,8,Yes,Yes
+TXN000315,193469,Meru,Kakamega,6,Paybill,26,10,No,Yes,7,No,Yes
+TXN000316,78990,Nairobi,Machakos,0,Withdraw,1,30,No,Yes,3,No,Yes
+TXN000317,445173,Uasin Gishu,Kakamega,1,Paybill,95,24,No,Yes,3,Yes,Yes
+TXN000318,373160,Machakos,Kakamega,23,Send Money,36,3,Yes,Yes,8,No,Yes
+TXN000321,71411,Kakamega,Kakamega,10,Withdraw,100,25,Yes,Yes,1,Yes,Yes
+TXN000322,63350,Kiambu,Mombasa,2,Paybill,69,12,Yes,No,4,No,Yes
+TXN000323,423463,Mombasa,Nakuru,11,Withdraw,88,10,Yes,Yes,5,Yes,Yes
+TXN000328,430849,Kisumu,Machakos,6,Paybill,93,13,No,Yes,6,No,Yes
+TXN000329,144219,Kakamega,Uasin Gishu,17,Withdraw,36,15,Yes,Yes,3,No,Yes
+TXN000332,203673,Kiambu,Nairobi,15,Till,35,6,Yes,No,3,Yes,Yes
+TXN000333,402096,Kiambu,Nyeri,23,Send Money,75,8,Yes,Yes,3,Yes,Yes
+TXN000335,479238,Nyeri,Kiambu,5,Withdraw,76,1,No,Yes,3,No,Yes
+TXN000338,406041,Meru,Mombasa,10,Till,15,28,No,Yes,5,No,Yes
+TXN000340,348980,Kisumu,Kisumu,23,Send Money,76,27,Yes,No,4,No,Yes
+TXN000342,491144,Machakos,Kisumu,20,Send Money,64,5,No,Yes,3,No,Yes
+TXN000344,183803,Kakamega,Uasin Gishu,5,Withdraw,33,26,Yes,Yes,0,No,Yes
+TXN000347,89234,Machakos,Meru,19,Withdraw,114,13,Yes,Yes,8,Yes,Yes
+TXN000354,44985,Uasin Gishu,Nyeri,13,Withdraw,86,12,No,Yes,8,Yes,Yes
+TXN000356,63112,Kisumu,Nairobi,13,Send Money,97,15,Yes,Yes,3,Yes,Yes
+TXN000357,358204,Mombasa,Uasin Gishu,17,Withdraw,56,7,Yes,No,5,Yes,Yes
+TXN000359,297108,Nyeri,Machakos,13,Till,76,19,Yes,Yes,1,No,Yes
+TXN000364,398243,Mombasa,Kiambu,22,Withdraw,67,28,No,Yes,8,Yes,Yes
+TXN000365,71169,Nairobi,Nakuru,1,Withdraw,100,28,Yes,Yes,3,Yes,Yes
+TXN000366,26557,Nyeri,Uasin Gishu,20,Send Money,118,12,Yes,No,5,No,Yes
+TXN000368,180535,Uasin Gishu,Nairobi,5,Paybill,21,27,No,Yes,4,Yes,Yes
+TXN000369,449423,Nyeri,Nairobi,21,Send Money,29,21,Yes,Yes,4,No,Yes
+TXN000370,248613,Meru,Kiambu,22,Till,117,5,Yes,Yes,3,No,Yes
+TXN000375,212176,Nyeri,Kakamega,21,Till,50,24,Yes,Yes,5,Yes,Yes
+TXN000376,266029,Kakamega,Kisumu,23,Till,39,28,Yes,Yes,4,Yes,Yes
+TXN000379,454289,Uasin Gishu,Nyeri,9,Withdraw,82,19,Yes,No,3,Yes,Yes
+TXN000380,28394,Uasin Gishu,Meru,14,Paybill,112,28,Yes,Yes,3,No,Yes
+TXN000381,165926,Kisumu,Machakos,20,Send Money,111,23,Yes,Yes,7,No,Yes
+TXN000384,498159,Nakuru,Nakuru,22,Till,2,29,No,Yes,0,Yes,Yes
+TXN000387,497119,Kisumu,Nakuru,23,Send Money,117,30,No,Yes,3,Yes,Yes
+TXN000389,311437,Uasin Gishu,Kakamega,12,Send Money,7,22,Yes,Yes,0,Yes,Yes
+TXN000390,286983,Uasin Gishu,Mombasa,21,Till,33,16,Yes,Yes,0,No,Yes
+TXN000392,104198,Kiambu,Kisumu,1,Withdraw,78,7,No,Yes,5,No,Yes
+TXN000394,78244,Kakamega,Kiambu,8,Withdraw,12,25,Yes,Yes,4,Yes,Yes
+TXN000395,26306,Machakos,Uasin Gishu,23,Send Money,13,27,Yes,Yes,4,No,Yes
+TXN000396,49856,Machakos,Machakos,14,Till,109,25,Yes,Yes,2,Yes,Yes
+TXN000400,253322,Mombasa,Kiambu,20,Till,118,16,Yes,No,7,Yes,Yes
+TXN000401,6530,Uasin Gishu,Nakuru,15,Till,91,28,Yes,No,8,Yes,Yes
+TXN000402,348025,Nairobi,Kisumu,16,Withdraw,87,21,No,Yes,8,Yes,Yes
+TXN000403,446675,Nakuru,Machakos,8,Send Money,64,28,Yes,Yes,7,No,Yes
+TXN000406,18836,Kakamega,Machakos,11,Send Money,72,18,Yes,Yes,4,Yes,Yes
+TXN000408,398152,Nyeri,Nyeri,11,Send Money,85,8,Yes,No,5,No,Yes
+TXN000410,63355,Machakos,Mombasa,13,Send Money,120,28,No,Yes,7,Yes,Yes
+TXN000411,485869,Kakamega,Nairobi,16,Send Money,82,27,Yes,No,7,Yes,Yes
+TXN000413,264348,Machakos,Kiambu,14,Paybill,113,13,No,Yes,4,No,Yes
+TXN000415,360032,Mombasa,Machakos,17,Withdraw,45,30,Yes,Yes,8,No,Yes
+TXN000417,76243,Kiambu,Kiambu,4,Send Money,7,22,Yes,Yes,4,Yes,Yes
+TXN000418,362120,Mombasa,Meru,21,Paybill,101,10,Yes,Yes,5,No,Yes
+TXN000419,389288,Nairobi,Uasin Gishu,12,Withdraw,83,18,No,Yes,8,No,Yes
+TXN000420,413247,Meru,Kakamega,7,Till,88,11,Yes,Yes,4,Yes,Yes
+TXN000421,395943,Kisumu,Mombasa,5,Paybill,76,18,Yes,Yes,4,No,Yes
+TXN000422,385443,Nyeri,Kiambu,4,Paybill,66,4,No,Yes,6,No,Yes
+TXN000423,306226,Nairobi,Kisumu,10,Send Money,109,9,Yes,No,7,Yes,Yes
+TXN000427,233707,Mombasa,Uasin Gishu,8,Till,31,29,Yes,Yes,5,No,Yes
+TXN000429,497186,Uasin Gishu,Mombasa,6,Withdraw,13,6,Yes,Yes,3,Yes,Yes
+TXN000430,339034,Nairobi,Mombasa,2,Send Money,105,3,Yes,Yes,7,No,Yes
+TXN000431,93369,Uasin Gishu,Kakamega,20,Withdraw,102,9,Yes,Yes,4,No,Yes
+TXN000432,227079,Meru,Mombasa,23,Send Money,41,1,No,Yes,8,Yes,Yes
+TXN000433,367514,Meru,Mombasa,9,Withdraw,109,3,No,Yes,4,No,Yes
+TXN000435,332472,Mombasa,Nairobi,0,Withdraw,19,10,No,Yes,8,Yes,Yes
+TXN000436,281672,Uasin Gishu,Nyeri,4,Paybill,71,3,No,Yes,5,Yes,Yes
+TXN000438,338045,Nakuru,Meru,15,Till,71,3,No,Yes,4,Yes,Yes
+TXN000439,187293,Nakuru,Machakos,15,Withdraw,17,22,Yes,Yes,4,Yes,Yes
+TXN000440,172197,Uasin Gishu,Kisumu,0,Till,79,22,No,Yes,5,No,Yes
+TXN000443,138060,Meru,Meru,12,Paybill,94,29,Yes,Yes,0,Yes,Yes
+TXN000445,70242,Nakuru,Meru,21,Paybill,60,17,Yes,No,5,Yes,Yes
+TXN000447,399280,Nairobi,Nakuru,16,Till,63,8,Yes,No,5,Yes,Yes
+TXN000449,437763,Meru,Mombasa,16,Till,95,9,Yes,No,6,No,Yes
+TXN000451,230683,Kisumu,Kisumu,11,Send Money,22,8,Yes,No,3,Yes,Yes
+TXN000452,346661,Kakamega,Nakuru,18,Paybill,30,14,No,Yes,7,No,Yes
+TXN000453,339400,Meru,Meru,5,Paybill,107,14,Yes,Yes,0,Yes,Yes
+TXN000454,330110,Kisumu,Nyeri,12,Send Money,66,2,Yes,Yes,2,No,Yes
+TXN000455,460641,Meru,Kakamega,15,Paybill,93,24,No,Yes,3,No,Yes
+TXN000456,115059,Kisumu,Machakos,14,Send Money,107,14,Yes,Yes,8,No,Yes
+TXN000457,120538,Nyeri,Nyeri,21,Withdraw,49,13,Yes,Yes,0,Yes,Yes
+TXN000458,433381,Nyeri,Nyeri,3,Send Money,20,20,Yes,Yes,7,Yes,Yes
+TXN000459,252883,Machakos,Nairobi,22,Withdraw,85,5,Yes,No,8,No,Yes
+TXN000462,272554,Mombasa,Kisumu,13,Till,1,13,Yes,No,6,No,Yes
+TXN000465,392120,Machakos,Nyeri,19,Send Money,30,15,Yes,Yes,3,No,Yes
+TXN000466,84323,Meru,Uasin Gishu,2,Send Money,50,21,Yes,Yes,2,No,Yes
+TXN000467,137985,Meru,Nyeri,9,Send Money,29,12,Yes,Yes,6,No,Yes
+TXN000468,495877,Nakuru,Nyeri,9,Paybill,100,27,Yes,No,7,Yes,Yes
+TXN000469,17670,Nakuru,Nairobi,5,Send Money,101,20,Yes,Yes,0,No,Yes
+TXN000473,263855,Kakamega,Uasin Gishu,18,Withdraw,38,11,Yes,No,8,No,Yes
+TXN000475,200680,Machakos,Nyeri,17,Send Money,82,26,Yes,Yes,5,No,Yes
+TXN000478,457618,Kisumu,Mombasa,3,Send Money,34,7,Yes,Yes,3,No,Yes
+TXN000479,354370,Meru,Machakos,15,Till,85,16,Yes,Yes,7,No,Yes
+TXN000482,361394,Machakos,Meru,8,Paybill,2,1,Yes,No,1,No,Yes
+TXN000485,301983,Uasin Gishu,Nakuru,4,Paybill,88,8,Yes,No,3,No,Yes
+TXN000486,248031,Nyeri,Nyeri,23,Till,104,1,Yes,No,7,Yes,Yes
+TXN000487,411790,Kisumu,Nairobi,6,Till,63,10,No,Yes,6,Yes,Yes
+TXN000488,249893,Machakos,Machakos,17,Till,108,21,Yes,No,5,No,Yes
+TXN000489,180478,Kiambu,Machakos,10,Withdraw,3,14,Yes,No,3,Yes,Yes
+TXN000490,406239,Kisumu,Kisumu,20,Till,95,15,Yes,No,4,No,Yes
+TXN000493,217099,Mombasa,Nakuru,5,Withdraw,22,6,Yes,Yes,3,No,Yes
+TXN000496,68877,Machakos,Kakamega,14,Till,68,27,Yes,Yes,0,No,Yes
+TXN000497,287645,Machakos,Kakamega,17,Paybill,57,5,Yes,No,6,No,Yes
+TXN000499,274418,Nyeri,Nairobi,22,Withdraw,105,25,Yes,No,4,No,Yes
+TXN000500,496528,Meru,Nakuru,0,Till,97,16,No,Yes,6,No,Yes
+TXN000502,41578,Uasin Gishu,Nakuru,2,Paybill,55,21,Yes,No,4,No,Yes
+TXN000504,26071,Kisumu,Kakamega,23,Send Money,69,1,Yes,Yes,4,No,Yes
+TXN000505,122109,Uasin Gishu,Kiambu,15,Till,12,5,Yes,No,3,No,Yes
+TXN000507,284839,Mombasa,Nakuru,12,Withdraw,61,6,Yes,No,6,Yes,Yes
+TXN000509,490896,Kiambu,Nakuru,11,Send Money,42,6,Yes,Yes,4,No,Yes
+TXN000510,452855,Nairobi,Kisumu,8,Send Money,86,7,Yes,Yes,6,No,Yes
+TXN000511,207567,Machakos,Mombasa,7,Paybill,102,8,Yes,Yes,7,Yes,Yes
+TXN000517,406906,Nakuru,Nyeri,21,Withdraw,80,8,No,Yes,8,No,Yes
+TXN000519,23001,Kakamega,Nakuru,3,Send Money,107,5,Yes,Yes,3,Yes,Yes
+TXN000522,431028,Mombasa,Kiambu,2,Paybill,48,26,Yes,No,8,Yes,Yes
+TXN000523,272409,Nyeri,Nakuru,18,Paybill,13,4,Yes,No,3,Yes,Yes
+TXN000524,292824,Uasin Gishu,Mombasa,5,Paybill,96,18,No,Yes,5,No,Yes
+TXN000525,288390,Machakos,Machakos,17,Till,52,17,No,Yes,8,No,Yes
+TXN000528,466836,Nairobi,Kiambu,17,Paybill,39,1,No,Yes,3,No,Yes
+TXN000530,134395,Machakos,Kakamega,5,Withdraw,104,10,Yes,No,3,Yes,Yes
+TXN000532,461314,Uasin Gishu,Nairobi,9,Send Money,105,14,No,Yes,3,Yes,Yes
+TXN000533,167463,Kisumu,Nairobi,21,Withdraw,70,19,Yes,No,8,Yes,Yes
+TXN000534,233681,Uasin Gishu,Kisumu,4,Till,97,20,Yes,Yes,6,No,Yes
+TXN000535,43327,Uasin Gishu,Nyeri,13,Paybill,61,19,Yes,No,4,Yes,Yes
+TXN000536,399574,Nyeri,Meru,23,Paybill,18,16,Yes,No,6,Yes,Yes
+TXN000539,230979,Mombasa,Mombasa,23,Send Money,6,30,Yes,Yes,5,Yes,Yes
+TXN000541,11976,Nyeri,Kakamega,19,Paybill,43,7,Yes,Yes,8,No,Yes
+TXN000542,364467,Kiambu,Kisumu,1,Till,90,22,Yes,No,8,Yes,Yes
+TXN000543,105272,Mombasa,Uasin Gishu,21,Till,102,23,No,Yes,7,Yes,Yes
+TXN000545,473939,Nyeri,Nairobi,1,Paybill,41,16,Yes,Yes,3,No,Yes
+TXN000549,218852,Kakamega,Nyeri,4,Paybill,31,19,Yes,No,4,No,Yes
+TXN000550,342133,Uasin Gishu,Kisumu,20,Paybill,18,19,Yes,Yes,4,Yes,Yes
+TXN000551,166509,Nairobi,Machakos,13,Withdraw,9,18,Yes,Yes,5,Yes,Yes
+TXN000552,159091,Kisumu,Kisumu,0,Till,57,24,No,Yes,3,Yes,Yes
+TXN000553,317561,Machakos,Mombasa,22,Withdraw,73,20,Yes,Yes,3,Yes,Yes
+TXN000555,101373,Nakuru,Nakuru,6,Send Money,29,2,No,Yes,4,No,Yes
+TXN000557,377642,Nairobi,Nakuru,16,Withdraw,41,13,Yes,Yes,7,No,Yes
+TXN000558,385490,Kakamega,Uasin Gishu,9,Till,6,18,No,Yes,3,No,Yes
+TXN000559,241928,Kakamega,Kakamega,2,Send Money,22,14,No,Yes,8,Yes,Yes
+TXN000560,94301,Kakamega,Nairobi,5,Withdraw,100,19,Yes,No,6,No,Yes
+TXN000565,6450,Nakuru,Meru,21,Withdraw,59,16,No,Yes,7,Yes,Yes
+TXN000566,237939,Meru,Nyeri,6,Send Money,53,15,Yes,Yes,3,No,Yes
+TXN000570,397692,Mombasa,Kiambu,10,Withdraw,55,27,Yes,No,7,Yes,Yes
+TXN000571,275115,Kakamega,Meru,22,Till,27,23,Yes,Yes,1,Yes,Yes
+TXN000574,12625,Nairobi,Machakos,11,Paybill,60,21,Yes,Yes,6,No,Yes
+TXN000576,402195,Kisumu,Nakuru,10,Till,1,4,No,No,6,Yes,Yes
+TXN000578,242517,Meru,Machakos,17,Send Money,101,27,No,Yes,8,No,Yes
+TXN000581,142392,Kiambu,Nakuru,16,Till,53,3,No,Yes,5,No,Yes
+TXN000582,91807,Nyeri,Nairobi,15,Paybill,15,12,Yes,Yes,1,No,Yes
+TXN000585,174789,Nairobi,Meru,9,Paybill,60,29,Yes,Yes,8,No,Yes
+TXN000587,82623,Nyeri,Machakos,8,Paybill,36,4,Yes,Yes,3,No,Yes
+TXN000591,297735,Kakamega,Kakamega,7,Paybill,17,3,No,Yes,7,No,Yes
+TXN000593,15917,Kisumu,Kiambu,11,Paybill,9,16,Yes,No,7,No,Yes
+TXN000594,266361,Kiambu,Nyeri,14,Withdraw,14,13,Yes,No,8,Yes,Yes
+TXN000595,309660,Mombasa,Machakos,6,Withdraw,53,8,Yes,Yes,7,No,Yes
+TXN000597,170641,Mombasa,Meru,3,Withdraw,72,4,No,Yes,4,No,Yes
+TXN000598,171706,Meru,Nairobi,4,Paybill,64,21,Yes,Yes,3,Yes,Yes
+TXN000605,451017,Nyeri,Kakamega,12,Till,59,29,No,Yes,7,No,Yes
+TXN000606,118403,Uasin Gishu,Nyeri,18,Till,24,14,Yes,No,3,No,Yes
+TXN000608,243810,Nyeri,Meru,9,Send Money,67,3,Yes,Yes,7,Yes,Yes
+TXN000609,473788,Meru,Machakos,13,Till,44,18,Yes,No,7,No,Yes
+TXN000610,418548,Nairobi,Kakamega,18,Paybill,38,10,Yes,Yes,4,No,Yes
+TXN000611,300393,Mombasa,Kisumu,16,Send Money,7,22,No,Yes,4,No,Yes
+TXN000612,446452,Kiambu,Nairobi,23,Send Money,101,9,No,Yes,4,No,Yes
+TXN000613,316626,Kiambu,Nakuru,15,Paybill,23,30,Yes,No,5,Yes,Yes
+TXN000615,403944,Nairobi,Kiambu,3,Send Money,50,8,No,Yes,3,No,Yes
+TXN000617,76150,Uasin Gishu,Machakos,16,Send Money,68,28,No,Yes,4,No,Yes
+TXN000619,343114,Kisumu,Machakos,17,Send Money,75,13,No,Yes,3,No,Yes
+TXN000620,352791,Nyeri,Mombasa,21,Withdraw,2,27,Yes,Yes,6,Yes,Yes
+TXN000622,492097,Meru,Kisumu,12,Paybill,77,22,Yes,Yes,1,Yes,Yes
+TXN000623,469812,Mombasa,Kakamega,8,Withdraw,15,23,Yes,No,4,No,Yes
+TXN000625,174456,Kakamega,Nakuru,19,Withdraw,8,9,No,Yes,7,Yes,Yes
+TXN000626,93605,Nakuru,Meru,20,Send Money,83,16,Yes,Yes,8,No,Yes
+TXN000629,474330,Uasin Gishu,Mombasa,17,Paybill,51,19,Yes,No,7,No,Yes
+TXN000630,1784,Machakos,Kiambu,12,Send Money,50,23,No,Yes,8,No,Yes
+TXN000633,385571,Kakamega,Uasin Gishu,2,Till,25,5,Yes,Yes,0,Yes,Yes
+TXN000635,212652,Nairobi,Kisumu,15,Send Money,16,7,No,Yes,3,Yes,Yes
+TXN000636,247104,Kisumu,Nairobi,9,Send Money,117,30,Yes,Yes,2,Yes,Yes
+TXN000637,239222,Meru,Meru,7,Send Money,79,6,Yes,Yes,1,No,Yes
+TXN000639,438578,Mombasa,Kiambu,4,Withdraw,102,7,Yes,Yes,5,Yes,Yes
+TXN000640,88157,Kisumu,Mombasa,20,Withdraw,90,12,Yes,No,3,Yes,Yes
+TXN000642,218270,Kiambu,Nyeri,14,Withdraw,89,26,No,Yes,3,Yes,Yes
+TXN000643,125487,Kiambu,Machakos,13,Send Money,23,20,Yes,Yes,7,Yes,Yes
+TXN000644,292450,Kakamega,Nakuru,8,Send Money,31,7,Yes,Yes,5,Yes,Yes
+TXN000645,101614,Kisumu,Nairobi,1,Till,15,26,Yes,No,7,Yes,Yes
+TXN000649,456120,Nairobi,Uasin Gishu,4,Paybill,26,13,Yes,Yes,7,No,Yes
+TXN000650,486530,Kakamega,Nakuru,20,Till,79,15,Yes,No,5,Yes,Yes
+TXN000651,141447,Kisumu,Mombasa,14,Withdraw,26,11,Yes,Yes,0,No,Yes
+TXN000652,219319,Meru,Kisumu,18,Paybill,22,25,No,Yes,4,Yes,Yes
+TXN000653,45387,Kiambu,Nairobi,23,Withdraw,53,28,No,Yes,7,No,Yes
+TXN000654,386019,Meru,Kisumu,18,Send Money,112,8,Yes,No,6,Yes,Yes
+TXN000655,219082,Kakamega,Mombasa,14,Withdraw,6,2,No,Yes,6,No,Yes
+TXN000656,126147,Machakos,Kiambu,7,Send Money,11,18,Yes,No,3,Yes,Yes
+TXN000657,8401,Kakamega,Kakamega,4,Withdraw,62,22,No,Yes,7,Yes,Yes
+TXN000661,294048,Nyeri,Mombasa,20,Withdraw,91,25,Yes,Yes,5,Yes,Yes
+TXN000662,386649,Kiambu,Nyeri,21,Withdraw,97,19,Yes,Yes,5,No,Yes
+TXN000666,260269,Nyeri,Kisumu,15,Till,20,28,Yes,Yes,4,No,Yes
+TXN000667,220319,Nairobi,Nakuru,16,Till,57,24,Yes,No,3,Yes,Yes
+TXN000669,471008,Machakos,Kiambu,1,Paybill,102,10,Yes,No,3,No,Yes
+TXN000670,185187,Kisumu,Kisumu,22,Paybill,37,15,Yes,Yes,8,No,Yes
+TXN000676,48536,Nairobi,Mombasa,17,Withdraw,42,2,Yes,Yes,4,Yes,Yes
+TXN000677,355026,Meru,Meru,16,Send Money,86,3,No,Yes,7,No,Yes
+TXN000678,476337,Uasin Gishu,Machakos,0,Till,86,12,No,Yes,6,No,Yes
+TXN000679,180887,Uasin Gishu,Kakamega,9,Paybill,45,10,No,Yes,3,No,Yes
+TXN000682,291456,Kiambu,Nyeri,15,Send Money,60,23,Yes,Yes,2,No,Yes
+TXN000684,137768,Kisumu,Kakamega,22,Paybill,39,21,No,Yes,4,No,Yes
+TXN000686,455313,Kiambu,Kisumu,18,Send Money,34,21,No,Yes,5,Yes,Yes
+TXN000691,81081,Mombasa,Mombasa,4,Send Money,65,8,Yes,Yes,6,No,Yes
+TXN000692,251455,Kisumu,Kiambu,0,Send Money,45,10,No,Yes,7,No,Yes
+TXN000693,116629,Nakuru,Kisumu,2,Withdraw,17,28,Yes,Yes,4,Yes,Yes
+TXN000694,362237,Uasin Gishu,Nairobi,6,Send Money,98,26,Yes,Yes,0,No,Yes
+TXN000696,395651,Machakos,Nairobi,2,Paybill,13,26,Yes,Yes,3,Yes,Yes
+TXN000698,429749,Kisumu,Nyeri,0,Send Money,75,25,Yes,Yes,3,No,Yes
+TXN000704,274075,Uasin Gishu,Meru,3,Paybill,85,22,Yes,Yes,2,No,Yes
+TXN000707,77316,Kakamega,Nakuru,20,Paybill,99,15,Yes,Yes,4,No,Yes
+TXN000708,15633,Kisumu,Uasin Gishu,19,Till,13,24,Yes,Yes,7,Yes,Yes
+TXN000709,80127,Kakamega,Nakuru,9,Withdraw,39,20,Yes,Yes,8,No,Yes
+TXN000713,249564,Kakamega,Meru,12,Till,72,28,Yes,Yes,6,No,Yes
+TXN000714,401901,Machakos,Machakos,23,Send Money,37,11,Yes,Yes,0,Yes,Yes
+TXN000716,29645,Mombasa,Kiambu,3,Till,85,8,Yes,Yes,4,Yes,Yes
+TXN000717,89063,Meru,Nyeri,13,Till,3,18,No,Yes,7,No,Yes
+TXN000718,10746,Machakos,Meru,3,Withdraw,90,16,Yes,No,6,No,Yes
+TXN000719,52508,Kisumu,Meru,9,Till,89,22,Yes,No,7,No,Yes
+TXN000720,228634,Nairobi,Kiambu,18,Withdraw,26,16,Yes,Yes,4,No,Yes
+TXN000721,421893,Mombasa,Meru,16,Withdraw,29,20,Yes,Yes,5,No,Yes
+TXN000722,223976,Uasin Gishu,Nyeri,10,Paybill,27,12,Yes,No,8,No,Yes
+TXN000724,140525,Machakos,Kakamega,4,Paybill,120,21,No,Yes,8,Yes,Yes
+TXN000726,431911,Nakuru,Mombasa,4,Paybill,37,21,Yes,No,3,No,Yes
+TXN000730,123803,Nakuru,Meru,3,Till,15,19,Yes,No,7,Yes,Yes
+TXN000731,172690,Kisumu,Mombasa,5,Paybill,107,19,No,Yes,6,Yes,Yes
+TXN000732,143991,Mombasa,Machakos,17,Withdraw,57,14,No,Yes,7,No,Yes
+TXN000733,249010,Machakos,Kiambu,0,Send Money,88,8,No,Yes,5,No,Yes
+TXN000734,441224,Kiambu,Machakos,21,Send Money,95,22,Yes,Yes,4,No,Yes
+TXN000736,155985,Nairobi,Kiambu,2,Withdraw,27,28,Yes,No,5,No,Yes
+TXN000741,419233,Uasin Gishu,Uasin Gishu,18,Paybill,37,7,Yes,No,5,Yes,Yes
+TXN000742,10920,Kiambu,Kisumu,1,Withdraw,3,30,Yes,Yes,7,Yes,Yes
+TXN000745,391401,Kiambu,Nakuru,13,Paybill,64,13,Yes,No,3,Yes,Yes
+TXN000746,214234,Meru,Kakamega,7,Till,102,5,Yes,No,4,Yes,Yes
+TXN000750,158650,Meru,Kisumu,8,Paybill,51,22,No,Yes,8,Yes,Yes
+TXN000752,136577,Machakos,Uasin Gishu,9,Till,15,11,Yes,Yes,7,No,Yes
+TXN000755,228864,Nyeri,Kakamega,14,Withdraw,15,29,No,Yes,7,No,Yes
+TXN000756,59027,Nakuru,Kiambu,5,Paybill,109,24,Yes,Yes,5,Yes,Yes
+TXN000758,354945,Uasin Gishu,Machakos,18,Send Money,13,29,No,Yes,4,Yes,Yes
+TXN000759,438867,Kakamega,Kiambu,19,Send Money,42,5,Yes,Yes,7,No,Yes
+TXN000761,390015,Kisumu,Nakuru,12,Send Money,10,18,No,Yes,6,No,Yes
+TXN000763,420057,Machakos,Nyeri,6,Withdraw,56,24,No,Yes,5,Yes,Yes
+TXN000765,227646,Kakamega,Nakuru,20,Paybill,81,14,Yes,Yes,8,No,Yes
+TXN000766,487987,Mombasa,Kakamega,9,Paybill,64,17,Yes,No,7,No,Yes
+TXN000767,67048,Kiambu,Meru,1,Send Money,88,29,No,Yes,8,No,Yes
+TXN000768,480980,Kakamega,Meru,8,Till,6,17,Yes,No,6,Yes,Yes
+TXN000769,133670,Kisumu,Uasin Gishu,1,Send Money,75,3,Yes,Yes,7,Yes,Yes
+TXN000771,110710,Nairobi,Uasin Gishu,3,Send Money,24,3,No,Yes,6,Yes,Yes
+TXN000773,421913,Mombasa,Nairobi,22,Paybill,39,3,Yes,Yes,0,Yes,Yes
+TXN000774,450419,Nyeri,Nakuru,2,Till,4,7,No,Yes,3,No,Yes
+TXN000776,254354,Meru,Uasin Gishu,1,Till,61,1,No,Yes,3,No,Yes
+TXN000781,483304,Uasin Gishu,Machakos,15,Paybill,78,28,No,Yes,4,No,Yes
+TXN000784,461898,Mombasa,Machakos,13,Send Money,34,12,Yes,Yes,8,Yes,Yes
+TXN000785,323830,Machakos,Nairobi,17,Till,30,4,Yes,No,4,No,Yes
+TXN000786,469978,Mombasa,Mombasa,19,Send Money,20,28,Yes,Yes,7,No,Yes
+TXN000787,431858,Machakos,Kisumu,23,Till,72,2,Yes,Yes,1,Yes,Yes
+TXN000789,230269,Kiambu,Nyeri,5,Send Money,54,25,Yes,Yes,7,No,Yes
+TXN000792,376292,Uasin Gishu,Kisumu,13,Send Money,104,17,Yes,Yes,5,No,Yes
+TXN000793,206234,Uasin Gishu,Uasin Gishu,21,Till,98,2,Yes,Yes,8,No,Yes
+TXN000794,378350,Uasin Gishu,Kakamega,20,Paybill,96,11,No,Yes,4,Yes,Yes
+TXN000796,204518,Nyeri,Nyeri,9,Till,93,24,Yes,No,3,Yes,Yes
+TXN000797,396960,Nakuru,Kiambu,23,Withdraw,82,6,Yes,Yes,8,No,Yes
+TXN000798,264959,Mombasa,Nairobi,20,Send Money,15,24,Yes,No,4,No,Yes
+TXN000799,235317,Meru,Meru,22,Paybill,39,19,Yes,No,5,Yes,Yes
+TXN000800,183727,Mombasa,Machakos,16,Paybill,39,10,Yes,No,8,Yes,Yes
+TXN000802,222813,Machakos,Nyeri,12,Withdraw,114,5,No,Yes,7,Yes,Yes
+TXN000804,254206,Kakamega,Nairobi,23,Paybill,92,15,Yes,Yes,3,No,Yes
+TXN000807,74572,Nakuru,Kisumu,23,Withdraw,101,19,No,Yes,4,No,Yes
+TXN000810,78159,Nakuru,Uasin Gishu,10,Send Money,111,24,No,Yes,6,No,Yes
+TXN000812,337646,Kakamega,Nyeri,0,Send Money,72,3,Yes,Yes,8,Yes,Yes
+TXN000813,345164,Nakuru,Meru,14,Send Money,120,18,Yes,Yes,4,Yes,Yes
+TXN000817,95186,Machakos,Kisumu,13,Till,4,23,Yes,No,6,Yes,Yes
+TXN000818,135281,Meru,Meru,7,Withdraw,49,27,Yes,Yes,3,Yes,Yes
+TXN000819,266714,Machakos,Kakamega,17,Withdraw,97,17,No,Yes,4,Yes,Yes
+TXN000821,129190,Mombasa,Nyeri,6,Paybill,98,18,Yes,No,6,No,Yes
+TXN000822,195769,Nairobi,Nairobi,14,Till,70,6,Yes,No,8,No,Yes
+TXN000823,342440,Uasin Gishu,Machakos,20,Paybill,22,1,Yes,No,4,No,Yes
+TXN000828,399801,Kakamega,Mombasa,11,Withdraw,51,18,Yes,Yes,8,Yes,Yes
+TXN000830,4959,Mombasa,Meru,20,Till,29,24,Yes,No,5,Yes,Yes
+TXN000831,423892,Kiambu,Kakamega,22,Paybill,92,8,Yes,No,5,Yes,Yes
+TXN000832,3791,Kisumu,Nyeri,6,Paybill,26,27,No,Yes,4,No,Yes
+TXN000833,34317,Nyeri,Kiambu,6,Send Money,76,5,Yes,Yes,4,Yes,Yes
+TXN000836,279186,Mombasa,Meru,0,Paybill,58,11,Yes,No,3,No,Yes
+TXN000837,361572,Kiambu,Mombasa,20,Send Money,55,3,Yes,Yes,2,No,Yes
+TXN000838,14663,Mombasa,Kakamega,7,Till,62,14,Yes,No,4,Yes,Yes
+TXN000840,44894,Kisumu,Nairobi,14,Send Money,8,30,Yes,No,5,Yes,Yes
+TXN000843,178106,Meru,Nakuru,3,Send Money,84,22,Yes,No,8,No,Yes
+TXN000844,6492,Machakos,Uasin Gishu,15,Withdraw,77,23,Yes,Yes,2,No,Yes
+TXN000846,163202,Meru,Machakos,9,Till,75,29,Yes,Yes,7,No,Yes
+TXN000847,4287,Uasin Gishu,Machakos,6,Paybill,67,19,Yes,Yes,3,Yes,Yes
+TXN000848,335885,Kakamega,Meru,22,Till,117,7,Yes,No,3,No,Yes
+TXN000850,260060,Meru,Nakuru,7,Withdraw,29,30,Yes,Yes,3,No,Yes
+TXN000852,38706,Nakuru,Meru,11,Send Money,46,1,Yes,Yes,4,No,Yes
+TXN000856,460578,Nakuru,Nyeri,12,Till,92,3,Yes,Yes,2,Yes,Yes
+TXN000857,166748,Kisumu,Machakos,7,Send Money,77,14,Yes,Yes,3,No,Yes
+TXN000858,330067,Kakamega,Meru,2,Paybill,102,9,Yes,No,3,Yes,Yes
+TXN000861,469227,Uasin Gishu,Uasin Gishu,18,Paybill,26,15,Yes,No,3,No,Yes
+TXN000865,188318,Mombasa,Mombasa,2,Till,116,3,No,Yes,4,Yes,Yes
+TXN000867,448315,Machakos,Uasin Gishu,12,Send Money,97,23,No,Yes,4,No,Yes
+TXN000868,247516,Nakuru,Kakamega,7,Withdraw,84,17,Yes,No,3,Yes,Yes
+TXN000869,378853,Uasin Gishu,Uasin Gishu,6,Withdraw,105,15,No,Yes,5,Yes,Yes
+TXN000877,203994,Uasin Gishu,Kakamega,5,Till,116,28,Yes,Yes,3,No,Yes
+TXN000882,125719,Mombasa,Nakuru,15,Withdraw,114,28,Yes,No,8,No,Yes
+TXN000885,448721,Kisumu,Machakos,21,Withdraw,25,13,Yes,Yes,4,Yes,Yes
+TXN000886,254203,Kakamega,Kiambu,5,Paybill,60,3,Yes,Yes,7,Yes,Yes
+TXN000887,439663,Nyeri,Uasin Gishu,5,Send Money,3,20,Yes,Yes,4,Yes,Yes
+TXN000888,352052,Kisumu,Nakuru,22,Send Money,98,1,No,Yes,7,No,Yes
+TXN000890,313681,Nakuru,Nakuru,2,Send Money,1,2,No,Yes,3,No,Yes
+TXN000892,23125,Meru,Nakuru,17,Withdraw,54,17,Yes,No,5,Yes,Yes
+TXN000893,492316,Machakos,Kisumu,0,Withdraw,55,4,Yes,Yes,1,No,Yes
+TXN000894,342930,Mombasa,Kiambu,20,Till,41,1,No,Yes,7,Yes,Yes
+TXN000895,23086,Mombasa,Nyeri,18,Paybill,9,29,Yes,No,4,No,Yes
+TXN000898,122002,Nakuru,Meru,2,Send Money,3,20,Yes,No,3,No,Yes
+TXN000900,387632,Nyeri,Uasin Gishu,20,Till,113,11,Yes,No,5,Yes,Yes
+TXN000902,420241,Kisumu,Kakamega,20,Send Money,88,23,Yes,No,8,No,Yes
+TXN000903,33927,Nakuru,Kisumu,2,Paybill,112,16,Yes,Yes,0,Yes,Yes
+TXN000904,310759,Uasin Gishu,Kakamega,9,Paybill,71,27,Yes,Yes,8,Yes,Yes
+TXN000905,378414,Kiambu,Meru,14,Paybill,26,8,No,Yes,3,No,Yes
+TXN000906,142583,Uasin Gishu,Kisumu,15,Withdraw,111,26,No,Yes,5,No,Yes
+TXN000907,221665,Uasin Gishu,Uasin Gishu,2,Till,65,20,No,Yes,7,Yes,Yes
+TXN000908,312097,Kiambu,Kakamega,9,Withdraw,69,5,Yes,No,6,No,Yes
+TXN000914,133370,Uasin Gishu,Uasin Gishu,22,Send Money,32,20,Yes,Yes,1,Yes,Yes
+TXN000915,271912,Kiambu,Nyeri,17,Withdraw,117,7,No,Yes,6,No,Yes
+TXN000919,103869,Nakuru,Nairobi,23,Paybill,63,6,Yes,No,3,Yes,Yes
+TXN000924,348742,Nairobi,Kakamega,22,Withdraw,52,13,Yes,No,5,Yes,Yes
+TXN000925,380274,Nakuru,Machakos,14,Withdraw,107,29,Yes,Yes,1,No,Yes
+TXN000926,270013,Machakos,Nairobi,23,Till,53,22,Yes,Yes,5,Yes,Yes
+TXN000928,385023,Kisumu,Kakamega,2,Till,50,10,Yes,Yes,8,Yes,Yes
+TXN000929,436443,Kakamega,Nyeri,7,Paybill,87,18,No,Yes,7,Yes,Yes
+TXN000930,111010,Kisumu,Machakos,12,Till,22,25,Yes,Yes,6,Yes,Yes
+TXN000933,58446,Machakos,Uasin Gishu,18,Send Money,12,11,Yes,Yes,5,Yes,Yes
+TXN000934,162998,Machakos,Kisumu,16,Paybill,8,19,Yes,No,6,No,Yes
+TXN000936,77343,Nyeri,Mombasa,8,Withdraw,77,10,Yes,Yes,5,No,Yes
+TXN000938,444682,Uasin Gishu,Kiambu,21,Paybill,94,30,Yes,Yes,2,No,Yes
+TXN000941,239928,Kisumu,Nakuru,6,Paybill,84,6,Yes,No,7,No,Yes
+TXN000943,186478,Meru,Uasin Gishu,4,Withdraw,61,6,Yes,Yes,8,No,Yes
+TXN000944,128501,Meru,Kisumu,20,Withdraw,5,4,Yes,No,7,No,Yes
+TXN000945,406818,Kakamega,Machakos,0,Send Money,89,26,Yes,No,6,No,Yes
+TXN000948,212559,Mombasa,Nyeri,18,Send Money,105,23,Yes,No,8,No,Yes
+TXN000949,395105,Nyeri,Kakamega,10,Send Money,97,7,Yes,Yes,2,Yes,Yes
+TXN000950,20572,Nairobi,Mombasa,3,Till,17,19,Yes,Yes,1,No,Yes
+TXN000951,190659,Nairobi,Nyeri,9,Withdraw,70,6,No,Yes,3,No,Yes
+TXN000953,98654,Meru,Machakos,8,Paybill,19,10,Yes,Yes,8,Yes,Yes
+TXN000954,382310,Kisumu,Uasin Gishu,14,Send Money,80,14,Yes,No,4,No,Yes
+TXN000955,495366,Mombasa,Kiambu,20,Paybill,33,22,No,Yes,8,Yes,Yes
+TXN000959,410427,Nyeri,Machakos,22,Till,119,4,Yes,No,7,Yes,Yes
+TXN000960,289216,Uasin Gishu,Kisumu,11,Withdraw,35,20,Yes,Yes,2,No,Yes
+TXN000961,250062,Kisumu,Kisumu,12,Till,76,5,No,Yes,8,Yes,Yes
+TXN000962,27766,Kisumu,Kakamega,11,Withdraw,118,24,No,Yes,6,No,Yes
+TXN000963,263362,Kiambu,Uasin Gishu,10,Send Money,37,9,No,Yes,4,Yes,Yes
+TXN000964,332803,Mombasa,Kiambu,17,Withdraw,11,3,Yes,Yes,2,Yes,Yes
+TXN000965,423856,Nyeri,Nyeri,22,Send Money,112,1,No,Yes,7,No,Yes
+TXN000966,212633,Nakuru,Nyeri,21,Send Money,2,20,Yes,Yes,6,No,Yes
+TXN000967,318488,Kisumu,Nyeri,11,Send Money,58,6,Yes,Yes,1,No,Yes
+TXN000970,490476,Meru,Kakamega,10,Till,60,29,No,Yes,5,Yes,Yes
+TXN000971,185591,Nairobi,Mombasa,13,Withdraw,14,1,No,Yes,6,No,Yes
+TXN000975,58070,Machakos,Nairobi,5,Paybill,25,10,Yes,Yes,6,No,Yes
+TXN000976,497272,Nyeri,Kakamega,21,Paybill,62,22,No,Yes,6,No,Yes
+TXN000978,180468,Meru,Nairobi,13,Withdraw,65,1,Yes,Yes,5,No,Yes
+TXN000979,151813,Nyeri,Kisumu,7,Till,37,16,Yes,No,3,Yes,Yes
+TXN000980,402036,Kakamega,Mombasa,22,Paybill,15,28,No,Yes,6,Yes,Yes
+TXN000981,98966,Uasin Gishu,Nairobi,8,Paybill,110,19,Yes,Yes,1,Yes,Yes
+TXN000982,487165,Uasin Gishu,Uasin Gishu,16,Till,19,14,Yes,Yes,1,Yes,Yes
+TXN000983,367134,Nairobi,Nyeri,13,Send Money,82,8,Yes,No,6,No,Yes
+TXN000985,21487,Kiambu,Meru,3,Withdraw,1,2,No,Yes,4,No,Yes
+TXN000988,465195,Kakamega,Mombasa,2,Till,14,5,Yes,Yes,3,Yes,Yes
+TXN000989,158110,Nakuru,Uasin Gishu,17,Till,93,16,Yes,Yes,0,Yes,Yes
+TXN000991,274652,Kiambu,Nairobi,18,Send Money,120,17,Yes,Yes,4,Yes,Yes
+TXN000996,336859,Meru,Machakos,10,Send Money,32,27,Yes,Yes,0,No,Yes
+TXN000997,496250,Machakos,Nairobi,20,Send Money,91,29,No,Yes,6,No,Yes
+TXN000998,432027,Nyeri,Meru,3,Withdraw,46,8,No,Yes,4,Yes,Yes
+TXN000999,495846,Kiambu,Nakuru,18,Withdraw,84,9,Yes,No,3,No,Yes
+TXN001001,97057,Kiambu,Nairobi,9,Paybill,105,28,Yes,Yes,7,Yes,Yes
+TXN001003,476696,Uasin Gishu,Uasin Gishu,0,Send Money,83,13,Yes,Yes,0,Yes,Yes
+TXN001004,433406,Kiambu,Kisumu,20,Send Money,2,25,Yes,Yes,3,Yes,Yes
+TXN001005,415496,Kisumu,Kakamega,18,Withdraw,2,26,Yes,No,1,Yes,Yes
+TXN001007,329033,Mombasa,Nyeri,13,Paybill,70,4,Yes,Yes,1,No,Yes
+TXN001008,684,Kisumu,Machakos,20,Till,117,8,Yes,Yes,6,No,Yes
+TXN001009,118478,Mombasa,Nakuru,3,Till,118,29,No,Yes,7,Yes,Yes
+TXN001010,187382,Nairobi,Meru,4,Paybill,10,20,No,Yes,5,Yes,Yes
+TXN001015,315536,Uasin Gishu,Nyeri,15,Withdraw,102,21,No,Yes,3,No,Yes
+TXN001017,368673,Machakos,Nyeri,15,Paybill,12,8,No,Yes,3,Yes,Yes
+TXN001019,127188,Kisumu,Uasin Gishu,23,Send Money,27,27,Yes,Yes,2,Yes,Yes
+TXN001020,365018,Meru,Kisumu,0,Paybill,55,12,Yes,Yes,1,No,Yes
+TXN001021,191543,Kisumu,Kisumu,15,Paybill,19,3,Yes,Yes,0,No,Yes
+TXN001023,81779,Nairobi,Uasin Gishu,13,Withdraw,8,29,Yes,Yes,8,Yes,Yes
+TXN001027,102144,Nairobi,Nakuru,9,Paybill,35,4,Yes,Yes,5,No,Yes
+TXN001028,283987,Nyeri,Nakuru,20,Send Money,14,3,Yes,Yes,4,Yes,Yes
+TXN001030,187036,Machakos,Kisumu,22,Send Money,97,10,No,Yes,5,No,Yes
+TXN001031,173756,Kakamega,Meru,1,Till,53,29,Yes,Yes,0,No,Yes
+TXN001034,21028,Kisumu,Meru,20,Withdraw,115,23,No,Yes,3,Yes,Yes
+TXN001036,89030,Machakos,Mombasa,2,Paybill,120,10,Yes,Yes,4,No,Yes
+TXN001040,366918,Uasin Gishu,Kisumu,18,Withdraw,106,18,Yes,Yes,1,No,Yes
+TXN001045,111943,Kisumu,Mombasa,4,Send Money,7,7,Yes,No,4,No,Yes
+TXN001048,280809,Nairobi,Nyeri,19,Paybill,89,26,Yes,No,5,No,Yes
+TXN001049,40844,Kisumu,Kakamega,4,Withdraw,93,22,Yes,No,5,Yes,Yes
+TXN001051,335026,Nyeri,Kisumu,19,Withdraw,75,4,Yes,Yes,3,No,Yes
+TXN001052,113368,Nairobi,Kiambu,9,Send Money,45,7,Yes,Yes,5,No,Yes
+TXN001056,323147,Kakamega,Nyeri,18,Send Money,120,14,Yes,No,8,Yes,Yes
+TXN001057,350122,Nyeri,Uasin Gishu,3,Paybill,38,28,No,Yes,3,No,Yes
+TXN001061,101059,Uasin Gishu,Kisumu,12,Till,79,21,No,Yes,6,Yes,Yes
+TXN001062,271252,Meru,Uasin Gishu,20,Till,21,14,Yes,Yes,2,Yes,Yes
+TXN001065,342159,Uasin Gishu,Kiambu,21,Send Money,115,8,No,Yes,8,Yes,Yes
+TXN001066,144210,Kakamega,Meru,3,Send Money,11,30,Yes,Yes,1,Yes,Yes
+TXN001068,257494,Nakuru,Uasin Gishu,12,Till,102,1,No,Yes,7,Yes,Yes
+TXN001069,332213,Kisumu,Meru,20,Send Money,117,15,Yes,Yes,4,Yes,Yes
+TXN001071,281044,Nakuru,Nairobi,10,Paybill,3,17,Yes,Yes,5,Yes,Yes
+TXN001072,115268,Nakuru,Mombasa,11,Till,11,24,Yes,No,4,No,Yes
+TXN001078,187611,Machakos,Mombasa,0,Till,32,3,Yes,No,5,Yes,Yes
+TXN001079,360913,Nakuru,Nyeri,2,Withdraw,2,23,No,Yes,7,No,Yes
+TXN001080,148745,Meru,Mombasa,18,Withdraw,78,7,Yes,Yes,8,No,Yes
+TXN001083,149491,Uasin Gishu,Nairobi,17,Send Money,3,21,Yes,No,4,Yes,Yes
+TXN001086,442064,Nairobi,Kisumu,3,Till,48,20,Yes,Yes,3,Yes,Yes
+TXN001092,345807,Nairobi,Nakuru,0,Paybill,83,24,Yes,Yes,1,No,Yes
+TXN001094,398764,Kisumu,Nakuru,11,Withdraw,40,23,No,Yes,8,Yes,Yes
+TXN001095,237254,Kiambu,Uasin Gishu,5,Till,112,20,Yes,No,3,Yes,Yes
+TXN001096,498907,Mombasa,Nakuru,0,Withdraw,112,19,Yes,Yes,7,Yes,Yes
+TXN001102,205522,Kisumu,Nakuru,11,Till,51,4,Yes,No,7,Yes,Yes
+TXN001103,370120,Kiambu,Nakuru,5,Till,77,10,Yes,Yes,2,No,Yes
+TXN001104,357322,Nairobi,Kakamega,13,Till,9,6,Yes,No,7,Yes,Yes
+TXN001106,457868,Nakuru,Nyeri,16,Paybill,32,16,Yes,Yes,0,No,Yes
+TXN001107,395883,Kakamega,Kakamega,23,Till,19,25,Yes,Yes,4,No,Yes
+TXN001109,467385,Kisumu,Uasin Gishu,7,Paybill,67,25,No,Yes,4,Yes,Yes
+TXN001110,187322,Mombasa,Nakuru,12,Send Money,64,1,Yes,No,5,Yes,Yes
+TXN001111,143665,Machakos,Uasin Gishu,18,Withdraw,113,21,No,Yes,4,No,Yes
+TXN001112,495641,Meru,Mombasa,13,Withdraw,36,10,Yes,Yes,8,No,Yes
+TXN001114,274350,Mombasa,Kiambu,0,Withdraw,38,20,Yes,No,7,No,Yes
+TXN001115,21521,Nairobi,Uasin Gishu,11,Send Money,28,10,Yes,Yes,7,No,Yes
+TXN001117,226569,Kakamega,Machakos,7,Withdraw,75,30,Yes,No,3,Yes,Yes
+TXN001118,221594,Kisumu,Meru,13,Till,52,29,Yes,No,4,No,Yes
+TXN001120,44927,Mombasa,Kisumu,16,Withdraw,39,19,No,Yes,6,No,Yes
+TXN001123,66778,Uasin Gishu,Nairobi,14,Withdraw,80,18,No,Yes,6,Yes,Yes
+TXN001125,362119,Nakuru,Nyeri,4,Withdraw,43,28,Yes,Yes,8,Yes,Yes
+TXN001126,71564,Kakamega,Meru,22,Paybill,29,29,Yes,No,4,Yes,Yes
+TXN001127,60190,Nakuru,Nakuru,3,Withdraw,9,1,Yes,Yes,8,Yes,Yes
+TXN001130,429205,Kakamega,Kakamega,9,Till,96,22,Yes,Yes,8,Yes,Yes
+TXN001132,426554,Meru,Uasin Gishu,0,Till,55,5,Yes,No,7,Yes,Yes
+TXN001133,17919,Kakamega,Kakamega,8,Send Money,83,21,No,Yes,5,Yes,Yes
+TXN001134,83052,Nyeri,Mombasa,5,Paybill,46,17,Yes,No,8,No,Yes
+TXN001138,404665,Uasin Gishu,Mombasa,1,Till,104,30,Yes,Yes,2,No,Yes
+TXN001139,60067,Kisumu,Machakos,3,Withdraw,5,28,Yes,No,5,Yes,Yes
+TXN001140,198036,Kakamega,Kiambu,7,Paybill,18,21,Yes,Yes,4,No,Yes
+TXN001141,389152,Nakuru,Nairobi,4,Send Money,21,14,Yes,Yes,0,Yes,Yes
+TXN001143,262639,Uasin Gishu,Mombasa,18,Send Money,46,12,Yes,Yes,7,No,Yes
+TXN001147,16971,Kisumu,Nakuru,17,Till,44,14,No,Yes,5,Yes,Yes
+TXN001148,484583,Meru,Meru,22,Send Money,97,22,Yes,Yes,7,Yes,Yes
+TXN001152,225346,Meru,Machakos,11,Paybill,90,14,Yes,Yes,7,Yes,Yes
+TXN001153,179946,Meru,Nairobi,7,Withdraw,56,30,Yes,Yes,3,Yes,Yes
+TXN001154,391942,Mombasa,Nairobi,4,Withdraw,97,29,Yes,Yes,3,Yes,Yes
+TXN001156,344812,Kakamega,Machakos,7,Withdraw,16,22,Yes,Yes,4,Yes,Yes
+TXN001157,373937,Machakos,Nyeri,16,Send Money,39,12,No,Yes,8,No,Yes
+TXN001159,159925,Nairobi,Nakuru,22,Withdraw,95,18,Yes,Yes,5,Yes,Yes
+TXN001160,340789,Kiambu,Kiambu,18,Withdraw,98,15,Yes,Yes,7,Yes,Yes
+TXN001161,157552,Nairobi,Uasin Gishu,12,Withdraw,106,3,Yes,No,6,No,Yes
+TXN001164,410364,Kiambu,Nyeri,14,Withdraw,94,30,Yes,Yes,8,No,Yes
+TXN001165,300258,Nakuru,Kisumu,0,Till,93,19,No,Yes,6,No,Yes
+TXN001166,419264,Machakos,Meru,12,Send Money,88,9,Yes,Yes,8,No,Yes
+TXN001168,438354,Kakamega,Nairobi,14,Send Money,34,28,Yes,No,7,Yes,Yes
+TXN001170,499850,Kakamega,Kisumu,7,Paybill,9,15,Yes,No,4,No,Yes
+TXN001171,77068,Kisumu,Nyeri,14,Till,112,20,Yes,Yes,1,Yes,Yes
+TXN001172,22046,Nairobi,Machakos,17,Send Money,71,23,Yes,Yes,4,No,Yes
+TXN001173,314926,Mombasa,Nyeri,2,Paybill,31,12,Yes,Yes,8,No,Yes
+TXN001176,193146,Machakos,Nyeri,22,Till,6,10,Yes,Yes,1,Yes,Yes
+TXN001177,492849,Mombasa,Nakuru,18,Withdraw,28,13,Yes,Yes,6,Yes,Yes
+TXN001178,282624,Machakos,Kiambu,6,Till,94,4,Yes,No,8,No,Yes
+TXN001179,477712,Machakos,Mombasa,22,Paybill,32,11,Yes,No,3,No,Yes
+TXN001181,342583,Meru,Kisumu,17,Paybill,62,20,Yes,No,6,Yes,Yes
+TXN001182,407132,Machakos,Mombasa,2,Withdraw,117,14,Yes,No,4,No,Yes
+TXN001188,469601,Kakamega,Kisumu,16,Till,1,19,No,No,6,No,Yes
+TXN001189,495380,Nairobi,Meru,16,Withdraw,99,4,Yes,No,7,No,Yes
+TXN001191,301587,Kisumu,Mombasa,9,Till,113,20,No,Yes,5,No,Yes
+TXN001192,255187,Nakuru,Kiambu,4,Send Money,57,8,Yes,No,4,Yes,Yes
+TXN001193,108495,Nairobi,Kakamega,0,Till,71,27,Yes,Yes,0,Yes,Yes
+TXN001198,497695,Nakuru,Nakuru,8,Withdraw,82,21,Yes,Yes,2,No,Yes
+TXN001199,79444,Nakuru,Mombasa,16,Paybill,63,27,Yes,No,4,Yes,Yes
+TXN001204,243705,Kakamega,Kakamega,19,Withdraw,41,22,Yes,No,6,Yes,Yes
+TXN001207,254594,Uasin Gishu,Nakuru,18,Paybill,94,8,No,Yes,4,No,Yes
+TXN001209,478320,Machakos,Nyeri,6,Paybill,46,25,Yes,Yes,8,Yes,Yes
+TXN001211,492887,Kakamega,Nairobi,5,Till,2,2,Yes,Yes,8,No,Yes
+TXN001212,158105,Uasin Gishu,Uasin Gishu,4,Till,4,8,Yes,Yes,4,Yes,Yes
+TXN001214,385859,Uasin Gishu,Nyeri,23,Send Money,76,26,No,Yes,4,No,Yes
+TXN001215,158465,Uasin Gishu,Kiambu,13,Send Money,36,15,Yes,Yes,4,No,Yes
+TXN001217,498887,Uasin Gishu,Nakuru,14,Till,48,25,Yes,No,3,Yes,Yes
+TXN001219,453468,Meru,Kakamega,16,Paybill,63,19,Yes,Yes,2,No,Yes
+TXN001221,456929,Machakos,Nakuru,10,Withdraw,1,9,Yes,No,8,No,Yes
+TXN001222,371701,Uasin Gishu,Kisumu,0,Paybill,62,17,Yes,Yes,6,Yes,Yes
+TXN001223,272647,Nairobi,Uasin Gishu,15,Paybill,96,4,Yes,Yes,7,Yes,Yes
+TXN001224,328340,Uasin Gishu,Nairobi,9,Send Money,103,17,No,Yes,8,No,Yes
+TXN001227,86158,Kisumu,Kisumu,15,Send Money,68,23,No,Yes,5,No,Yes
+TXN001228,2987,Machakos,Mombasa,1,Withdraw,40,23,Yes,Yes,1,No,Yes
+TXN001229,311715,Nakuru,Kiambu,9,Withdraw,21,3,No,Yes,5,Yes,Yes
+TXN001233,487400,Nairobi,Machakos,2,Send Money,103,20,Yes,Yes,2,No,Yes
+TXN001236,463146,Uasin Gishu,Nyeri,14,Withdraw,78,27,Yes,Yes,4,Yes,Yes
+TXN001237,364482,Nairobi,Machakos,14,Till,101,9,Yes,No,5,Yes,Yes
+TXN001238,381989,Nairobi,Nakuru,14,Till,55,7,Yes,No,5,Yes,Yes
+TXN001242,193792,Uasin Gishu,Mombasa,1,Withdraw,4,20,Yes,Yes,2,Yes,Yes
+TXN001243,334272,Nakuru,Meru,23,Send Money,91,2,No,Yes,8,No,Yes
+TXN001244,174462,Uasin Gishu,Uasin Gishu,21,Send Money,108,22,No,Yes,5,Yes,Yes
+TXN001246,361135,Nyeri,Machakos,3,Till,65,14,Yes,Yes,4,No,Yes
+TXN001248,97388,Machakos,Kakamega,2,Paybill,41,19,Yes,Yes,0,Yes,Yes
+TXN001249,161416,Uasin Gishu,Kiambu,5,Till,108,22,Yes,Yes,4,Yes,Yes
+TXN001250,73673,Nakuru,Kisumu,9,Till,73,11,No,Yes,3,No,Yes
+TXN001251,365771,Machakos,Nyeri,14,Paybill,57,9,Yes,No,5,No,Yes
+TXN001252,19307,Uasin Gishu,Machakos,20,Till,107,19,No,Yes,8,Yes,Yes
+TXN001253,108811,Kiambu,Nakuru,14,Till,44,23,No,Yes,8,Yes,Yes
+TXN001256,175535,Kisumu,Kakamega,17,Paybill,44,21,Yes,Yes,5,No,Yes
+TXN001260,498906,Mombasa,Kiambu,4,Till,73,25,Yes,Yes,5,Yes,Yes
+TXN001263,250315,Nakuru,Kakamega,21,Withdraw,21,12,Yes,No,8,No,Yes
+TXN001264,435915,Machakos,Kisumu,12,Till,60,23,Yes,Yes,6,Yes,Yes
+TXN001266,116281,Machakos,Nyeri,0,Withdraw,114,20,Yes,Yes,5,No,Yes
+TXN001267,479556,Nairobi,Nakuru,9,Withdraw,10,21,Yes,Yes,7,Yes,Yes
+TXN001269,18309,Kakamega,Mombasa,11,Send Money,34,14,Yes,Yes,6,Yes,Yes
+TXN001270,343914,Meru,Nyeri,12,Withdraw,111,13,Yes,Yes,5,Yes,Yes
+TXN001276,93755,Kiambu,Nairobi,19,Send Money,38,12,No,Yes,7,No,Yes
+TXN001279,40176,Nyeri,Mombasa,10,Till,42,12,Yes,Yes,1,No,Yes
+TXN001281,159014,Nakuru,Uasin Gishu,8,Paybill,79,17,Yes,Yes,5,No,Yes
+TXN001283,9864,Meru,Machakos,3,Paybill,101,14,Yes,No,4,No,Yes
+TXN001287,346446,Mombasa,Nakuru,23,Till,110,19,Yes,No,8,No,Yes
+TXN001292,404013,Nakuru,Uasin Gishu,15,Withdraw,47,21,Yes,No,8,No,Yes
+TXN001294,400047,Uasin Gishu,Uasin Gishu,6,Send Money,60,21,Yes,Yes,6,No,Yes
+TXN001296,358853,Kisumu,Kakamega,11,Paybill,12,12,Yes,No,8,Yes,Yes
+TXN001299,457273,Nairobi,Nairobi,21,Withdraw,118,30,Yes,Yes,7,Yes,Yes
+TXN001300,454640,Nyeri,Mombasa,22,Send Money,67,16,No,Yes,6,No,Yes
+TXN001301,229961,Machakos,Uasin Gishu,22,Withdraw,62,27,Yes,No,6,Yes,Yes
+TXN001302,224753,Kisumu,Machakos,13,Till,101,4,Yes,Yes,4,Yes,Yes
+TXN001305,297966,Nairobi,Nakuru,11,Till,36,20,Yes,Yes,2,No,Yes
+TXN001306,374288,Kiambu,Kisumu,23,Paybill,38,10,Yes,No,7,No,Yes
+TXN001308,306357,Machakos,Kisumu,18,Till,2,9,No,No,7,Yes,Yes
+TXN001309,274429,Kisumu,Kakamega,12,Send Money,48,13,No,Yes,8,No,Yes
+TXN001310,350664,Kisumu,Kiambu,19,Send Money,9,11,Yes,No,3,Yes,Yes
+TXN001312,208974,Nairobi,Kakamega,18,Paybill,81,4,No,Yes,4,Yes,Yes
+TXN001313,128339,Kisumu,Nairobi,19,Till,33,26,Yes,Yes,3,No,Yes
+TXN001314,289444,Nairobi,Nakuru,7,Paybill,36,3,Yes,Yes,2,No,Yes
+TXN001317,305035,Nairobi,Kiambu,13,Till,56,28,Yes,No,3,No,Yes
+TXN001320,259985,Kakamega,Machakos,20,Paybill,21,6,Yes,No,4,Yes,Yes
+TXN001321,101549,Machakos,Nyeri,15,Send Money,100,4,Yes,Yes,4,No,Yes
+TXN001322,359054,Nakuru,Uasin Gishu,5,Paybill,39,30,Yes,Yes,5,Yes,Yes
+TXN001325,399921,Kisumu,Kakamega,8,Send Money,54,1,No,Yes,6,No,Yes
+TXN001326,429197,Nairobi,Machakos,13,Withdraw,91,7,Yes,No,4,No,Yes
+TXN001327,170802,Kiambu,Mombasa,2,Paybill,72,18,Yes,Yes,8,No,Yes
+TXN001330,70453,Kisumu,Meru,9,Paybill,113,24,Yes,No,6,Yes,Yes
+TXN001331,294614,Nyeri,Nyeri,9,Send Money,12,15,Yes,No,8,No,Yes
+TXN001332,73695,Nakuru,Kisumu,10,Withdraw,99,25,Yes,No,5,No,Yes
+TXN001333,119421,Meru,Nairobi,4,Send Money,59,12,No,Yes,4,No,Yes
+TXN001336,292755,Mombasa,Uasin Gishu,8,Withdraw,100,4,Yes,Yes,7,Yes,Yes
+TXN001338,466350,Nairobi,Nakuru,10,Withdraw,3,13,No,Yes,6,Yes,Yes
+TXN001339,78952,Nakuru,Meru,11,Paybill,34,28,Yes,No,8,No,Yes
+TXN001341,408713,Nakuru,Nakuru,6,Till,17,18,No,Yes,5,No,Yes
+TXN001342,85660,Kisumu,Kakamega,3,Withdraw,55,9,Yes,Yes,5,Yes,Yes
+TXN001344,404267,Kisumu,Nakuru,3,Withdraw,49,19,Yes,Yes,2,Yes,Yes
+TXN001347,188999,Mombasa,Uasin Gishu,15,Send Money,40,27,Yes,No,4,Yes,Yes
+TXN001350,431670,Kisumu,Machakos,3,Paybill,21,14,Yes,Yes,8,Yes,Yes
+TXN001355,169330,Meru,Nakuru,4,Paybill,85,18,No,Yes,7,No,Yes
+TXN001356,269918,Uasin Gishu,Kiambu,19,Send Money,17,26,Yes,Yes,1,Yes,Yes
+TXN001357,131006,Meru,Nyeri,16,Till,29,9,Yes,No,5,No,Yes
+TXN001359,331337,Nairobi,Nakuru,5,Withdraw,7,26,Yes,Yes,0,Yes,Yes
+TXN001360,169149,Meru,Uasin Gishu,14,Paybill,2,19,No,No,5,Yes,Yes
+TXN001361,237653,Machakos,Kisumu,8,Till,80,9,No,Yes,4,No,Yes
+TXN001362,423144,Mombasa,Machakos,13,Send Money,112,16,No,Yes,5,No,Yes
+TXN001364,161022,Kisumu,Nakuru,0,Paybill,58,14,Yes,Yes,6,Yes,Yes
+TXN001365,384569,Nyeri,Nakuru,22,Paybill,96,12,Yes,Yes,8,No,Yes
+TXN001366,196381,Nakuru,Kiambu,1,Withdraw,21,4,Yes,Yes,2,No,Yes
+TXN001372,404621,Mombasa,Nyeri,23,Withdraw,81,20,No,Yes,7,No,Yes
+TXN001377,127317,Kakamega,Nyeri,19,Withdraw,75,16,Yes,No,4,Yes,Yes
+TXN001380,492984,Nairobi,Machakos,3,Till,52,27,No,Yes,3,Yes,Yes
+TXN001381,482746,Machakos,Machakos,7,Till,53,26,Yes,No,4,No,Yes
+TXN001383,388392,Machakos,Machakos,19,Paybill,52,25,No,Yes,7,Yes,Yes
+TXN001384,166005,Meru,Kakamega,20,Paybill,107,10,Yes,Yes,6,No,Yes
+TXN001386,169269,Nyeri,Nyeri,5,Withdraw,3,4,Yes,No,8,No,Yes
+TXN001387,324306,Kiambu,Kisumu,22,Till,90,3,Yes,Yes,1,No,Yes
+TXN001389,117922,Kiambu,Nairobi,15,Paybill,57,27,Yes,Yes,8,Yes,Yes
+TXN001390,436911,Kisumu,Nairobi,9,Paybill,89,8,Yes,Yes,7,Yes,Yes
+TXN001393,167903,Nyeri,Meru,4,Send Money,70,12,Yes,Yes,5,Yes,Yes
+TXN001395,141153,Meru,Uasin Gishu,2,Paybill,74,27,Yes,No,7,No,Yes
+TXN001396,11644,Mombasa,Machakos,2,Till,72,15,Yes,No,7,Yes,Yes
+TXN001397,298764,Uasin Gishu,Nakuru,21,Withdraw,33,29,Yes,No,6,Yes,Yes
+TXN001399,452371,Meru,Mombasa,16,Withdraw,1,20,Yes,No,1,Yes,Yes
+TXN001400,382979,Nairobi,Kakamega,23,Send Money,21,24,Yes,Yes,2,Yes,Yes
+TXN001402,50309,Mombasa,Kisumu,8,Withdraw,40,12,Yes,No,4,No,Yes
+TXN001403,105225,Nyeri,Kiambu,0,Send Money,30,12,Yes,No,7,Yes,Yes
+TXN001408,472030,Nyeri,Uasin Gishu,14,Send Money,13,16,Yes,Yes,5,No,Yes
+TXN001409,350644,Nakuru,Kakamega,6,Withdraw,71,3,No,Yes,5,Yes,Yes
+TXN001411,396895,Kakamega,Nakuru,9,Withdraw,70,21,Yes,No,5,Yes,Yes
+TXN001414,336083,Uasin Gishu,Nakuru,11,Send Money,41,24,Yes,Yes,0,No,Yes
+TXN001415,431930,Nairobi,Nakuru,3,Withdraw,106,22,No,Yes,8,No,Yes
+TXN001417,23765,Nakuru,Machakos,5,Withdraw,119,13,Yes,Yes,4,Yes,Yes
+TXN001419,462443,Nairobi,Uasin Gishu,13,Withdraw,119,14,No,Yes,4,No,Yes
+TXN001420,145847,Uasin Gishu,Nairobi,22,Withdraw,108,29,Yes,No,4,Yes,Yes
+TXN001421,67624,Kisumu,Kakamega,2,Paybill,85,23,Yes,Yes,1,Yes,Yes
+TXN001423,399027,Nakuru,Kisumu,16,Send Money,16,13,Yes,Yes,8,No,Yes
+TXN001424,245918,Kisumu,Mombasa,22,Send Money,62,4,Yes,Yes,0,No,Yes
+TXN001427,242289,Kiambu,Nyeri,2,Paybill,26,29,Yes,No,6,Yes,Yes
+TXN001434,150449,Machakos,Nairobi,13,Till,82,24,Yes,No,4,Yes,Yes
+TXN001435,75538,Machakos,Nakuru,12,Withdraw,6,15,No,Yes,6,Yes,Yes
+TXN001437,69840,Meru,Nakuru,23,Till,93,17,Yes,Yes,3,Yes,Yes
+TXN001440,345897,Nakuru,Uasin Gishu,18,Paybill,50,30,No,Yes,7,Yes,Yes
+TXN001441,143348,Uasin Gishu,Machakos,14,Paybill,96,22,Yes,No,3,Yes,Yes
+TXN001444,111729,Kakamega,Machakos,22,Paybill,40,27,Yes,No,5,No,Yes
+TXN001445,151957,Mombasa,Nyeri,19,Withdraw,39,4,Yes,Yes,2,No,Yes
+TXN001449,464826,Kisumu,Mombasa,21,Paybill,48,3,Yes,Yes,4,No,Yes
+TXN001450,332565,Meru,Meru,13,Paybill,42,10,Yes,No,7,Yes,Yes
+TXN001451,191528,Kakamega,Machakos,5,Send Money,109,9,Yes,No,8,Yes,Yes
+TXN001453,345771,Kiambu,Uasin Gishu,6,Withdraw,11,11,Yes,Yes,0,Yes,Yes
+TXN001455,69434,Kiambu,Mombasa,14,Send Money,45,24,No,Yes,7,No,Yes
+TXN001457,195813,Nairobi,Machakos,19,Send Money,9,5,Yes,Yes,1,Yes,Yes
+TXN001459,97344,Nakuru,Nairobi,22,Send Money,12,23,Yes,Yes,6,Yes,Yes
+TXN001460,202897,Meru,Kisumu,15,Till,42,21,Yes,No,3,No,Yes
+TXN001462,75491,Kisumu,Machakos,7,Paybill,113,18,Yes,Yes,1,Yes,Yes
+TXN001464,385634,Mombasa,Nairobi,2,Withdraw,31,17,Yes,No,4,Yes,Yes
+TXN001466,366042,Machakos,Kakamega,11,Withdraw,88,20,Yes,No,5,No,Yes
+TXN001467,157465,Nairobi,Machakos,13,Withdraw,98,16,No,Yes,3,Yes,Yes
+TXN001469,220039,Uasin Gishu,Machakos,0,Withdraw,4,28,Yes,No,6,Yes,Yes
+TXN001470,414958,Mombasa,Nairobi,12,Withdraw,105,22,Yes,Yes,2,Yes,Yes
+TXN001471,78640,Kisumu,Kiambu,17,Till,35,11,Yes,Yes,7,No,Yes
+TXN001474,257216,Meru,Mombasa,19,Paybill,2,10,Yes,No,4,No,Yes
+TXN001475,277732,Mombasa,Nairobi,14,Till,37,11,No,Yes,5,No,Yes
+TXN001476,218678,Kiambu,Nyeri,10,Till,32,7,No,Yes,5,No,Yes
+TXN001477,366175,Nakuru,Kakamega,18,Withdraw,25,29,Yes,No,3,Yes,Yes
+TXN001479,315985,Nakuru,Kiambu,22,Paybill,116,29,No,Yes,7,No,Yes
+TXN001480,190776,Nairobi,Machakos,11,Withdraw,109,25,Yes,No,3,Yes,Yes
+TXN001483,414609,Kisumu,Kiambu,0,Send Money,49,14,Yes,No,4,Yes,Yes
+TXN001484,341694,Kisumu,Kakamega,20,Withdraw,83,25,No,Yes,5,No,Yes
+TXN001487,193418,Uasin Gishu,Kisumu,10,Send Money,19,11,No,Yes,6,No,Yes
+TXN001488,337492,Mombasa,Mombasa,4,Paybill,37,11,Yes,Yes,2,No,Yes
+TXN001489,53660,Machakos,Mombasa,13,Till,67,6,Yes,Yes,5,No,Yes
+TXN001490,393712,Uasin Gishu,Kisumu,17,Send Money,9,16,No,Yes,8,No,Yes
+TXN001491,427011,Nakuru,Nairobi,20,Send Money,27,15,Yes,Yes,4,Yes,Yes
+TXN001494,288424,Meru,Kakamega,0,Till,9,2,Yes,Yes,3,Yes,Yes
+TXN001495,368008,Kisumu,Nyeri,0,Till,11,19,No,Yes,6,Yes,Yes
+TXN001496,139325,Machakos,Nakuru,10,Till,72,12,No,Yes,3,No,Yes
+TXN001500,268013,Nakuru,Kakamega,23,Withdraw,4,10,Yes,Yes,2,No,Yes
+TXN001501,377521,Nyeri,Meru,9,Paybill,42,15,No,Yes,7,No,Yes
+TXN001503,200024,Nakuru,Nakuru,13,Till,94,19,Yes,Yes,0,No,Yes
+TXN001505,487703,Kisumu,Nairobi,3,Send Money,120,29,Yes,Yes,0,No,Yes
+TXN001507,208474,Kakamega,Uasin Gishu,5,Send Money,87,13,Yes,Yes,7,No,Yes
+TXN001508,302438,Nakuru,Kiambu,0,Till,115,2,Yes,No,4,No,Yes
+TXN001514,313989,Mombasa,Uasin Gishu,3,Send Money,44,18,Yes,Yes,3,No,Yes
+TXN001515,272453,Nakuru,Machakos,15,Send Money,14,19,Yes,No,8,Yes,Yes
+TXN001519,498936,Mombasa,Nakuru,5,Send Money,105,7,Yes,Yes,0,No,Yes
+TXN001520,35188,Nairobi,Meru,9,Till,33,15,Yes,No,5,No,Yes
+TXN001524,43547,Nakuru,Meru,15,Send Money,32,24,Yes,No,6,No,Yes
+TXN001525,169328,Nairobi,Kisumu,18,Send Money,40,18,No,Yes,6,Yes,Yes
+TXN001526,490541,Meru,Uasin Gishu,17,Send Money,65,15,Yes,Yes,7,No,Yes
+TXN001527,132801,Kisumu,Nairobi,9,Till,75,4,No,Yes,7,No,Yes
+TXN001528,223780,Kakamega,Nakuru,0,Withdraw,15,22,Yes,Yes,3,No,Yes
+TXN001530,119971,Kisumu,Meru,18,Send Money,92,15,Yes,Yes,2,Yes,Yes
+TXN001531,229739,Nyeri,Mombasa,13,Withdraw,64,12,No,Yes,8,No,Yes
+TXN001533,265923,Mombasa,Meru,5,Paybill,118,8,Yes,Yes,0,Yes,Yes
+TXN001535,293476,Uasin Gishu,Nairobi,11,Send Money,6,8,Yes,Yes,4,Yes,Yes
+TXN001536,267539,Kiambu,Kisumu,10,Paybill,101,1,Yes,No,8,Yes,Yes
+TXN001537,451244,Kakamega,Nakuru,3,Paybill,62,26,Yes,Yes,7,No,Yes
+TXN001538,203399,Mombasa,Kakamega,16,Send Money,71,21,Yes,Yes,2,Yes,Yes
+TXN001540,456531,Uasin Gishu,Kakamega,19,Paybill,42,25,No,Yes,3,No,Yes
+TXN001544,202474,Kakamega,Machakos,17,Send Money,97,28,Yes,No,5,Yes,Yes
+TXN001547,402867,Nyeri,Nyeri,10,Paybill,79,29,Yes,No,3,No,Yes
+TXN001548,418447,Nakuru,Meru,20,Till,60,19,Yes,Yes,4,Yes,Yes
+TXN001550,281806,Uasin Gishu,Nyeri,12,Send Money,44,5,No,Yes,4,Yes,Yes
+TXN001552,139353,Uasin Gishu,Machakos,3,Paybill,7,14,No,Yes,7,No,Yes
+TXN001553,95001,Mombasa,Nyeri,17,Till,16,12,Yes,Yes,1,No,Yes
+TXN001555,149046,Nakuru,Kisumu,0,Till,56,8,Yes,Yes,4,No,Yes
+TXN001556,399741,Kisumu,Mombasa,18,Till,29,6,No,Yes,8,Yes,Yes
+TXN001557,424487,Nakuru,Kakamega,19,Paybill,63,4,Yes,Yes,6,Yes,Yes
+TXN001559,233969,Kakamega,Kisumu,23,Withdraw,28,8,Yes,Yes,6,No,Yes
+TXN001560,446002,Nakuru,Kakamega,13,Till,79,25,No,Yes,8,No,Yes
+TXN001562,88330,Uasin Gishu,Kiambu,7,Till,101,13,Yes,Yes,5,No,Yes
+TXN001563,471097,Kakamega,Nairobi,12,Till,30,13,No,Yes,3,Yes,Yes
+TXN001566,443546,Kisumu,Mombasa,19,Send Money,5,13,No,Yes,3,Yes,Yes
+TXN001568,120158,Meru,Nairobi,18,Paybill,53,10,Yes,Yes,3,Yes,Yes
+TXN001569,151172,Nakuru,Meru,22,Send Money,71,16,No,Yes,3,Yes,Yes
+TXN001571,80118,Kisumu,Kiambu,16,Send Money,69,30,Yes,Yes,0,No,Yes
+TXN001574,374092,Nairobi,Kiambu,14,Withdraw,32,6,Yes,Yes,6,Yes,Yes
+TXN001576,394121,Kisumu,Nairobi,6,Send Money,33,17,No,Yes,8,No,Yes
+TXN001577,314517,Uasin Gishu,Kiambu,11,Send Money,48,27,No,Yes,6,No,Yes
+TXN001578,164962,Kakamega,Meru,23,Paybill,63,7,Yes,Yes,6,Yes,Yes
+TXN001581,496931,Machakos,Kakamega,12,Withdraw,19,29,Yes,No,5,Yes,Yes
+TXN001583,162758,Nyeri,Kiambu,1,Send Money,119,17,Yes,Yes,1,Yes,Yes
+TXN001584,267178,Machakos,Meru,14,Till,28,21,No,Yes,7,No,Yes
+TXN001585,326037,Kakamega,Kakamega,13,Send Money,42,10,No,Yes,8,Yes,Yes
+TXN001586,349393,Kakamega,Kiambu,4,Paybill,100,18,Yes,Yes,6,No,Yes
+TXN001587,399614,Nakuru,Nairobi,1,Till,118,7,Yes,No,4,No,Yes
+TXN001589,480335,Kakamega,Mombasa,7,Withdraw,27,1,Yes,Yes,0,No,Yes
+TXN001592,422725,Kakamega,Kiambu,10,Till,77,25,Yes,Yes,0,No,Yes
+TXN001593,261603,Kisumu,Nyeri,7,Paybill,93,13,Yes,No,4,Yes,Yes
+TXN001594,461814,Uasin Gishu,Uasin Gishu,13,Till,32,15,Yes,Yes,8,No,Yes
+TXN001596,80814,Kiambu,Nakuru,15,Withdraw,54,16,Yes,No,5,Yes,Yes
+TXN001597,486503,Kiambu,Nakuru,19,Paybill,51,19,Yes,No,6,Yes,Yes
+TXN001601,20466,Uasin Gishu,Kakamega,3,Till,75,3,Yes,Yes,3,Yes,Yes
+TXN001603,337410,Nairobi,Uasin Gishu,10,Paybill,100,23,Yes,No,3,No,Yes
+TXN001605,416469,Kisumu,Kisumu,1,Send Money,109,10,No,Yes,3,No,Yes
+TXN001606,30850,Kisumu,Kisumu,23,Send Money,76,29,Yes,Yes,1,No,Yes
+TXN001607,148148,Uasin Gishu,Mombasa,20,Till,99,11,No,Yes,7,No,Yes
+TXN001608,491536,Uasin Gishu,Nakuru,11,Send Money,91,7,No,Yes,5,Yes,Yes
+TXN001613,176829,Machakos,Nyeri,8,Withdraw,1,4,No,Yes,3,Yes,Yes
+TXN001616,484014,Nairobi,Nakuru,21,Till,41,27,Yes,No,4,No,Yes
+TXN001617,207045,Nakuru,Uasin Gishu,0,Withdraw,34,1,Yes,Yes,3,No,Yes
+TXN001619,280066,Nyeri,Machakos,5,Paybill,85,18,No,Yes,3,No,Yes
+TXN001620,7500,Nairobi,Mombasa,4,Till,88,14,Yes,No,3,No,Yes
+TXN001624,267845,Machakos,Kisumu,12,Paybill,16,16,No,Yes,5,Yes,Yes
+TXN001625,285946,Kisumu,Machakos,5,Paybill,33,24,Yes,Yes,1,Yes,Yes
+TXN001626,251021,Uasin Gishu,Mombasa,16,Withdraw,119,25,No,Yes,5,No,Yes
+TXN001627,111387,Nyeri,Kakamega,12,Till,22,7,No,Yes,3,No,Yes
+TXN001628,336919,Nairobi,Meru,11,Send Money,48,7,Yes,Yes,7,Yes,Yes
+TXN001630,311817,Nyeri,Nyeri,23,Till,67,18,Yes,Yes,7,No,Yes
+TXN001631,62835,Nyeri,Uasin Gishu,9,Send Money,80,26,Yes,No,3,No,Yes
+TXN001632,450233,Kisumu,Kiambu,10,Withdraw,14,2,No,Yes,4,No,Yes
+TXN001633,39055,Uasin Gishu,Nairobi,0,Till,68,12,Yes,No,4,No,Yes
+TXN001634,171887,Machakos,Mombasa,3,Till,24,23,Yes,Yes,8,Yes,Yes
+TXN001635,402702,Nakuru,Nairobi,8,Till,43,11,Yes,Yes,3,Yes,Yes
+TXN001636,441221,Mombasa,Uasin Gishu,1,Till,98,18,Yes,No,8,No,Yes
+TXN001637,481785,Kisumu,Mombasa,3,Send Money,113,14,Yes,No,4,Yes,Yes
+TXN001638,56059,Nyeri,Mombasa,8,Paybill,115,16,Yes,No,5,No,Yes
+TXN001639,309827,Kisumu,Meru,22,Send Money,72,29,Yes,Yes,5,Yes,Yes
+TXN001641,357305,Nairobi,Uasin Gishu,6,Withdraw,67,29,No,Yes,7,Yes,Yes
+TXN001643,141272,Nairobi,Mombasa,12,Paybill,32,20,Yes,No,4,No,Yes
+TXN001644,391580,Kisumu,Nairobi,7,Paybill,33,23,Yes,Yes,1,Yes,Yes
+TXN001646,341808,Machakos,Nakuru,14,Paybill,27,23,Yes,Yes,6,Yes,Yes
+TXN001647,77113,Uasin Gishu,Nyeri,21,Till,93,21,Yes,No,5,No,Yes
+TXN001648,232525,Nakuru,Nakuru,15,Withdraw,85,7,Yes,Yes,6,No,Yes
+TXN001650,392387,Kiambu,Kisumu,9,Till,59,17,No,Yes,6,Yes,Yes
+TXN001651,92880,Meru,Kakamega,11,Till,55,25,Yes,No,8,Yes,Yes
+TXN001652,337822,Kiambu,Kisumu,15,Paybill,29,15,Yes,No,7,No,Yes
+TXN001653,229755,Nakuru,Nyeri,16,Paybill,116,5,Yes,Yes,7,No,Yes
+TXN001655,10692,Nakuru,Nyeri,19,Paybill,9,19,Yes,Yes,4,No,Yes
+TXN001656,329050,Nyeri,Uasin Gishu,18,Till,64,17,Yes,Yes,0,No,Yes
+TXN001657,815,Kiambu,Kiambu,18,Paybill,62,7,Yes,Yes,4,No,Yes
+TXN001658,329746,Meru,Nakuru,7,Till,52,22,No,Yes,6,No,Yes
+TXN001660,361666,Nakuru,Kakamega,13,Send Money,10,4,Yes,Yes,6,Yes,Yes
+TXN001661,53849,Nakuru,Machakos,3,Send Money,88,18,No,Yes,3,Yes,Yes
+TXN001662,134507,Nakuru,Mombasa,10,Paybill,2,30,No,Yes,4,No,Yes
+TXN001664,485660,Mombasa,Nyeri,18,Paybill,108,16,Yes,No,5,Yes,Yes
+TXN001665,484917,Kakamega,Nyeri,22,Paybill,74,9,Yes,No,5,No,Yes
+TXN001667,384059,Kakamega,Nairobi,21,Withdraw,23,7,Yes,Yes,2,No,Yes
+TXN001668,118342,Kiambu,Uasin Gishu,4,Send Money,80,5,Yes,Yes,3,No,Yes
+TXN001674,293685,Nyeri,Nakuru,4,Paybill,62,13,Yes,Yes,8,Yes,Yes
+TXN001675,476104,Machakos,Nyeri,17,Send Money,7,17,Yes,Yes,8,Yes,Yes
+TXN001676,136185,Kakamega,Nakuru,4,Paybill,34,11,Yes,Yes,0,No,Yes
+TXN001679,452450,Meru,Mombasa,2,Paybill,104,24,Yes,Yes,5,Yes,Yes
+TXN001682,150617,Nyeri,Meru,1,Till,63,17,Yes,Yes,2,No,Yes
+TXN001685,212482,Kiambu,Nyeri,7,Till,49,19,Yes,Yes,6,Yes,Yes
+TXN001687,327738,Meru,Meru,17,Withdraw,61,2,No,Yes,3,No,Yes
+TXN001688,324107,Nairobi,Kiambu,1,Send Money,46,26,Yes,Yes,2,Yes,Yes
+TXN001689,453690,Kisumu,Nyeri,15,Withdraw,51,9,Yes,Yes,4,No,Yes
+TXN001690,461661,Uasin Gishu,Kiambu,7,Paybill,120,8,Yes,No,3,Yes,Yes
+TXN001692,127303,Nakuru,Mombasa,9,Till,113,14,Yes,No,8,No,Yes
+TXN001693,43129,Kisumu,Machakos,11,Till,60,28,Yes,No,4,No,Yes
+TXN001694,454226,Machakos,Nyeri,21,Paybill,112,2,Yes,No,3,No,Yes
+TXN001695,154103,Kiambu,Uasin Gishu,8,Till,25,28,Yes,Yes,7,No,Yes
+TXN001696,268999,Nakuru,Nyeri,22,Paybill,74,27,Yes,Yes,1,No,Yes
+TXN001698,447249,Nakuru,Nyeri,8,Till,38,8,Yes,Yes,3,No,Yes
+TXN001700,275936,Meru,Mombasa,20,Paybill,60,24,Yes,Yes,3,Yes,Yes
+TXN001704,439191,Kakamega,Kakamega,8,Till,77,17,Yes,Yes,6,No,Yes
+TXN001705,431560,Machakos,Meru,11,Paybill,77,4,No,Yes,3,No,Yes
+TXN001708,493719,Kiambu,Machakos,10,Withdraw,28,20,Yes,Yes,3,No,Yes
+TXN001710,407955,Uasin Gishu,Nairobi,16,Send Money,102,11,Yes,No,6,No,Yes
+TXN001712,204831,Kakamega,Mombasa,10,Paybill,51,29,Yes,Yes,6,Yes,Yes
+TXN001713,52450,Nairobi,Uasin Gishu,16,Paybill,23,25,Yes,No,5,No,Yes
+TXN001715,152303,Nyeri,Kakamega,6,Till,96,2,Yes,Yes,4,Yes,Yes
+TXN001718,421203,Meru,Kisumu,12,Withdraw,38,10,Yes,Yes,7,No,Yes
+TXN001723,292554,Nairobi,Kakamega,5,Paybill,61,5,No,Yes,7,No,Yes
+TXN001724,162318,Nakuru,Nyeri,4,Send Money,72,24,Yes,Yes,5,No,Yes
+TXN001725,438339,Kisumu,Meru,19,Withdraw,105,10,Yes,No,6,Yes,Yes
+TXN001726,179010,Uasin Gishu,Kiambu,2,Withdraw,4,18,Yes,No,5,Yes,Yes
+TXN001727,300421,Nyeri,Kakamega,13,Send Money,49,12,No,Yes,3,Yes,Yes
+TXN001728,352377,Meru,Machakos,3,Till,107,22,Yes,Yes,8,No,Yes
+TXN001730,328275,Nairobi,Nairobi,21,Withdraw,116,2,Yes,Yes,7,Yes,Yes
+TXN001736,400064,Nyeri,Mombasa,23,Withdraw,111,14,Yes,Yes,5,Yes,Yes
+TXN001738,11969,Nakuru,Kakamega,7,Send Money,51,30,No,Yes,3,Yes,Yes
+TXN001740,285622,Mombasa,Mombasa,19,Paybill,119,3,No,Yes,3,Yes,Yes
+TXN001744,226101,Kiambu,Mombasa,12,Withdraw,36,10,Yes,Yes,7,Yes,Yes
+TXN001745,280115,Kisumu,Mombasa,0,Paybill,14,30,Yes,No,7,Yes,Yes
+TXN001750,123755,Uasin Gishu,Nyeri,4,Send Money,116,13,Yes,Yes,5,Yes,Yes
+TXN001751,345508,Kisumu,Mombasa,12,Till,108,6,Yes,Yes,5,No,Yes
+TXN001752,7826,Meru,Kisumu,23,Send Money,100,11,No,Yes,4,No,Yes
+TXN001753,274167,Meru,Uasin Gishu,14,Send Money,84,25,Yes,Yes,2,No,Yes
+TXN001754,292354,Nyeri,Nairobi,5,Paybill,76,18,No,Yes,6,No,Yes
+TXN001755,467807,Meru,Kiambu,16,Till,118,2,No,Yes,3,No,Yes
+TXN001758,234710,Kiambu,Uasin Gishu,2,Send Money,50,16,Yes,Yes,0,No,Yes
+TXN001760,265237,Kakamega,Nairobi,20,Till,64,23,Yes,Yes,5,Yes,Yes
+TXN001761,357385,Nairobi,Kiambu,0,Till,68,1,No,Yes,3,No,Yes
+TXN001764,102866,Nyeri,Meru,8,Withdraw,18,12,No,Yes,3,Yes,Yes
+TXN001765,435370,Kisumu,Kiambu,2,Till,111,8,Yes,Yes,5,No,Yes
+TXN001767,211679,Mombasa,Nakuru,16,Send Money,76,8,Yes,No,8,No,Yes
+TXN001770,460243,Kisumu,Nairobi,6,Till,87,29,Yes,Yes,7,No,Yes
+TXN001771,305173,Uasin Gishu,Kiambu,2,Till,31,9,Yes,Yes,5,Yes,Yes
+TXN001773,428675,Machakos,Nairobi,0,Till,54,16,Yes,Yes,6,No,Yes
+TXN001779,412983,Kiambu,Meru,3,Send Money,92,27,No,Yes,8,Yes,Yes
+TXN001781,195349,Mombasa,Machakos,10,Send Money,82,8,Yes,Yes,3,Yes,Yes
+TXN001784,75585,Kiambu,Uasin Gishu,4,Send Money,64,28,Yes,No,7,No,Yes
+TXN001785,68069,Mombasa,Nyeri,6,Paybill,47,28,Yes,No,4,Yes,Yes
+TXN001786,371018,Kisumu,Nakuru,19,Paybill,70,26,Yes,Yes,3,Yes,Yes
+TXN001788,217822,Machakos,Nairobi,17,Paybill,34,16,Yes,Yes,8,No,Yes
+TXN001793,485433,Kisumu,Kisumu,18,Paybill,73,21,Yes,Yes,5,Yes,Yes
+TXN001794,388544,Meru,Mombasa,20,Till,53,29,Yes,Yes,6,No,Yes
+TXN001795,123924,Machakos,Nakuru,18,Paybill,71,18,Yes,Yes,2,No,Yes
+TXN001797,423801,Kiambu,Meru,15,Send Money,51,10,Yes,Yes,5,No,Yes
+TXN001800,68557,Nairobi,Nyeri,6,Paybill,20,1,Yes,Yes,5,No,Yes
+TXN001802,349932,Nairobi,Nairobi,6,Send Money,66,12,Yes,Yes,8,No,Yes
+TXN001803,145870,Kakamega,Mombasa,11,Paybill,39,8,No,Yes,5,Yes,Yes
+TXN001804,110177,Meru,Machakos,21,Send Money,112,24,Yes,Yes,2,Yes,Yes
+TXN001806,302327,Meru,Mombasa,4,Withdraw,54,16,Yes,Yes,7,Yes,Yes
+TXN001807,25434,Mombasa,Kakamega,13,Withdraw,82,5,Yes,Yes,3,Yes,Yes
+TXN001808,394660,Mombasa,Uasin Gishu,12,Send Money,85,5,Yes,Yes,1,Yes,Yes
+TXN001810,488897,Uasin Gishu,Uasin Gishu,10,Paybill,32,7,Yes,Yes,4,Yes,Yes
+TXN001811,281146,Kisumu,Kiambu,5,Send Money,2,22,Yes,No,4,Yes,Yes
+TXN001813,312695,Machakos,Uasin Gishu,2,Send Money,37,13,Yes,Yes,3,No,Yes
+TXN001814,422291,Mombasa,Nakuru,14,Send Money,120,7,No,Yes,7,Yes,Yes
+TXN001816,399857,Kisumu,Nairobi,4,Withdraw,119,5,Yes,Yes,4,Yes,Yes
+TXN001819,119693,Kiambu,Kisumu,21,Send Money,17,5,No,Yes,5,No,Yes
+TXN001820,116356,Mombasa,Nairobi,19,Till,90,23,No,Yes,3,Yes,Yes
+TXN001824,403309,Uasin Gishu,Nyeri,7,Send Money,16,26,Yes,Yes,3,Yes,Yes
+TXN001827,179733,Uasin Gishu,Kakamega,3,Paybill,91,2,No,Yes,3,Yes,Yes
+TXN001831,107299,Meru,Uasin Gishu,5,Withdraw,16,18,Yes,No,3,Yes,Yes
+TXN001836,430253,Mombasa,Machakos,5,Send Money,92,19,No,Yes,5,Yes,Yes
+TXN001837,134016,Meru,Nyeri,15,Paybill,79,20,Yes,No,7,No,Yes
+TXN001840,251651,Uasin Gishu,Kisumu,6,Till,74,9,Yes,Yes,2,No,Yes
+TXN001842,13842,Mombasa,Mombasa,13,Send Money,28,15,Yes,No,8,Yes,Yes
+TXN001844,472345,Nyeri,Nyeri,20,Till,19,29,Yes,Yes,7,Yes,Yes
+TXN001845,486486,Kiambu,Kiambu,17,Paybill,85,17,Yes,Yes,8,No,Yes
+TXN001847,229513,Nyeri,Nairobi,13,Withdraw,120,1,Yes,Yes,0,No,Yes
+TXN001848,167926,Meru,Mombasa,9,Withdraw,61,22,Yes,Yes,3,No,Yes
+TXN001849,48024,Meru,Kiambu,5,Withdraw,98,21,Yes,Yes,8,No,Yes
+TXN001850,293488,Nairobi,Kiambu,1,Till,116,17,Yes,No,6,No,Yes
+TXN001851,120288,Machakos,Uasin Gishu,1,Withdraw,92,4,No,Yes,6,Yes,Yes
+TXN001852,471692,Nyeri,Nyeri,7,Till,71,21,Yes,Yes,7,No,Yes
+TXN001853,379039,Kiambu,Nairobi,19,Withdraw,49,12,Yes,No,6,Yes,Yes
+TXN001857,229,Nyeri,Nyeri,7,Send Money,65,19,Yes,No,8,No,Yes
+TXN001859,222827,Nakuru,Mombasa,18,Paybill,3,20,Yes,Yes,4,Yes,Yes
+TXN001860,187612,Nakuru,Nakuru,15,Withdraw,85,25,Yes,Yes,6,Yes,Yes
+TXN001861,468995,Machakos,Nyeri,16,Send Money,1,11,Yes,Yes,0,No,Yes
+TXN001862,210084,Kiambu,Kakamega,4,Till,43,25,Yes,Yes,5,No,Yes
+TXN001865,286680,Mombasa,Kiambu,2,Withdraw,70,30,Yes,No,7,Yes,Yes
+TXN001866,142063,Uasin Gishu,Uasin Gishu,8,Withdraw,53,17,Yes,Yes,5,Yes,Yes
+TXN001867,323256,Kiambu,Nyeri,12,Till,85,18,Yes,No,8,No,Yes
+TXN001868,361121,Machakos,Nairobi,3,Send Money,115,28,Yes,No,5,No,Yes
+TXN001869,321804,Nakuru,Uasin Gishu,22,Send Money,18,24,Yes,Yes,7,No,Yes
+TXN001870,184211,Nakuru,Meru,17,Withdraw,15,3,No,Yes,6,Yes,Yes
+TXN001875,84895,Kakamega,Kakamega,10,Send Money,2,27,No,No,6,No,Yes
+TXN001878,367365,Nakuru,Nairobi,0,Withdraw,38,2,Yes,No,5,No,Yes
+TXN001882,31490,Kakamega,Kakamega,17,Paybill,1,25,Yes,Yes,7,No,Yes
+TXN001883,102749,Kiambu,Kakamega,4,Withdraw,112,3,Yes,No,7,Yes,Yes
+TXN001886,454292,Kisumu,Machakos,8,Paybill,97,18,Yes,No,8,No,Yes
+TXN001887,162454,Kiambu,Nairobi,1,Withdraw,17,4,Yes,No,4,No,Yes
+TXN001890,472522,Kakamega,Kisumu,0,Paybill,100,13,Yes,Yes,4,Yes,Yes
+TXN001893,319278,Machakos,Nakuru,9,Send Money,102,8,No,Yes,4,Yes,Yes
+TXN001894,18800,Kakamega,Nyeri,9,Send Money,110,30,Yes,Yes,6,No,Yes
+TXN001895,441794,Machakos,Kiambu,8,Withdraw,55,12,Yes,No,4,No,Yes
+TXN001897,369451,Meru,Mombasa,4,Withdraw,101,18,Yes,Yes,5,Yes,Yes
+TXN001900,121973,Kiambu,Kisumu,6,Paybill,5,26,Yes,No,4,Yes,Yes
+TXN001901,310634,Mombasa,Nyeri,15,Send Money,58,6,Yes,Yes,1,Yes,Yes
+TXN001902,205516,Meru,Nyeri,6,Paybill,118,27,Yes,Yes,2,Yes,Yes
+TXN001905,374845,Machakos,Uasin Gishu,2,Till,50,4,Yes,Yes,4,Yes,Yes
+TXN001906,32404,Mombasa,Meru,16,Send Money,118,24,Yes,No,5,Yes,Yes
+TXN001907,412228,Kiambu,Uasin Gishu,18,Till,62,9,No,Yes,3,No,Yes
+TXN001908,436287,Nairobi,Kakamega,12,Paybill,87,26,Yes,Yes,0,Yes,Yes
+TXN001911,480371,Nairobi,Kakamega,17,Till,48,10,Yes,Yes,3,No,Yes
+TXN001913,220088,Kisumu,Uasin Gishu,19,Withdraw,71,7,No,Yes,6,No,Yes
+TXN001914,411569,Kakamega,Nyeri,21,Withdraw,2,17,Yes,No,8,Yes,Yes
+TXN001915,409827,Kisumu,Machakos,14,Send Money,79,3,No,Yes,5,No,Yes
+TXN001916,298553,Nairobi,Mombasa,4,Withdraw,59,29,No,Yes,3,Yes,Yes
+TXN001923,167277,Machakos,Kakamega,0,Send Money,56,25,Yes,Yes,2,Yes,Yes
+TXN001924,491882,Uasin Gishu,Kiambu,1,Withdraw,94,2,Yes,No,3,No,Yes
+TXN001925,90058,Nyeri,Kisumu,17,Till,28,27,Yes,No,7,Yes,Yes
+TXN001933,453666,Kakamega,Mombasa,13,Send Money,110,14,No,Yes,4,No,Yes
+TXN001934,327418,Nyeri,Mombasa,6,Send Money,102,24,Yes,No,3,No,Yes
+TXN001935,18673,Nakuru,Kisumu,2,Withdraw,34,11,Yes,Yes,5,No,Yes
+TXN001937,212717,Nakuru,Meru,17,Paybill,111,9,No,Yes,6,No,Yes
+TXN001938,376356,Kisumu,Machakos,7,Withdraw,33,29,No,Yes,8,No,Yes
+TXN001940,428028,Kakamega,Meru,10,Till,57,30,No,Yes,6,No,Yes
+TXN001941,42025,Meru,Nairobi,17,Till,47,13,Yes,Yes,2,Yes,Yes
+TXN001942,473122,Nairobi,Meru,3,Paybill,99,11,Yes,Yes,7,No,Yes
+TXN001944,357602,Meru,Machakos,7,Till,50,2,Yes,Yes,0,No,Yes
+TXN001948,148171,Kisumu,Kakamega,19,Send Money,6,27,No,Yes,7,Yes,Yes
+TXN001949,488031,Nairobi,Nairobi,12,Till,46,23,No,Yes,3,Yes,Yes
+TXN001950,355275,Nairobi,Kiambu,11,Paybill,80,7,No,Yes,3,Yes,Yes
+TXN001952,328705,Nyeri,Machakos,11,Paybill,79,30,Yes,Yes,5,Yes,Yes
+TXN001954,213727,Nyeri,Nairobi,2,Withdraw,63,19,Yes,Yes,6,No,Yes
+TXN001955,376032,Nyeri,Kiambu,22,Paybill,57,16,No,Yes,3,No,Yes
+TXN001956,375784,Nakuru,Nairobi,0,Withdraw,114,7,Yes,No,4,No,Yes
+TXN001957,257358,Nakuru,Kisumu,20,Till,59,13,Yes,No,5,Yes,Yes
+TXN001958,434392,Kiambu,Kisumu,12,Paybill,2,3,No,Yes,6,No,Yes
+TXN001960,161381,Meru,Nairobi,20,Withdraw,43,28,Yes,Yes,0,Yes,Yes
+TXN001962,79462,Kakamega,Nakuru,4,Send Money,114,29,Yes,Yes,6,No,Yes
+TXN001965,351866,Machakos,Machakos,16,Paybill,103,29,Yes,Yes,2,No,Yes
+TXN001967,441423,Kisumu,Mombasa,20,Paybill,21,8,Yes,Yes,3,No,Yes
+TXN001969,405221,Machakos,Nyeri,17,Send Money,15,17,No,Yes,8,No,Yes
+TXN001971,371680,Mombasa,Nyeri,12,Paybill,7,25,No,Yes,7,Yes,Yes
+TXN001972,266661,Machakos,Kiambu,1,Send Money,117,19,No,Yes,8,No,Yes
+TXN001974,281411,Kiambu,Mombasa,8,Till,17,21,Yes,Yes,2,Yes,Yes
+TXN001975,255522,Mombasa,Uasin Gishu,11,Paybill,36,21,Yes,Yes,8,Yes,Yes
+TXN001976,367628,Nakuru,Nairobi,8,Paybill,2,22,Yes,Yes,2,Yes,Yes
+TXN001977,114878,Kisumu,Mombasa,7,Till,110,5,Yes,No,7,No,Yes
+TXN001978,376411,Nairobi,Uasin Gishu,8,Withdraw,25,2,Yes,Yes,6,No,Yes
+TXN001979,103356,Kakamega,Kakamega,11,Withdraw,1,22,Yes,No,3,No,Yes
+TXN001980,473531,Kisumu,Meru,2,Withdraw,75,4,Yes,Yes,1,Yes,Yes
+TXN001981,357947,Meru,Nairobi,5,Paybill,114,27,Yes,No,4,No,Yes
+TXN001983,85090,Kakamega,Nairobi,16,Send Money,20,19,Yes,Yes,1,No,Yes
+TXN001987,297611,Kakamega,Nakuru,4,Paybill,54,12,Yes,No,6,Yes,Yes
+TXN001988,202079,Kiambu,Nakuru,13,Paybill,18,14,Yes,Yes,4,Yes,Yes
+TXN001992,191242,Nairobi,Nakuru,2,Send Money,69,8,Yes,Yes,4,Yes,Yes
+TXN001995,378452,Uasin Gishu,Machakos,18,Withdraw,99,29,No,Yes,5,Yes,Yes
+TXN001998,266412,Machakos,Machakos,18,Withdraw,12,27,No,Yes,6,Yes,Yes
+TXN002001,341185,Mombasa,Kiambu,10,Till,70,19,Yes,Yes,2,No,Yes
+TXN002002,111980,Kakamega,Nakuru,3,Send Money,92,26,Yes,No,6,Yes,Yes
+TXN002003,15772,Kisumu,Kisumu,3,Send Money,69,21,Yes,No,8,No,Yes
+TXN002004,193176,Machakos,Kisumu,6,Till,94,18,No,Yes,8,No,Yes
+TXN002005,427683,Kiambu,Kiambu,21,Withdraw,85,9,Yes,No,8,No,Yes
+TXN002006,25535,Machakos,Kisumu,7,Withdraw,15,16,Yes,Yes,0,No,Yes
+TXN002008,58495,Kakamega,Nyeri,2,Send Money,36,30,Yes,Yes,5,Yes,Yes
+TXN002010,382511,Nakuru,Mombasa,13,Send Money,17,3,No,Yes,5,No,Yes
+TXN002011,316832,Kakamega,Kisumu,1,Paybill,39,8,Yes,Yes,6,Yes,Yes
+TXN002013,301837,Machakos,Meru,11,Paybill,93,21,No,Yes,5,Yes,Yes
+TXN002014,476913,Meru,Nakuru,16,Paybill,31,5,Yes,Yes,7,Yes,Yes
+TXN002015,796,Kisumu,Nakuru,13,Withdraw,37,12,No,Yes,5,Yes,Yes
+TXN002016,45719,Nairobi,Nyeri,14,Send Money,65,12,Yes,No,6,Yes,Yes
+TXN002017,268197,Nakuru,Uasin Gishu,1,Send Money,24,13,No,Yes,8,Yes,Yes
+TXN002020,232108,Kisumu,Kisumu,5,Send Money,97,9,Yes,Yes,3,Yes,Yes
+TXN002022,93707,Meru,Machakos,6,Till,94,12,No,Yes,6,Yes,Yes
+TXN002023,344029,Mombasa,Mombasa,17,Send Money,7,29,No,Yes,7,Yes,Yes
+TXN002025,120172,Kisumu,Nairobi,21,Send Money,110,18,No,Yes,8,No,Yes
+TXN002027,344429,Nairobi,Machakos,10,Till,47,13,Yes,No,4,No,Yes
+TXN002028,298200,Uasin Gishu,Kiambu,2,Send Money,10,26,Yes,Yes,5,Yes,Yes
+TXN002030,302161,Machakos,Kisumu,1,Withdraw,93,13,Yes,No,7,No,Yes
+TXN002031,421277,Uasin Gishu,Kisumu,21,Send Money,1,26,Yes,Yes,4,Yes,Yes
+TXN002035,229609,Nyeri,Uasin Gishu,11,Paybill,84,13,Yes,No,5,No,Yes
+TXN002036,440797,Meru,Mombasa,20,Withdraw,82,30,Yes,No,3,Yes,Yes
+TXN002041,484155,Machakos,Uasin Gishu,22,Send Money,40,29,Yes,No,3,No,Yes
+TXN002042,134756,Machakos,Machakos,22,Paybill,110,11,Yes,Yes,6,Yes,Yes
+TXN002044,462855,Machakos,Nakuru,1,Till,82,19,No,Yes,6,Yes,Yes
+TXN002045,311248,Mombasa,Kisumu,16,Paybill,60,24,Yes,Yes,5,No,Yes
+TXN002046,242623,Mombasa,Machakos,19,Till,53,22,Yes,No,4,Yes,Yes
+TXN002048,173278,Mombasa,Kiambu,19,Send Money,97,9,No,Yes,4,No,Yes
+TXN002049,207417,Meru,Kakamega,9,Paybill,73,30,Yes,Yes,4,No,Yes
+TXN002051,262458,Mombasa,Nakuru,5,Send Money,54,5,No,Yes,8,No,Yes
+TXN002053,171399,Machakos,Machakos,15,Paybill,39,29,No,Yes,4,No,Yes
+TXN002054,450488,Kiambu,Kiambu,18,Withdraw,100,5,Yes,Yes,0,Yes,Yes
+TXN002055,444780,Nairobi,Kisumu,23,Till,39,13,Yes,Yes,3,Yes,Yes
+TXN002056,55958,Uasin Gishu,Machakos,16,Withdraw,18,25,Yes,Yes,7,No,Yes
+TXN002060,489099,Kiambu,Kakamega,9,Paybill,86,24,Yes,Yes,3,Yes,Yes
+TXN002061,139050,Kakamega,Meru,13,Withdraw,53,7,Yes,Yes,4,Yes,Yes
+TXN002062,409744,Kisumu,Meru,8,Withdraw,106,18,Yes,Yes,8,No,Yes
+TXN002063,394976,Kiambu,Mombasa,14,Till,75,2,Yes,Yes,7,No,Yes
+TXN002066,104367,Nairobi,Kisumu,10,Withdraw,26,5,Yes,Yes,0,Yes,Yes
+TXN002067,300790,Nakuru,Nakuru,8,Withdraw,14,7,Yes,Yes,3,Yes,Yes
+TXN002068,245650,Nairobi,Kakamega,13,Paybill,57,3,Yes,No,7,No,Yes
+TXN002070,110469,Kakamega,Kisumu,7,Send Money,8,3,Yes,Yes,8,No,Yes
+TXN002071,113707,Kakamega,Mombasa,18,Send Money,35,23,Yes,Yes,2,No,Yes
+TXN002072,47690,Nairobi,Machakos,1,Withdraw,59,23,Yes,Yes,2,No,Yes
+TXN002075,281499,Machakos,Nyeri,2,Paybill,112,30,No,Yes,7,Yes,Yes
+TXN002076,81603,Nyeri,Kiambu,22,Till,41,20,Yes,No,6,No,Yes
+TXN002077,479699,Nakuru,Kakamega,18,Send Money,65,24,Yes,Yes,7,Yes,Yes
+TXN002078,416559,Mombasa,Nyeri,14,Send Money,24,4,Yes,Yes,1,Yes,Yes
+TXN002080,418399,Meru,Meru,19,Till,81,30,Yes,Yes,5,Yes,Yes
+TXN002081,364139,Kisumu,Kisumu,4,Withdraw,46,6,No,Yes,7,Yes,Yes
+TXN002082,495683,Kisumu,Kisumu,0,Till,50,24,No,Yes,3,No,Yes
+TXN002083,449446,Uasin Gishu,Machakos,21,Till,38,5,Yes,Yes,6,Yes,Yes
+TXN002084,309958,Nyeri,Nakuru,6,Till,113,21,No,Yes,3,Yes,Yes
+TXN002085,154414,Nyeri,Meru,18,Till,39,15,Yes,No,8,No,Yes
+TXN002086,6207,Meru,Uasin Gishu,16,Till,35,15,Yes,Yes,0,No,Yes
+TXN002087,37469,Kiambu,Meru,22,Paybill,79,25,No,Yes,7,No,Yes
+TXN002088,208329,Nakuru,Kiambu,5,Withdraw,55,21,Yes,Yes,5,No,Yes
+TXN002091,79169,Nakuru,Nairobi,4,Till,76,10,Yes,Yes,5,No,Yes
+TXN002092,165622,Kakamega,Kisumu,20,Withdraw,97,22,No,Yes,6,Yes,Yes
+TXN002094,326944,Mombasa,Nakuru,20,Send Money,66,1,No,Yes,3,Yes,Yes
+TXN002095,22913,Kisumu,Kisumu,3,Paybill,35,19,Yes,Yes,1,Yes,Yes
+TXN002096,410101,Uasin Gishu,Nyeri,13,Withdraw,10,12,No,Yes,5,Yes,Yes
+TXN002097,210532,Kiambu,Nyeri,17,Send Money,39,29,Yes,Yes,1,No,Yes
+TXN002098,204240,Kisumu,Meru,16,Withdraw,40,10,Yes,Yes,0,No,Yes
+TXN002099,231913,Uasin Gishu,Uasin Gishu,9,Withdraw,82,17,No,Yes,5,No,Yes
+TXN002101,374842,Kisumu,Nairobi,9,Send Money,120,14,Yes,Yes,1,Yes,Yes
+TXN002103,47260,Meru,Nyeri,3,Paybill,61,28,No,Yes,6,No,Yes
+TXN002104,269370,Uasin Gishu,Uasin Gishu,13,Send Money,90,7,Yes,Yes,0,Yes,Yes
+TXN002105,386712,Machakos,Nakuru,23,Paybill,89,24,Yes,Yes,0,Yes,Yes
+TXN002107,141687,Uasin Gishu,Meru,5,Send Money,32,29,Yes,Yes,5,Yes,Yes
+TXN002108,31319,Nakuru,Nakuru,5,Paybill,58,13,No,Yes,7,No,Yes
+TXN002109,462479,Uasin Gishu,Mombasa,16,Till,112,17,No,Yes,3,No,Yes
+TXN002110,332972,Mombasa,Nakuru,13,Till,15,29,No,Yes,6,No,Yes
+TXN002111,407406,Nakuru,Nakuru,22,Paybill,14,1,Yes,Yes,2,Yes,Yes
+TXN002113,170635,Uasin Gishu,Mombasa,20,Send Money,91,25,Yes,No,7,No,Yes
+TXN002115,244939,Machakos,Meru,13,Paybill,78,15,No,Yes,7,Yes,Yes
+TXN002117,364918,Kisumu,Machakos,14,Paybill,106,13,No,Yes,5,Yes,Yes
+TXN002118,161555,Meru,Kiambu,21,Withdraw,79,17,Yes,No,5,Yes,Yes
+TXN002121,254031,Kiambu,Nyeri,11,Till,3,18,Yes,No,4,No,Yes
+TXN002123,272148,Uasin Gishu,Kiambu,18,Send Money,81,11,Yes,No,8,Yes,Yes
+TXN002124,139102,Nairobi,Machakos,5,Send Money,38,11,Yes,Yes,8,No,Yes
+TXN002126,289916,Kiambu,Nyeri,8,Till,78,29,Yes,Yes,8,Yes,Yes
+TXN002127,272723,Nairobi,Machakos,15,Till,14,25,Yes,Yes,8,Yes,Yes
+TXN002128,349622,Nyeri,Machakos,13,Paybill,105,18,Yes,No,4,Yes,Yes
+TXN002130,377644,Nairobi,Machakos,12,Till,50,25,No,Yes,5,Yes,Yes
+TXN002132,263585,Kisumu,Uasin Gishu,20,Send Money,98,16,Yes,Yes,8,No,Yes
+TXN002133,16423,Nairobi,Nakuru,8,Till,15,21,Yes,No,5,Yes,Yes
+TXN002134,158917,Machakos,Uasin Gishu,17,Withdraw,33,5,Yes,No,7,No,Yes
+TXN002139,315032,Machakos,Nairobi,15,Send Money,56,11,Yes,Yes,3,Yes,Yes
+TXN002141,206822,Nakuru,Kisumu,20,Withdraw,17,22,Yes,Yes,1,No,Yes
+TXN002142,259390,Machakos,Nyeri,10,Paybill,21,14,No,Yes,5,No,Yes
+TXN002143,94917,Machakos,Mombasa,12,Send Money,75,22,No,Yes,5,Yes,Yes
+TXN002144,263429,Nairobi,Machakos,1,Send Money,42,16,No,Yes,7,Yes,Yes
+TXN002145,190509,Kiambu,Kiambu,15,Paybill,40,20,Yes,No,7,No,Yes
+TXN002147,58841,Meru,Kakamega,6,Till,107,26,No,Yes,5,No,Yes
+TXN002148,151771,Kakamega,Nyeri,17,Send Money,109,29,Yes,Yes,5,Yes,Yes
+TXN002150,223985,Machakos,Kisumu,15,Withdraw,120,2,No,Yes,8,Yes,Yes
+TXN002151,102967,Machakos,Kisumu,3,Withdraw,2,10,No,Yes,5,Yes,Yes
+TXN002152,362600,Kakamega,Nyeri,1,Send Money,40,14,No,Yes,5,Yes,Yes
+TXN002153,268424,Nakuru,Kiambu,8,Withdraw,73,28,Yes,No,6,No,Yes
+TXN002155,162784,Uasin Gishu,Kiambu,10,Send Money,29,7,No,Yes,4,No,Yes
+TXN002156,319651,Nyeri,Meru,17,Till,76,19,Yes,Yes,1,Yes,Yes
+TXN002157,251546,Mombasa,Mombasa,17,Withdraw,30,19,Yes,Yes,5,Yes,Yes
+TXN002158,347952,Kiambu,Nyeri,16,Till,67,10,No,Yes,4,No,Yes
+TXN002160,333030,Meru,Nairobi,5,Paybill,91,19,No,Yes,8,Yes,Yes
+TXN002162,471234,Kiambu,Machakos,3,Till,11,15,Yes,No,8,No,Yes
+TXN002164,380745,Uasin Gishu,Nyeri,3,Send Money,28,21,Yes,Yes,8,No,Yes
+TXN002165,303152,Meru,Nairobi,0,Paybill,32,20,No,Yes,4,No,Yes
+TXN002166,436988,Kisumu,Nyeri,13,Withdraw,14,15,No,Yes,5,No,Yes
+TXN002167,306863,Kakamega,Nairobi,21,Till,27,8,No,Yes,5,Yes,Yes
+TXN002169,5521,Machakos,Machakos,3,Paybill,32,28,Yes,No,4,Yes,Yes
+TXN002170,379376,Nyeri,Mombasa,1,Till,55,2,Yes,No,8,Yes,Yes
+TXN002171,171880,Nakuru,Uasin Gishu,2,Till,8,29,Yes,No,3,No,Yes
+TXN002172,489035,Kisumu,Kakamega,2,Paybill,90,26,No,Yes,6,No,Yes
+TXN002173,361917,Nakuru,Meru,1,Send Money,45,17,No,Yes,3,No,Yes
+TXN002176,414160,Uasin Gishu,Meru,1,Paybill,113,4,Yes,No,4,Yes,Yes
+TXN002177,439570,Kakamega,Nairobi,5,Withdraw,66,30,Yes,No,7,Yes,Yes
+TXN002178,401502,Kiambu,Kisumu,16,Send Money,84,13,No,Yes,5,Yes,Yes
+TXN002179,198079,Nairobi,Mombasa,19,Withdraw,104,9,No,Yes,6,Yes,Yes
+TXN002180,497489,Uasin Gishu,Kiambu,1,Till,42,21,Yes,No,8,No,Yes
+TXN002181,65292,Nairobi,Kiambu,4,Withdraw,5,7,Yes,Yes,7,Yes,Yes
+TXN002182,220092,Kiambu,Kakamega,3,Paybill,27,14,Yes,Yes,4,No,Yes
+TXN002183,310416,Uasin Gishu,Kakamega,12,Till,41,26,Yes,Yes,6,Yes,Yes
+TXN002184,364520,Meru,Nyeri,14,Till,97,28,Yes,Yes,2,No,Yes
+TXN002185,456793,Nyeri,Kakamega,4,Withdraw,41,25,No,Yes,3,No,Yes
+TXN002186,64687,Mombasa,Uasin Gishu,8,Send Money,59,9,Yes,Yes,6,Yes,Yes
+TXN002187,106530,Kakamega,Machakos,16,Paybill,40,7,Yes,No,3,No,Yes
+TXN002189,376205,Nyeri,Uasin Gishu,0,Paybill,2,20,Yes,Yes,5,Yes,Yes
+TXN002190,285761,Nairobi,Kiambu,2,Paybill,17,13,Yes,No,4,Yes,Yes
+TXN002191,452173,Kakamega,Kisumu,0,Till,112,8,Yes,Yes,5,No,Yes
+TXN002192,397440,Mombasa,Meru,6,Paybill,36,3,Yes,Yes,7,No,Yes
+TXN002193,141986,Meru,Kiambu,3,Paybill,48,25,Yes,Yes,0,No,Yes
+TXN002195,107364,Kisumu,Kisumu,9,Send Money,24,6,No,Yes,7,No,Yes
+TXN002196,138994,Mombasa,Nyeri,19,Send Money,107,29,Yes,Yes,6,Yes,Yes
+TXN002200,285106,Meru,Machakos,0,Send Money,75,1,Yes,No,7,No,Yes
+TXN002203,296991,Kisumu,Kisumu,3,Send Money,6,24,No,Yes,6,No,Yes
+TXN002205,286918,Kiambu,Nakuru,13,Send Money,104,3,No,Yes,7,No,Yes
+TXN002207,8122,Kisumu,Nairobi,18,Till,19,11,Yes,Yes,4,Yes,Yes
+TXN002213,414847,Uasin Gishu,Nairobi,0,Till,113,30,No,Yes,3,No,Yes
+TXN002214,163607,Meru,Mombasa,18,Send Money,59,9,Yes,Yes,7,Yes,Yes
+TXN002215,257315,Nairobi,Nairobi,12,Paybill,38,20,Yes,Yes,6,No,Yes
+TXN002216,206115,Kiambu,Nyeri,8,Withdraw,78,24,Yes,Yes,5,Yes,Yes
+TXN002217,141827,Machakos,Kiambu,13,Paybill,58,2,Yes,Yes,3,No,Yes
+TXN002218,77662,Nakuru,Kakamega,21,Paybill,92,28,Yes,Yes,1,Yes,Yes
+TXN002219,454198,Nairobi,Nairobi,0,Send Money,2,12,No,Yes,3,Yes,Yes
+TXN002220,287644,Nakuru,Meru,3,Send Money,67,13,Yes,No,6,No,Yes
+TXN002221,1810,Uasin Gishu,Nairobi,0,Send Money,67,17,Yes,Yes,4,Yes,Yes
+TXN002222,201629,Nakuru,Kakamega,23,Withdraw,73,25,Yes,Yes,2,No,Yes
+TXN002224,251723,Meru,Meru,16,Till,34,13,Yes,Yes,0,Yes,Yes
+TXN002227,99199,Machakos,Nakuru,8,Withdraw,82,9,Yes,Yes,5,Yes,Yes
+TXN002229,231584,Kiambu,Nairobi,4,Send Money,19,23,Yes,Yes,0,Yes,Yes
+TXN002230,361136,Meru,Kiambu,0,Paybill,65,5,Yes,Yes,8,No,Yes
+TXN002231,467024,Kakamega,Kiambu,22,Till,51,5,Yes,No,8,Yes,Yes
+TXN002232,474443,Kiambu,Kisumu,7,Till,18,15,Yes,No,3,No,Yes
+TXN002237,240321,Meru,Uasin Gishu,2,Till,12,1,Yes,Yes,3,Yes,Yes
+TXN002241,3638,Kiambu,Nakuru,11,Withdraw,47,16,Yes,No,7,Yes,Yes
+TXN002242,43604,Kisumu,Kakamega,21,Paybill,63,14,Yes,Yes,5,Yes,Yes
+TXN002245,248198,Machakos,Nairobi,1,Withdraw,60,27,Yes,Yes,0,Yes,Yes
+TXN002247,425611,Nyeri,Kisumu,3,Paybill,27,10,Yes,No,6,No,Yes
+TXN002250,286679,Uasin Gishu,Nakuru,9,Paybill,71,3,Yes,No,3,Yes,Yes
+TXN002253,427437,Kisumu,Nakuru,0,Send Money,113,12,No,Yes,4,Yes,Yes
+TXN002255,27769,Meru,Kakamega,17,Send Money,8,7,Yes,Yes,3,Yes,Yes
+TXN002257,56116,Nairobi,Mombasa,20,Withdraw,97,23,No,Yes,7,No,Yes
+TXN002258,463576,Mombasa,Meru,20,Till,119,5,No,Yes,8,No,Yes
+TXN002260,117205,Kisumu,Nyeri,16,Withdraw,44,17,Yes,Yes,0,No,Yes
+TXN002261,274035,Nakuru,Kakamega,3,Withdraw,96,1,No,Yes,7,Yes,Yes
+TXN002263,131811,Nakuru,Nairobi,14,Withdraw,62,16,Yes,Yes,7,No,Yes
+TXN002264,293472,Nyeri,Machakos,11,Withdraw,111,4,Yes,Yes,4,Yes,Yes
+TXN002265,454676,Nakuru,Kisumu,6,Withdraw,65,2,Yes,Yes,4,No,Yes
+TXN002269,439785,Nairobi,Kakamega,0,Paybill,53,29,No,Yes,6,Yes,Yes
+TXN002270,103662,Mombasa,Meru,17,Paybill,47,2,No,Yes,4,Yes,Yes
+TXN002271,303029,Nairobi,Kiambu,3,Withdraw,18,10,No,Yes,3,Yes,Yes
+TXN002272,314982,Nairobi,Kisumu,3,Till,104,26,Yes,Yes,5,Yes,Yes
+TXN002274,121206,Mombasa,Nairobi,10,Send Money,86,28,No,Yes,4,Yes,Yes
+TXN002276,448590,Machakos,Mombasa,4,Send Money,16,11,No,Yes,8,No,Yes
+TXN002279,119106,Uasin Gishu,Machakos,8,Withdraw,94,13,Yes,Yes,4,No,Yes
+TXN002280,405410,Kakamega,Mombasa,0,Withdraw,60,15,Yes,Yes,5,Yes,Yes
+TXN002281,106781,Kiambu,Kakamega,17,Paybill,8,27,No,Yes,5,No,Yes
+TXN002282,252313,Machakos,Kiambu,7,Send Money,86,24,Yes,Yes,1,No,Yes
+TXN002284,352224,Kiambu,Uasin Gishu,21,Withdraw,24,13,Yes,Yes,2,No,Yes
+TXN002288,468300,Kiambu,Nyeri,16,Withdraw,68,14,No,Yes,6,Yes,Yes
+TXN002289,310072,Nakuru,Kiambu,0,Till,87,8,Yes,Yes,5,No,Yes
+TXN002290,413297,Mombasa,Machakos,19,Withdraw,4,22,Yes,No,3,No,Yes
+TXN002291,225003,Uasin Gishu,Kakamega,1,Withdraw,33,25,Yes,No,3,No,Yes
+TXN002293,307647,Kisumu,Kisumu,15,Paybill,91,28,Yes,Yes,8,No,Yes
+TXN002294,451101,Nairobi,Kisumu,5,Paybill,52,24,Yes,No,3,Yes,Yes
+TXN002295,252833,Uasin Gishu,Meru,3,Withdraw,14,4,Yes,No,5,No,Yes
+TXN002298,306503,Uasin Gishu,Meru,17,Send Money,110,26,Yes,Yes,0,Yes,Yes
+TXN002300,455316,Uasin Gishu,Nakuru,14,Send Money,10,15,No,Yes,3,Yes,Yes
+TXN002301,465708,Nakuru,Kisumu,13,Withdraw,44,22,Yes,Yes,4,Yes,Yes
+TXN002303,410315,Meru,Nairobi,23,Withdraw,57,14,Yes,Yes,8,Yes,Yes
+TXN002305,57053,Kisumu,Kakamega,5,Send Money,90,20,Yes,Yes,2,No,Yes
+TXN002306,83970,Nairobi,Kiambu,18,Withdraw,115,19,Yes,No,3,No,Yes
+TXN002308,289962,Meru,Meru,11,Send Money,83,10,No,Yes,7,No,Yes
+TXN002310,88993,Kisumu,Kisumu,2,Till,6,18,Yes,Yes,2,Yes,Yes
+TXN002311,407227,Nyeri,Meru,1,Paybill,106,10,Yes,Yes,4,No,Yes
+TXN002313,187493,Nairobi,Mombasa,19,Paybill,9,2,Yes,No,5,No,Yes
+TXN002314,177073,Nakuru,Meru,6,Paybill,37,11,Yes,Yes,6,No,Yes
+TXN002315,101105,Meru,Uasin Gishu,4,Send Money,113,6,No,Yes,6,Yes,Yes
+TXN002318,498846,Nakuru,Mombasa,15,Withdraw,8,4,Yes,Yes,7,No,Yes
+TXN002320,336075,Meru,Kisumu,5,Withdraw,12,19,Yes,No,5,Yes,Yes
+TXN002321,234059,Nakuru,Uasin Gishu,4,Withdraw,10,23,Yes,Yes,7,No,Yes
+TXN002322,448300,Kiambu,Uasin Gishu,3,Paybill,36,16,No,Yes,8,No,Yes
+TXN002323,367690,Nairobi,Nairobi,18,Paybill,4,29,No,Yes,7,Yes,Yes
+TXN002325,32972,Machakos,Mombasa,8,Paybill,46,23,Yes,No,5,Yes,Yes
+TXN002326,377430,Nairobi,Nyeri,14,Withdraw,99,5,Yes,Yes,4,Yes,Yes
+TXN002327,480992,Machakos,Kiambu,4,Paybill,76,15,Yes,No,7,Yes,Yes
+TXN002328,49031,Meru,Kisumu,23,Send Money,65,18,Yes,No,5,Yes,Yes
+TXN002330,109610,Machakos,Meru,1,Paybill,113,8,Yes,No,5,Yes,Yes
+TXN002332,385527,Kakamega,Kisumu,12,Paybill,68,17,Yes,Yes,5,No,Yes
+TXN002335,96291,Machakos,Uasin Gishu,5,Till,112,12,Yes,Yes,8,Yes,Yes
+TXN002336,234523,Nairobi,Mombasa,5,Paybill,23,18,No,Yes,4,Yes,Yes
+TXN002342,220183,Machakos,Uasin Gishu,8,Withdraw,3,30,Yes,No,7,Yes,Yes
+TXN002343,58192,Kisumu,Uasin Gishu,9,Paybill,119,22,No,Yes,7,No,Yes
+TXN002347,204044,Kisumu,Kakamega,15,Withdraw,45,9,No,Yes,3,No,Yes
+TXN002348,274440,Kiambu,Meru,9,Paybill,47,16,No,Yes,6,Yes,Yes
+TXN002352,181113,Meru,Kiambu,14,Send Money,55,25,No,Yes,8,No,Yes
+TXN002354,147308,Kiambu,Mombasa,20,Send Money,89,15,Yes,Yes,8,No,Yes
+TXN002355,1734,Kiambu,Kisumu,2,Withdraw,77,11,Yes,No,5,No,Yes
+TXN002358,144652,Nyeri,Kakamega,20,Till,28,15,Yes,No,6,Yes,Yes
+TXN002360,192853,Nairobi,Kisumu,14,Withdraw,85,10,Yes,No,8,Yes,Yes
+TXN002361,484755,Machakos,Nairobi,22,Withdraw,90,6,Yes,Yes,8,No,Yes
+TXN002362,340738,Machakos,Uasin Gishu,13,Send Money,108,27,No,Yes,4,Yes,Yes
+TXN002363,176976,Uasin Gishu,Meru,16,Paybill,116,2,Yes,Yes,7,No,Yes
+TXN002365,287356,Kakamega,Meru,20,Till,120,5,Yes,Yes,6,No,Yes
+TXN002366,406950,Machakos,Nakuru,16,Till,11,20,Yes,No,8,No,Yes
+TXN002367,354601,Meru,Uasin Gishu,6,Till,77,26,Yes,No,7,Yes,Yes
+TXN002370,285821,Nakuru,Kisumu,1,Send Money,111,13,No,Yes,6,No,Yes
+TXN002371,210928,Nyeri,Meru,2,Paybill,98,6,Yes,No,3,Yes,Yes
+TXN002372,257233,Nakuru,Kakamega,2,Withdraw,16,18,Yes,No,5,Yes,Yes
+TXN002373,386732,Kisumu,Uasin Gishu,18,Till,118,30,Yes,No,4,No,Yes
+TXN002374,82748,Kiambu,Meru,22,Send Money,4,7,Yes,Yes,3,No,Yes
+TXN002376,429717,Meru,Nyeri,5,Till,69,15,Yes,Yes,5,No,Yes
+TXN002378,217254,Nakuru,Mombasa,10,Send Money,61,17,Yes,No,6,No,Yes
+TXN002379,54028,Machakos,Nairobi,6,Withdraw,49,21,No,Yes,8,Yes,Yes
+TXN002381,106788,Uasin Gishu,Kisumu,16,Paybill,4,17,Yes,Yes,7,Yes,Yes
+TXN002382,314957,Nairobi,Nairobi,14,Paybill,54,18,Yes,No,4,No,Yes
+TXN002383,270760,Mombasa,Mombasa,13,Send Money,65,22,No,Yes,7,No,Yes
+TXN002385,8205,Kakamega,Nairobi,20,Paybill,72,2,Yes,Yes,3,Yes,Yes
+TXN002388,156422,Meru,Mombasa,4,Paybill,21,22,No,Yes,6,Yes,Yes
+TXN002389,240451,Meru,Kakamega,12,Send Money,47,8,Yes,Yes,8,No,Yes
+TXN002391,442791,Nakuru,Uasin Gishu,8,Send Money,98,29,No,Yes,5,No,Yes
+TXN002393,440661,Kakamega,Nakuru,16,Till,113,29,Yes,Yes,5,No,Yes
+TXN002394,144986,Nakuru,Uasin Gishu,1,Withdraw,92,13,No,Yes,3,Yes,Yes
+TXN002396,477870,Kisumu,Meru,16,Withdraw,110,29,Yes,Yes,0,No,Yes
+TXN002397,96791,Uasin Gishu,Mombasa,14,Withdraw,22,14,Yes,Yes,6,No,Yes
+TXN002400,63708,Meru,Nakuru,3,Till,32,9,Yes,Yes,8,No,Yes
+TXN002401,104982,Uasin Gishu,Nairobi,0,Send Money,78,17,Yes,Yes,2,Yes,Yes
+TXN002402,470234,Kisumu,Meru,23,Send Money,9,10,No,Yes,7,No,Yes
+TXN002403,415500,Nakuru,Kiambu,3,Send Money,40,24,Yes,Yes,4,Yes,Yes
+TXN002408,461080,Kakamega,Meru,13,Withdraw,1,3,No,No,3,Yes,Yes
+TXN002412,103046,Nakuru,Uasin Gishu,2,Paybill,83,6,Yes,No,5,Yes,Yes
+TXN002413,23636,Nakuru,Nakuru,14,Send Money,19,23,No,Yes,3,No,Yes
+TXN002414,99600,Kakamega,Kiambu,17,Send Money,39,24,Yes,No,4,No,Yes
+TXN002415,408853,Kisumu,Nakuru,10,Send Money,35,16,No,Yes,7,No,Yes
+TXN002417,481827,Kisumu,Nyeri,18,Till,89,18,No,Yes,7,Yes,Yes
+TXN002418,41184,Meru,Mombasa,17,Till,35,12,No,Yes,4,Yes,Yes
+TXN002419,266851,Kakamega,Kiambu,8,Withdraw,1,12,No,Yes,1,No,Yes
+TXN002422,399106,Nakuru,Meru,12,Withdraw,32,20,Yes,Yes,1,Yes,Yes
+TXN002423,403198,Nyeri,Nyeri,12,Till,21,25,Yes,Yes,8,No,Yes
+TXN002424,329482,Kisumu,Uasin Gishu,10,Paybill,89,24,Yes,No,8,Yes,Yes
+TXN002425,318859,Meru,Nakuru,6,Paybill,90,11,Yes,No,4,No,Yes
+TXN002426,179642,Meru,Kakamega,9,Till,93,14,Yes,Yes,0,Yes,Yes
+TXN002427,445697,Nyeri,Meru,17,Withdraw,3,17,Yes,No,7,Yes,Yes
+TXN002429,356958,Mombasa,Machakos,17,Till,110,30,Yes,No,6,Yes,Yes
+TXN002431,58475,Kisumu,Kisumu,0,Till,77,21,No,Yes,4,No,Yes
+TXN002432,118481,Kiambu,Machakos,22,Till,77,29,No,Yes,7,No,Yes
+TXN002433,155378,Kakamega,Mombasa,9,Withdraw,62,24,Yes,Yes,3,Yes,Yes
+TXN002434,391115,Kakamega,Uasin Gishu,13,Paybill,10,27,No,Yes,4,No,Yes
+TXN002435,457637,Machakos,Nakuru,0,Paybill,53,6,Yes,No,6,Yes,Yes
+TXN002437,113339,Uasin Gishu,Nakuru,1,Withdraw,117,13,No,Yes,5,Yes,Yes
+TXN002439,139501,Meru,Mombasa,5,Send Money,108,1,Yes,Yes,3,Yes,Yes
+TXN002440,422360,Nairobi,Meru,8,Till,95,8,Yes,Yes,5,Yes,Yes
+TXN002443,135205,Nyeri,Meru,9,Till,104,9,Yes,Yes,5,No,Yes
+TXN002444,485398,Nyeri,Mombasa,22,Withdraw,43,8,Yes,Yes,8,Yes,Yes
+TXN002445,182429,Uasin Gishu,Uasin Gishu,5,Paybill,81,12,Yes,No,4,No,Yes
+TXN002447,366742,Uasin Gishu,Kisumu,9,Withdraw,53,13,Yes,Yes,6,Yes,Yes
+TXN002455,203653,Kiambu,Nyeri,14,Withdraw,114,4,Yes,Yes,5,No,Yes
+TXN002456,286803,Kakamega,Kakamega,23,Send Money,1,12,No,Yes,2,Yes,Yes
+TXN002457,284246,Nairobi,Meru,11,Withdraw,34,8,Yes,Yes,2,Yes,Yes
+TXN002458,256358,Kisumu,Nakuru,18,Withdraw,31,7,Yes,Yes,7,Yes,Yes
+TXN002459,151619,Kisumu,Uasin Gishu,14,Withdraw,34,2,Yes,Yes,5,Yes,Yes
+TXN002462,131836,Kisumu,Nyeri,8,Till,89,1,Yes,No,3,Yes,Yes
+TXN002464,173798,Kisumu,Uasin Gishu,1,Withdraw,105,11,Yes,No,4,No,Yes
+TXN002465,169713,Mombasa,Nairobi,0,Withdraw,56,19,Yes,Yes,8,Yes,Yes
+TXN002466,413504,Kisumu,Kisumu,15,Withdraw,37,8,Yes,Yes,2,No,Yes
+TXN002467,245122,Uasin Gishu,Uasin Gishu,9,Withdraw,60,7,Yes,Yes,6,Yes,Yes
+TXN002468,14875,Nairobi,Nakuru,12,Send Money,119,26,No,Yes,3,No,Yes
+TXN002470,414806,Nairobi,Uasin Gishu,15,Till,91,10,Yes,Yes,7,No,Yes
+TXN002474,392511,Nairobi,Meru,23,Till,74,27,No,Yes,4,No,Yes
+TXN002477,346359,Nakuru,Kiambu,0,Send Money,111,30,Yes,No,4,No,Yes
+TXN002479,492380,Kakamega,Nyeri,22,Withdraw,64,10,Yes,Yes,5,No,Yes
+TXN002480,33716,Nyeri,Nyeri,20,Withdraw,109,17,Yes,Yes,3,No,Yes
+TXN002481,30358,Uasin Gishu,Mombasa,23,Paybill,43,22,No,Yes,6,Yes,Yes
+TXN002484,1993,Mombasa,Nairobi,17,Send Money,110,20,No,Yes,3,No,Yes
+TXN002485,300954,Kisumu,Nairobi,3,Withdraw,113,5,No,Yes,6,No,Yes
+TXN002488,144018,Machakos,Nyeri,13,Paybill,1,1,Yes,No,8,No,Yes
+TXN002489,152707,Machakos,Kiambu,10,Send Money,88,2,No,Yes,6,No,Yes
+TXN002491,489186,Nyeri,Uasin Gishu,0,Paybill,38,1,Yes,Yes,3,No,Yes
+TXN002494,23759,Nairobi,Meru,8,Send Money,103,23,No,Yes,8,Yes,Yes
+TXN002497,319547,Kakamega,Nakuru,11,Withdraw,35,17,Yes,No,5,Yes,Yes
+TXN002498,394205,Nakuru,Meru,8,Send Money,89,16,No,Yes,5,No,Yes
+TXN002499,465759,Kisumu,Meru,8,Till,44,19,Yes,Yes,6,Yes,Yes
+TXN002500,77193,Nyeri,Meru,4,Till,84,28,Yes,Yes,1,No,Yes
+TXN002501,272986,Kisumu,Nairobi,7,Send Money,36,20,Yes,No,3,No,Yes
+TXN002503,497399,Kiambu,Nyeri,23,Paybill,15,22,No,Yes,8,No,Yes
+TXN002504,105676,Nyeri,Kiambu,3,Withdraw,1,17,Yes,No,8,No,Yes
+TXN002505,83502,Machakos,Nyeri,12,Till,32,21,Yes,Yes,6,Yes,Yes
+TXN002507,201349,Nyeri,Mombasa,14,Paybill,52,6,Yes,Yes,5,Yes,Yes
+TXN002509,489506,Kisumu,Nakuru,20,Withdraw,54,30,Yes,Yes,2,No,Yes
+TXN002510,62464,Kakamega,Meru,1,Send Money,58,20,Yes,Yes,2,Yes,Yes
+TXN002512,234211,Kakamega,Machakos,10,Paybill,75,11,No,Yes,7,No,Yes
+TXN002513,311135,Nyeri,Mombasa,11,Send Money,68,3,Yes,No,3,No,Yes
+TXN002514,168034,Kisumu,Uasin Gishu,17,Paybill,64,20,Yes,No,5,No,Yes
+TXN002517,387093,Mombasa,Nyeri,4,Send Money,12,18,Yes,Yes,8,No,Yes
+TXN002518,340237,Mombasa,Nairobi,14,Paybill,106,16,Yes,No,6,Yes,Yes
+TXN002519,115102,Nakuru,Kiambu,22,Withdraw,62,25,Yes,Yes,6,Yes,Yes
+TXN002520,346789,Nairobi,Uasin Gishu,15,Till,39,20,No,Yes,3,No,Yes
+TXN002521,241349,Machakos,Kakamega,0,Withdraw,66,20,No,Yes,3,No,Yes
+TXN002522,231921,Machakos,Machakos,10,Send Money,31,24,Yes,Yes,3,Yes,Yes
+TXN002524,323990,Nairobi,Kiambu,11,Paybill,78,22,Yes,No,4,No,Yes
+TXN002529,13020,Nairobi,Mombasa,13,Paybill,118,25,Yes,No,6,No,Yes
+TXN002532,293420,Machakos,Nyeri,11,Till,100,24,Yes,Yes,2,Yes,Yes
+TXN002533,336922,Mombasa,Uasin Gishu,23,Till,21,27,Yes,Yes,2,No,Yes
+TXN002534,36211,Nairobi,Kakamega,6,Till,71,12,No,Yes,6,No,Yes
+TXN002536,285666,Uasin Gishu,Mombasa,14,Send Money,37,21,Yes,No,4,Yes,Yes
+TXN002537,176562,Uasin Gishu,Meru,17,Send Money,2,6,Yes,Yes,8,Yes,Yes
+TXN002538,338493,Kakamega,Uasin Gishu,22,Send Money,107,10,Yes,Yes,4,No,Yes
+TXN002539,369795,Nairobi,Kisumu,18,Paybill,76,9,Yes,No,7,No,Yes
+TXN002540,281075,Uasin Gishu,Machakos,23,Send Money,52,10,Yes,Yes,0,Yes,Yes
+TXN002544,140907,Uasin Gishu,Nyeri,7,Withdraw,79,19,Yes,Yes,3,No,Yes
+TXN002545,256019,Meru,Mombasa,10,Paybill,46,20,Yes,Yes,7,No,Yes
+TXN002546,333321,Nairobi,Meru,5,Paybill,39,9,No,Yes,4,No,Yes
+TXN002547,128664,Uasin Gishu,Machakos,13,Till,100,28,No,Yes,7,No,Yes
+TXN002553,300290,Kiambu,Machakos,8,Withdraw,1,10,No,Yes,3,Yes,Yes
+TXN002554,383417,Meru,Nakuru,4,Till,95,23,Yes,No,7,No,Yes
+TXN002556,151838,Kakamega,Uasin Gishu,13,Send Money,2,19,No,No,3,No,Yes
+TXN002559,280471,Nyeri,Kakamega,3,Send Money,53,6,Yes,Yes,7,Yes,Yes
+TXN002561,336807,Nakuru,Mombasa,11,Till,71,21,Yes,Yes,6,Yes,Yes
+TXN002562,94005,Nairobi,Kisumu,6,Send Money,91,24,Yes,Yes,6,Yes,Yes
+TXN002564,50296,Kakamega,Nairobi,3,Till,38,26,Yes,Yes,6,No,Yes
+TXN002565,39574,Uasin Gishu,Nakuru,6,Paybill,33,11,Yes,Yes,1,No,Yes
+TXN002568,445871,Nakuru,Nakuru,18,Send Money,10,4,Yes,No,8,No,Yes
+TXN002572,225178,Uasin Gishu,Kakamega,20,Withdraw,25,9,Yes,Yes,5,Yes,Yes
+TXN002573,327783,Kisumu,Meru,15,Paybill,116,28,Yes,No,8,No,Yes
+TXN002575,140302,Nyeri,Nairobi,19,Withdraw,63,25,No,Yes,5,Yes,Yes
+TXN002578,294276,Nakuru,Kisumu,9,Paybill,75,23,No,Yes,8,No,Yes
+TXN002580,82181,Machakos,Kiambu,6,Till,83,15,No,Yes,8,Yes,Yes
+TXN002582,155257,Machakos,Nakuru,21,Send Money,73,16,Yes,Yes,6,Yes,Yes
+TXN002585,427092,Meru,Nakuru,3,Paybill,62,18,Yes,Yes,6,No,Yes
+TXN002586,64267,Kisumu,Machakos,20,Till,37,13,Yes,No,7,No,Yes
+TXN002587,439575,Uasin Gishu,Nakuru,6,Send Money,19,24,Yes,No,4,No,Yes
+TXN002588,241227,Meru,Kiambu,16,Send Money,18,24,No,Yes,3,No,Yes
+TXN002590,352494,Meru,Mombasa,1,Send Money,4,14,Yes,Yes,5,Yes,Yes
+TXN002592,383504,Kiambu,Kiambu,6,Withdraw,75,2,Yes,Yes,3,Yes,Yes
+TXN002593,481158,Kiambu,Nairobi,18,Till,86,14,No,Yes,4,Yes,Yes
+TXN002597,459415,Mombasa,Nakuru,8,Till,80,20,Yes,Yes,4,Yes,Yes
+TXN002598,158575,Nakuru,Mombasa,13,Send Money,71,9,Yes,Yes,3,No,Yes
+TXN002600,169880,Nakuru,Kisumu,22,Send Money,101,16,Yes,Yes,7,Yes,Yes
+TXN002601,305692,Nairobi,Kisumu,16,Send Money,88,10,Yes,Yes,4,No,Yes
+TXN002602,151741,Kisumu,Kakamega,22,Send Money,12,4,Yes,No,4,No,Yes
+TXN002603,405118,Kakamega,Uasin Gishu,9,Withdraw,119,20,Yes,No,7,No,Yes
+TXN002605,64073,Mombasa,Machakos,9,Send Money,101,19,No,Yes,3,Yes,Yes
+TXN002607,347070,Machakos,Machakos,5,Till,24,13,Yes,No,8,No,Yes
+TXN002610,265698,Mombasa,Meru,20,Till,73,20,Yes,Yes,0,No,Yes
+TXN002611,226902,Nyeri,Kiambu,4,Paybill,58,12,No,Yes,5,No,Yes
+TXN002614,450424,Uasin Gishu,Nyeri,20,Withdraw,84,30,No,Yes,3,Yes,Yes
+TXN002617,100804,Kisumu,Nakuru,4,Paybill,65,24,Yes,Yes,5,Yes,Yes
+TXN002620,237222,Mombasa,Nakuru,11,Send Money,78,26,Yes,Yes,5,Yes,Yes
+TXN002621,433134,Kisumu,Kisumu,20,Paybill,110,25,No,Yes,5,No,Yes
+TXN002623,274876,Kiambu,Mombasa,19,Till,31,1,Yes,Yes,1,Yes,Yes
+TXN002624,477169,Meru,Machakos,4,Send Money,111,23,No,Yes,4,Yes,Yes
+TXN002626,288724,Nakuru,Machakos,15,Send Money,5,6,Yes,Yes,0,No,Yes
+TXN002627,353256,Meru,Kakamega,8,Paybill,30,15,Yes,Yes,1,Yes,Yes
+TXN002628,431024,Machakos,Kakamega,11,Till,93,13,Yes,No,5,No,Yes
+TXN002631,220449,Kakamega,Nairobi,2,Withdraw,59,8,Yes,No,4,No,Yes
+TXN002632,166955,Nyeri,Mombasa,9,Send Money,19,15,No,Yes,3,No,Yes
+TXN002637,179360,Machakos,Kakamega,9,Send Money,32,28,No,Yes,5,No,Yes
+TXN002639,32259,Meru,Kiambu,11,Paybill,31,25,Yes,Yes,2,No,Yes
+TXN002640,488118,Nyeri,Uasin Gishu,7,Send Money,29,28,Yes,No,8,Yes,Yes
+TXN002641,146606,Meru,Meru,2,Withdraw,3,30,Yes,No,6,Yes,Yes
+TXN002643,243325,Meru,Kisumu,12,Withdraw,70,30,Yes,Yes,5,Yes,Yes
+TXN002644,316784,Machakos,Nairobi,6,Send Money,27,16,Yes,No,3,Yes,Yes
+TXN002645,439928,Nairobi,Kisumu,4,Send Money,30,19,Yes,Yes,4,No,Yes
+TXN002646,219195,Nakuru,Machakos,19,Paybill,13,22,Yes,Yes,3,Yes,Yes
+TXN002647,256641,Nairobi,Kisumu,22,Till,78,16,Yes,Yes,0,Yes,Yes
+TXN002648,225644,Kiambu,Kakamega,2,Till,13,13,Yes,Yes,5,No,Yes
+TXN002651,197625,Mombasa,Meru,9,Till,38,15,No,Yes,7,Yes,Yes
+TXN002652,102711,Uasin Gishu,Uasin Gishu,22,Withdraw,87,20,Yes,Yes,7,No,Yes
+TXN002653,178298,Kisumu,Nairobi,18,Paybill,8,12,Yes,No,6,Yes,Yes
+TXN002655,81775,Nyeri,Kakamega,0,Withdraw,17,8,Yes,Yes,6,No,Yes
+TXN002656,329931,Kisumu,Kisumu,6,Withdraw,106,16,No,Yes,5,Yes,Yes
+TXN002657,64592,Nyeri,Kiambu,20,Till,70,12,Yes,Yes,2,No,Yes
+TXN002660,458121,Uasin Gishu,Machakos,19,Withdraw,32,23,Yes,Yes,2,No,Yes
+TXN002661,199273,Mombasa,Kakamega,21,Paybill,79,7,Yes,No,8,No,Yes
+TXN002663,49462,Kisumu,Uasin Gishu,12,Till,13,25,No,Yes,6,No,Yes
+TXN002665,494488,Machakos,Uasin Gishu,19,Withdraw,45,8,Yes,No,5,No,Yes
+TXN002667,371328,Kisumu,Machakos,0,Withdraw,48,27,Yes,Yes,4,No,Yes
+TXN002669,454276,Kisumu,Meru,7,Till,54,25,Yes,No,6,No,Yes
+TXN002670,368180,Kisumu,Mombasa,4,Send Money,3,20,No,Yes,4,No,Yes
+TXN002672,288462,Meru,Kakamega,4,Till,110,23,Yes,No,5,No,Yes
+TXN002673,60981,Nakuru,Nakuru,20,Paybill,111,17,No,Yes,7,Yes,Yes
+TXN002674,49127,Kisumu,Nairobi,18,Till,38,15,Yes,Yes,3,No,Yes
+TXN002676,330424,Mombasa,Mombasa,4,Paybill,29,22,Yes,No,3,Yes,Yes
+TXN002677,14240,Kisumu,Uasin Gishu,8,Paybill,106,27,Yes,No,8,No,Yes
+TXN002679,261546,Machakos,Kiambu,19,Till,93,24,Yes,Yes,6,Yes,Yes
+TXN002680,467008,Uasin Gishu,Kiambu,18,Send Money,56,29,Yes,Yes,8,No,Yes
+TXN002682,432519,Kiambu,Uasin Gishu,3,Withdraw,84,29,Yes,Yes,1,No,Yes
+TXN002683,180919,Kiambu,Kiambu,20,Send Money,101,29,Yes,Yes,3,Yes,Yes
+TXN002688,18972,Uasin Gishu,Meru,16,Paybill,12,30,Yes,Yes,7,Yes,Yes
+TXN002692,99450,Kakamega,Kisumu,17,Till,33,12,Yes,No,6,No,Yes
+TXN002693,129503,Uasin Gishu,Uasin Gishu,21,Paybill,47,8,Yes,Yes,4,Yes,Yes
+TXN002696,107271,Uasin Gishu,Meru,17,Paybill,21,29,No,Yes,7,No,Yes
+TXN002698,223642,Nyeri,Meru,15,Paybill,14,8,Yes,No,3,Yes,Yes
+TXN002699,464569,Kakamega,Kakamega,15,Withdraw,93,27,Yes,No,3,Yes,Yes
+TXN002700,482318,Kisumu,Machakos,4,Withdraw,96,25,Yes,Yes,8,No,Yes
+TXN002704,490089,Meru,Uasin Gishu,11,Withdraw,16,22,No,Yes,6,No,Yes
+TXN002707,357693,Kisumu,Mombasa,18,Send Money,92,12,Yes,No,3,Yes,Yes
+TXN002709,220950,Mombasa,Machakos,1,Send Money,7,25,Yes,No,7,Yes,Yes
+TXN002711,182842,Meru,Kakamega,17,Paybill,72,19,Yes,No,7,No,Yes
+TXN002712,115737,Meru,Kisumu,3,Till,41,10,Yes,No,7,Yes,Yes
+TXN002713,299132,Nyeri,Uasin Gishu,20,Withdraw,52,16,Yes,No,6,Yes,Yes
+TXN002714,447301,Mombasa,Kakamega,22,Paybill,37,22,Yes,Yes,0,Yes,Yes
+TXN002717,10950,Nairobi,Machakos,2,Send Money,70,13,Yes,Yes,4,No,Yes
+TXN002719,382587,Nakuru,Uasin Gishu,19,Paybill,8,29,Yes,Yes,5,No,Yes
+TXN002720,425679,Nyeri,Meru,18,Paybill,2,3,Yes,Yes,0,Yes,Yes
+TXN002721,34635,Kisumu,Nyeri,20,Paybill,71,15,Yes,Yes,4,Yes,Yes
+TXN002722,176170,Meru,Nairobi,19,Paybill,90,9,Yes,No,8,Yes,Yes
+TXN002724,89385,Uasin Gishu,Nyeri,2,Till,69,30,Yes,Yes,2,Yes,Yes
+TXN002726,38663,Nakuru,Nairobi,19,Withdraw,107,28,Yes,Yes,5,Yes,Yes
+TXN002728,73414,Nairobi,Mombasa,12,Withdraw,86,14,Yes,No,6,No,Yes
+TXN002729,223994,Kisumu,Nyeri,17,Paybill,62,23,Yes,No,7,No,Yes
+TXN002732,298829,Uasin Gishu,Machakos,5,Paybill,90,23,Yes,No,6,Yes,Yes
+TXN002733,288564,Machakos,Meru,17,Send Money,118,21,Yes,No,4,Yes,Yes
+TXN002735,199374,Machakos,Nairobi,2,Till,38,1,Yes,No,8,Yes,Yes
+TXN002736,65480,Nyeri,Meru,6,Send Money,99,15,Yes,No,5,No,Yes
+TXN002739,137355,Machakos,Kakamega,1,Paybill,35,20,Yes,No,8,No,Yes
+TXN002740,336936,Mombasa,Kisumu,10,Send Money,3,25,Yes,Yes,0,Yes,Yes
+TXN002741,33503,Kisumu,Meru,0,Withdraw,83,17,No,Yes,7,No,Yes
+TXN002744,10437,Kisumu,Kiambu,22,Withdraw,18,26,No,Yes,6,No,Yes
+TXN002745,190618,Mombasa,Kiambu,9,Withdraw,31,16,No,Yes,5,No,Yes
+TXN002749,294471,Kisumu,Uasin Gishu,15,Paybill,95,28,Yes,No,8,No,Yes
+TXN002756,221147,Kisumu,Nairobi,9,Till,18,11,No,Yes,5,Yes,Yes
+TXN002758,312853,Nakuru,Mombasa,23,Send Money,34,25,Yes,Yes,7,No,Yes
+TXN002761,260049,Machakos,Mombasa,8,Withdraw,29,17,Yes,No,5,No,Yes
+TXN002762,21534,Mombasa,Kakamega,21,Till,103,20,Yes,Yes,5,Yes,Yes
+TXN002763,180415,Uasin Gishu,Kisumu,15,Paybill,107,12,No,Yes,7,Yes,Yes
+TXN002765,442256,Uasin Gishu,Kisumu,13,Till,18,28,Yes,No,7,No,Yes
+TXN002766,462980,Nyeri,Mombasa,16,Withdraw,13,6,No,Yes,8,No,Yes
+TXN002767,205704,Meru,Uasin Gishu,7,Send Money,21,1,Yes,No,3,Yes,Yes
+TXN002768,414289,Nairobi,Kiambu,10,Send Money,109,8,No,Yes,6,No,Yes
+TXN002769,373488,Nakuru,Mombasa,5,Paybill,43,24,Yes,Yes,6,No,Yes
+TXN002770,147058,Mombasa,Kiambu,20,Paybill,101,8,Yes,No,8,No,Yes
+TXN002771,30031,Nairobi,Kisumu,17,Paybill,19,12,Yes,No,4,No,Yes
+TXN002772,411843,Kakamega,Machakos,11,Withdraw,93,8,Yes,Yes,4,Yes,Yes
+TXN002773,198543,Meru,Nairobi,23,Till,60,6,Yes,Yes,5,No,Yes
+TXN002774,329675,Uasin Gishu,Meru,11,Paybill,34,7,Yes,Yes,4,Yes,Yes
+TXN002775,479957,Mombasa,Mombasa,10,Send Money,102,3,Yes,Yes,7,No,Yes
+TXN002778,430016,Uasin Gishu,Meru,2,Till,80,5,Yes,Yes,8,Yes,Yes
+TXN002781,166666,Nyeri,Nakuru,17,Withdraw,7,1,Yes,Yes,2,No,Yes
+TXN002782,291004,Kisumu,Meru,10,Withdraw,79,2,Yes,No,5,Yes,Yes
+TXN002783,237337,Nairobi,Meru,23,Paybill,98,13,Yes,Yes,0,No,Yes
+TXN002785,284058,Kakamega,Kisumu,2,Send Money,65,4,Yes,Yes,3,Yes,Yes
+TXN002786,456887,Uasin Gishu,Nairobi,3,Till,97,11,Yes,Yes,3,No,Yes
+TXN002787,83769,Machakos,Nakuru,5,Send Money,20,1,Yes,Yes,8,Yes,Yes
+TXN002788,404248,Uasin Gishu,Nakuru,13,Send Money,71,24,Yes,Yes,6,Yes,Yes
+TXN002789,124599,Meru,Nairobi,14,Till,69,19,Yes,No,3,No,Yes
+TXN002791,134781,Kakamega,Mombasa,13,Paybill,90,23,Yes,Yes,7,Yes,Yes
+TXN002797,108825,Kisumu,Kisumu,6,Till,59,4,Yes,No,4,Yes,Yes
+TXN002801,278900,Nairobi,Kiambu,12,Till,95,14,Yes,No,4,No,Yes
+TXN002804,391598,Uasin Gishu,Machakos,19,Paybill,19,25,Yes,Yes,7,Yes,Yes
+TXN002805,146934,Meru,Mombasa,2,Withdraw,9,2,No,Yes,6,Yes,Yes
+TXN002806,89356,Nyeri,Nakuru,0,Send Money,17,17,Yes,No,7,Yes,Yes
+TXN002807,281316,Kakamega,Nyeri,19,Till,15,15,No,Yes,7,No,Yes
+TXN002810,493135,Machakos,Uasin Gishu,7,Send Money,115,1,No,Yes,7,Yes,Yes
+TXN002811,213925,Machakos,Kakamega,5,Withdraw,26,27,Yes,Yes,7,No,Yes
+TXN002813,300969,Nairobi,Mombasa,6,Send Money,108,29,Yes,Yes,6,Yes,Yes
+TXN002815,221085,Kiambu,Meru,1,Send Money,118,4,Yes,Yes,7,No,Yes
+TXN002816,162826,Meru,Machakos,23,Till,89,20,Yes,Yes,7,Yes,Yes
+TXN002817,194860,Nakuru,Meru,18,Send Money,67,25,No,Yes,5,No,Yes
+TXN002819,424053,Kiambu,Kakamega,13,Paybill,35,3,Yes,No,8,Yes,Yes
+TXN002820,474322,Mombasa,Nyeri,12,Paybill,120,4,Yes,Yes,6,Yes,Yes
+TXN002822,49236,Kakamega,Meru,12,Till,41,13,Yes,Yes,3,Yes,Yes
+TXN002824,294911,Nakuru,Machakos,20,Send Money,96,20,Yes,Yes,7,No,Yes
+TXN002825,219483,Meru,Kakamega,6,Withdraw,52,17,Yes,Yes,3,Yes,Yes
+TXN002826,237458,Kiambu,Nairobi,22,Paybill,4,16,Yes,Yes,7,Yes,Yes
+TXN002827,160288,Meru,Nyeri,23,Paybill,17,21,Yes,Yes,4,Yes,Yes
+TXN002829,49408,Kisumu,Kiambu,17,Till,115,18,Yes,No,4,No,Yes
+TXN002830,81472,Machakos,Nairobi,22,Till,86,22,Yes,Yes,4,Yes,Yes
+TXN002831,230326,Mombasa,Machakos,13,Till,53,12,Yes,Yes,8,No,Yes
+TXN002832,4278,Machakos,Nakuru,19,Send Money,79,26,No,Yes,4,No,Yes
+TXN002833,470469,Kiambu,Machakos,2,Send Money,25,15,Yes,No,4,Yes,Yes
+TXN002835,167573,Nakuru,Kakamega,12,Withdraw,79,9,Yes,Yes,0,Yes,Yes
+TXN002837,48950,Meru,Nairobi,19,Paybill,73,9,Yes,Yes,8,Yes,Yes
+TXN002840,499314,Nyeri,Uasin Gishu,13,Till,31,9,Yes,No,5,Yes,Yes
+TXN002843,302888,Nairobi,Nakuru,18,Withdraw,111,12,Yes,No,4,No,Yes
+TXN002846,143688,Meru,Uasin Gishu,21,Withdraw,18,18,No,Yes,4,No,Yes
+TXN002851,347226,Machakos,Meru,20,Withdraw,38,9,Yes,Yes,4,Yes,Yes
+TXN002852,301769,Machakos,Uasin Gishu,13,Paybill,67,11,Yes,No,5,Yes,Yes
+TXN002853,254053,Nyeri,Uasin Gishu,2,Withdraw,44,10,Yes,Yes,4,Yes,Yes
+TXN002854,435963,Kiambu,Nairobi,4,Till,90,18,Yes,No,7,Yes,Yes
+TXN002855,29251,Kisumu,Uasin Gishu,9,Send Money,111,22,Yes,No,7,No,Yes
+TXN002856,329924,Nyeri,Nairobi,21,Withdraw,53,25,Yes,No,3,No,Yes
+TXN002858,288026,Kiambu,Nyeri,11,Paybill,74,13,No,Yes,3,Yes,Yes
+TXN002860,171779,Kiambu,Kiambu,21,Till,54,5,Yes,Yes,6,Yes,Yes
+TXN002862,353559,Mombasa,Kakamega,22,Send Money,20,7,Yes,No,7,No,Yes
+TXN002863,235189,Machakos,Kakamega,14,Withdraw,113,8,Yes,No,4,No,Yes
+TXN002864,90782,Kakamega,Nyeri,10,Send Money,87,14,Yes,No,3,No,Yes
+TXN002866,340870,Kakamega,Kakamega,8,Send Money,31,10,No,Yes,5,Yes,Yes
+TXN002868,139058,Machakos,Mombasa,9,Withdraw,112,5,Yes,No,6,No,Yes
+TXN002869,183934,Nakuru,Nakuru,1,Send Money,26,10,Yes,Yes,5,No,Yes
+TXN002873,15203,Kiambu,Meru,21,Till,110,19,Yes,Yes,0,Yes,Yes
+TXN002874,432310,Mombasa,Nyeri,3,Till,54,3,Yes,No,5,Yes,Yes
+TXN002876,246666,Nairobi,Kiambu,23,Withdraw,58,14,Yes,No,8,No,Yes
+TXN002879,376661,Meru,Kisumu,15,Withdraw,22,23,Yes,Yes,0,Yes,Yes
+TXN002880,476244,Nakuru,Meru,17,Withdraw,37,28,Yes,No,4,No,Yes
+TXN002883,132868,Kiambu,Kiambu,4,Send Money,59,24,No,Yes,4,No,Yes
+TXN002885,338289,Uasin Gishu,Kiambu,15,Withdraw,29,27,No,Yes,8,No,Yes
+TXN002886,158618,Nyeri,Nakuru,0,Paybill,13,7,Yes,Yes,5,Yes,Yes
+TXN002887,186351,Nyeri,Mombasa,11,Paybill,66,12,Yes,No,6,No,Yes
+TXN002890,423491,Meru,Kisumu,6,Paybill,67,27,Yes,No,7,No,Yes
+TXN002891,494172,Nyeri,Nairobi,23,Send Money,110,4,Yes,No,8,Yes,Yes
+TXN002894,270063,Mombasa,Kiambu,23,Withdraw,41,5,No,Yes,4,Yes,Yes
+TXN002896,117205,Kakamega,Kakamega,17,Send Money,5,7,Yes,No,4,Yes,Yes
+TXN002897,352224,Machakos,Machakos,14,Withdraw,92,4,Yes,No,5,No,Yes
+TXN002898,388768,Kiambu,Mombasa,17,Paybill,108,23,No,Yes,4,No,Yes
+TXN002899,313383,Kisumu,Nairobi,13,Till,76,4,Yes,No,4,No,Yes
+TXN002900,358891,Uasin Gishu,Uasin Gishu,22,Send Money,11,30,Yes,Yes,6,Yes,Yes
+TXN002901,9104,Mombasa,Uasin Gishu,17,Paybill,8,29,Yes,Yes,4,Yes,Yes
+TXN002902,218889,Machakos,Uasin Gishu,5,Withdraw,106,17,Yes,Yes,1,No,Yes
+TXN002904,391040,Kakamega,Kisumu,4,Withdraw,1,1,No,Yes,2,No,Yes
+TXN002906,322846,Mombasa,Kisumu,19,Till,64,24,Yes,No,3,No,Yes
+TXN002907,46382,Kisumu,Nyeri,12,Send Money,38,11,Yes,Yes,5,Yes,Yes
+TXN002913,218515,Nakuru,Nyeri,12,Send Money,83,5,Yes,Yes,1,Yes,Yes
+TXN002916,308919,Machakos,Nakuru,9,Withdraw,92,25,Yes,No,7,Yes,Yes
+TXN002920,375914,Kisumu,Nakuru,11,Paybill,69,29,Yes,Yes,8,Yes,Yes
+TXN002925,144981,Kisumu,Uasin Gishu,14,Till,12,22,Yes,No,8,No,Yes
+TXN002926,398830,Machakos,Nakuru,8,Withdraw,16,27,Yes,No,6,No,Yes
+TXN002927,186482,Mombasa,Meru,12,Withdraw,101,11,Yes,No,6,No,Yes
+TXN002928,277601,Machakos,Nyeri,5,Send Money,77,14,Yes,Yes,0,Yes,Yes
+TXN002929,437867,Meru,Kakamega,20,Paybill,15,13,Yes,Yes,1,No,Yes
+TXN002930,90516,Nyeri,Nakuru,9,Paybill,119,9,Yes,Yes,8,No,Yes
+TXN002931,251497,Mombasa,Nyeri,1,Till,49,14,Yes,No,6,Yes,Yes
+TXN002935,448731,Nairobi,Machakos,23,Paybill,35,30,No,Yes,7,Yes,Yes
+TXN002938,292121,Machakos,Nyeri,4,Send Money,32,28,Yes,No,7,No,Yes
+TXN002939,479346,Meru,Machakos,12,Withdraw,21,13,Yes,No,4,Yes,Yes
+TXN002941,435280,Machakos,Machakos,2,Paybill,44,3,Yes,Yes,7,No,Yes
+TXN002943,352468,Nyeri,Machakos,21,Withdraw,13,14,No,Yes,8,Yes,Yes
+TXN002945,189656,Uasin Gishu,Nyeri,15,Withdraw,42,10,No,Yes,4,Yes,Yes
+TXN002948,244693,Kiambu,Kakamega,14,Paybill,16,2,Yes,Yes,1,No,Yes
+TXN002953,436710,Kisumu,Nyeri,8,Send Money,63,12,Yes,No,6,Yes,Yes
+TXN002954,407261,Kakamega,Nairobi,9,Send Money,25,14,Yes,Yes,3,No,Yes
+TXN002959,492942,Meru,Kisumu,16,Till,50,15,No,Yes,7,No,Yes
+TXN002961,233447,Kakamega,Nakuru,11,Till,52,22,Yes,No,3,No,Yes
+TXN002962,368745,Kakamega,Kisumu,4,Paybill,68,20,No,Yes,7,Yes,Yes
+TXN002963,141655,Nakuru,Meru,0,Send Money,100,3,Yes,Yes,5,Yes,Yes
+TXN002965,212485,Kakamega,Mombasa,22,Till,109,22,Yes,No,7,No,Yes
+TXN002966,272763,Machakos,Uasin Gishu,11,Paybill,3,7,Yes,Yes,7,Yes,Yes
+TXN002968,371005,Uasin Gishu,Meru,3,Send Money,100,26,Yes,Yes,8,No,Yes
+TXN002969,424853,Kiambu,Kisumu,10,Paybill,17,22,Yes,Yes,2,Yes,Yes
+TXN002970,422156,Machakos,Meru,9,Withdraw,49,3,Yes,No,8,Yes,Yes
+TXN002973,44786,Machakos,Kisumu,1,Paybill,28,13,No,Yes,8,Yes,Yes
+TXN002974,289780,Nyeri,Kiambu,3,Till,106,21,Yes,Yes,7,No,Yes
+TXN002977,477895,Uasin Gishu,Kiambu,14,Withdraw,50,1,Yes,Yes,8,No,Yes
+TXN002978,24277,Mombasa,Nyeri,7,Withdraw,94,19,Yes,No,7,No,Yes
+TXN002979,197820,Kakamega,Mombasa,20,Withdraw,19,24,No,Yes,7,No,Yes
+TXN002980,97327,Nyeri,Nairobi,21,Till,13,16,Yes,Yes,4,No,Yes
+TXN002981,54040,Uasin Gishu,Kiambu,20,Till,65,13,Yes,Yes,3,Yes,Yes
+TXN002983,19451,Meru,Nairobi,18,Withdraw,42,23,Yes,Yes,6,No,Yes
+TXN002984,338306,Meru,Kakamega,21,Send Money,2,8,No,Yes,5,Yes,Yes
+TXN002986,243606,Nakuru,Mombasa,19,Paybill,2,15,No,Yes,1,No,Yes
+TXN002988,222056,Nyeri,Nairobi,4,Paybill,74,24,Yes,No,5,No,Yes
+TXN002989,104376,Nairobi,Uasin Gishu,11,Withdraw,99,12,Yes,No,3,Yes,Yes
+TXN002990,125518,Machakos,Kiambu,12,Paybill,114,26,No,Yes,7,No,Yes
+TXN002992,78977,Machakos,Nyeri,20,Withdraw,117,18,Yes,Yes,1,No,Yes
+TXN002993,296934,Kakamega,Kakamega,2,Withdraw,75,1,Yes,No,7,Yes,Yes
+TXN002994,366663,Nairobi,Meru,9,Send Money,4,7,Yes,No,6,No,Yes
+TXN002995,67981,Uasin Gishu,Kiambu,17,Paybill,33,30,No,Yes,5,Yes,Yes
+TXN002996,398910,Uasin Gishu,Nyeri,8,Send Money,82,21,No,Yes,3,No,Yes
+TXN003000,158487,Mombasa,Nyeri,2,Till,70,9,Yes,No,7,Yes,Yes
+TXN003005,140749,Uasin Gishu,Nyeri,11,Withdraw,88,1,Yes,Yes,8,No,Yes
+TXN003006,6030,Nakuru,Nyeri,4,Withdraw,108,14,No,Yes,6,Yes,Yes
+TXN003007,409931,Kakamega,Meru,11,Withdraw,71,16,Yes,No,7,No,Yes
+TXN003011,150740,Kisumu,Nakuru,19,Paybill,26,6,Yes,Yes,3,Yes,Yes
+TXN003020,217475,Kisumu,Nyeri,15,Paybill,119,7,Yes,No,8,No,Yes
+TXN003025,383106,Kiambu,Machakos,8,Send Money,91,21,Yes,Yes,7,No,Yes
+TXN003027,458511,Uasin Gishu,Meru,14,Till,60,11,Yes,Yes,5,Yes,Yes
+TXN003028,144635,Kakamega,Nyeri,10,Till,22,27,Yes,Yes,6,Yes,Yes
+TXN003029,385372,Nyeri,Kakamega,4,Paybill,70,30,Yes,Yes,0,No,Yes
+TXN003030,361176,Mombasa,Kiambu,10,Withdraw,72,7,No,Yes,6,Yes,Yes
+TXN003031,311696,Kiambu,Nyeri,10,Send Money,20,8,Yes,No,7,Yes,Yes
+TXN003032,325612,Mombasa,Meru,13,Withdraw,82,15,Yes,Yes,5,Yes,Yes
+TXN003033,319500,Mombasa,Meru,4,Send Money,109,16,Yes,Yes,2,No,Yes
+TXN003035,441383,Nyeri,Kisumu,18,Send Money,1,27,No,Yes,7,No,Yes
+TXN003037,43713,Kakamega,Kiambu,22,Send Money,37,20,Yes,Yes,7,No,Yes
+TXN003038,415137,Nakuru,Meru,13,Paybill,40,30,Yes,No,8,No,Yes
+TXN003039,202151,Kiambu,Meru,15,Withdraw,17,12,Yes,Yes,1,Yes,Yes
+TXN003043,400028,Kiambu,Kakamega,18,Withdraw,104,8,No,Yes,4,Yes,Yes
+TXN003045,250597,Kisumu,Kisumu,11,Till,54,5,No,Yes,6,No,Yes
+TXN003046,311424,Nairobi,Meru,2,Till,20,30,Yes,Yes,6,Yes,Yes
+TXN003047,483942,Kakamega,Nakuru,3,Send Money,107,21,Yes,Yes,5,Yes,Yes
+TXN003048,394389,Kiambu,Kakamega,10,Withdraw,59,6,Yes,No,4,Yes,Yes
+TXN003049,299721,Kisumu,Meru,7,Paybill,101,1,Yes,Yes,8,No,Yes
+TXN003052,452533,Kiambu,Kakamega,23,Paybill,77,1,Yes,Yes,6,Yes,Yes
+TXN003053,211172,Meru,Nairobi,22,Send Money,42,1,Yes,Yes,2,Yes,Yes
+TXN003058,414858,Machakos,Kakamega,6,Paybill,89,12,Yes,No,8,Yes,Yes
+TXN003059,433759,Kakamega,Nakuru,8,Till,103,27,Yes,Yes,3,Yes,Yes
+TXN003060,130362,Uasin Gishu,Kiambu,3,Paybill,81,29,Yes,Yes,2,Yes,Yes
+TXN003064,28434,Kisumu,Kiambu,10,Withdraw,103,19,No,Yes,4,Yes,Yes
+TXN003065,160245,Kisumu,Machakos,7,Send Money,10,3,Yes,No,5,Yes,Yes
+TXN003066,493604,Nairobi,Machakos,22,Paybill,63,25,Yes,Yes,3,No,Yes
+TXN003067,382374,Machakos,Kakamega,10,Till,89,10,No,Yes,7,Yes,Yes
+TXN003069,129041,Mombasa,Nyeri,21,Till,3,27,No,Yes,6,Yes,Yes
+TXN003071,163974,Nyeri,Machakos,21,Withdraw,6,10,Yes,Yes,5,No,Yes
+TXN003072,312340,Uasin Gishu,Nairobi,16,Send Money,58,15,Yes,No,3,Yes,Yes
+TXN003073,390729,Kiambu,Uasin Gishu,23,Send Money,98,19,Yes,Yes,0,Yes,Yes
+TXN003074,445474,Nyeri,Meru,6,Send Money,7,24,Yes,Yes,7,Yes,Yes
+TXN003075,147399,Nyeri,Nyeri,3,Withdraw,103,29,No,Yes,6,Yes,Yes
+TXN003076,266522,Uasin Gishu,Meru,1,Till,61,23,No,Yes,8,No,Yes
+TXN003084,159260,Meru,Kisumu,0,Send Money,32,30,Yes,Yes,7,Yes,Yes
+TXN003086,252814,Kakamega,Nyeri,15,Send Money,102,8,Yes,Yes,1,No,Yes
+TXN003087,310377,Nyeri,Kakamega,21,Paybill,101,6,No,Yes,5,No,Yes
+TXN003091,205428,Nairobi,Nairobi,0,Send Money,28,1,Yes,No,3,Yes,Yes
+TXN003092,152643,Kakamega,Kiambu,3,Withdraw,29,11,Yes,No,3,Yes,Yes
+TXN003095,331314,Nairobi,Kisumu,7,Till,52,2,Yes,Yes,2,Yes,Yes
+TXN003098,216485,Meru,Kisumu,15,Till,52,14,Yes,Yes,2,Yes,Yes
+TXN003099,404445,Mombasa,Machakos,4,Withdraw,36,16,Yes,No,3,No,Yes
+TXN003102,40320,Nyeri,Nairobi,22,Paybill,39,12,Yes,Yes,1,Yes,Yes
+TXN003105,384687,Uasin Gishu,Nyeri,17,Paybill,41,28,No,Yes,4,No,Yes
+TXN003108,333592,Nairobi,Nyeri,11,Withdraw,15,15,Yes,No,4,No,Yes
+TXN003109,764,Mombasa,Kiambu,21,Withdraw,74,24,No,Yes,6,No,Yes
+TXN003110,276122,Machakos,Uasin Gishu,8,Till,28,3,Yes,Yes,1,No,Yes
+TXN003111,248458,Meru,Kiambu,1,Withdraw,17,25,Yes,No,5,No,Yes
+TXN003112,380496,Kiambu,Meru,20,Withdraw,35,1,Yes,Yes,7,No,Yes
+TXN003113,1995,Meru,Kiambu,2,Paybill,78,8,Yes,Yes,3,No,Yes
+TXN003116,45971,Machakos,Kiambu,13,Send Money,88,27,Yes,Yes,0,No,Yes
+TXN003121,164256,Kakamega,Nyeri,3,Send Money,74,30,No,Yes,3,Yes,Yes
+TXN003122,488464,Nairobi,Kiambu,19,Send Money,114,3,No,Yes,6,Yes,Yes
+TXN003124,234794,Meru,Uasin Gishu,22,Till,36,8,Yes,Yes,8,No,Yes
+TXN003128,400264,Kisumu,Nakuru,23,Till,55,23,Yes,No,8,No,Yes
+TXN003130,136770,Kakamega,Meru,12,Withdraw,90,3,Yes,No,3,Yes,Yes
+TXN003131,491426,Kakamega,Nakuru,10,Withdraw,5,14,Yes,No,5,Yes,Yes
+TXN003135,131403,Uasin Gishu,Meru,4,Till,85,5,No,Yes,8,No,Yes
+TXN003137,349650,Uasin Gishu,Mombasa,13,Send Money,11,26,Yes,Yes,1,No,Yes
+TXN003138,443643,Kisumu,Mombasa,7,Send Money,75,15,Yes,No,4,Yes,Yes
+TXN003139,24627,Uasin Gishu,Meru,19,Send Money,87,24,Yes,Yes,8,No,Yes
+TXN003141,348864,Uasin Gishu,Machakos,10,Withdraw,34,17,Yes,No,7,Yes,Yes
+TXN003142,36858,Kisumu,Nairobi,13,Paybill,78,5,Yes,Yes,8,Yes,Yes
+TXN003144,434406,Uasin Gishu,Meru,7,Withdraw,4,5,Yes,No,4,Yes,Yes
+TXN003145,265729,Kiambu,Nairobi,7,Paybill,25,11,Yes,No,7,No,Yes
+TXN003146,118186,Kisumu,Nyeri,4,Withdraw,101,19,Yes,Yes,2,No,Yes
+TXN003147,422124,Kakamega,Meru,8,Till,59,30,Yes,Yes,6,Yes,Yes
+TXN003150,115805,Machakos,Nyeri,15,Withdraw,6,14,No,Yes,8,Yes,Yes
+TXN003153,245396,Nairobi,Nakuru,4,Paybill,22,4,No,Yes,6,No,Yes
+TXN003154,169919,Machakos,Meru,18,Withdraw,66,10,Yes,Yes,2,No,Yes
+TXN003155,245630,Meru,Machakos,11,Send Money,99,8,No,Yes,5,No,Yes
+TXN003156,295918,Mombasa,Mombasa,2,Withdraw,83,27,Yes,No,7,No,Yes
+TXN003157,354160,Kisumu,Machakos,12,Withdraw,28,13,No,Yes,3,No,Yes
+TXN003158,452429,Kisumu,Nakuru,6,Send Money,56,4,Yes,Yes,5,No,Yes
+TXN003159,417636,Nairobi,Nyeri,22,Paybill,2,18,Yes,No,6,Yes,Yes
+TXN003160,303107,Nakuru,Kisumu,3,Send Money,22,21,No,Yes,8,No,Yes
+TXN003161,465605,Nakuru,Uasin Gishu,11,Till,61,22,Yes,Yes,2,No,Yes
+TXN003162,285665,Nairobi,Mombasa,19,Withdraw,45,5,Yes,Yes,7,Yes,Yes
+TXN003163,443049,Kiambu,Mombasa,13,Paybill,3,18,No,Yes,8,No,Yes
+TXN003164,256980,Mombasa,Kisumu,19,Till,79,23,No,Yes,6,No,Yes
+TXN003165,185376,Nairobi,Nyeri,3,Till,43,3,Yes,Yes,5,Yes,Yes
+TXN003168,391075,Kisumu,Kiambu,6,Withdraw,84,17,Yes,Yes,3,No,Yes
+TXN003171,449956,Nairobi,Uasin Gishu,3,Withdraw,1,9,No,No,4,Yes,Yes
+TXN003173,52401,Kisumu,Meru,13,Paybill,43,24,Yes,No,6,No,Yes
+TXN003174,270438,Machakos,Nairobi,10,Send Money,1,19,Yes,No,1,Yes,Yes
+TXN003176,195335,Machakos,Nyeri,17,Paybill,21,23,Yes,Yes,2,Yes,Yes
+TXN003177,239140,Nairobi,Kiambu,15,Withdraw,83,15,No,Yes,5,No,Yes
+TXN003179,428430,Nyeri,Nyeri,17,Paybill,42,11,No,Yes,7,No,Yes
+TXN003180,210743,Nakuru,Nairobi,8,Till,6,8,Yes,No,4,Yes,Yes
+TXN003186,278240,Kisumu,Mombasa,6,Paybill,74,15,Yes,Yes,5,Yes,Yes
+TXN003188,68157,Uasin Gishu,Mombasa,23,Send Money,86,17,Yes,Yes,7,No,Yes
+TXN003189,392060,Machakos,Uasin Gishu,1,Paybill,32,24,No,Yes,7,Yes,Yes
+TXN003191,268763,Nakuru,Nairobi,22,Send Money,84,4,No,Yes,7,No,Yes
+TXN003192,338241,Kiambu,Machakos,14,Till,1,16,Yes,No,4,No,Yes
+TXN003195,361478,Meru,Nyeri,10,Send Money,51,1,No,Yes,5,Yes,Yes
+TXN003197,172994,Nakuru,Kiambu,21,Send Money,54,22,Yes,No,7,No,Yes
+TXN003198,256324,Kakamega,Kakamega,12,Send Money,108,23,Yes,Yes,7,Yes,Yes
+TXN003200,203423,Kiambu,Nairobi,7,Paybill,75,6,Yes,Yes,3,No,Yes
+TXN003201,214379,Nairobi,Kisumu,7,Send Money,75,19,No,Yes,8,No,Yes
+TXN003203,424126,Nakuru,Kisumu,4,Paybill,16,10,No,Yes,4,Yes,Yes
+TXN003204,140474,Nairobi,Meru,7,Till,62,16,Yes,No,6,No,Yes
+TXN003209,344095,Kiambu,Uasin Gishu,17,Till,91,21,Yes,No,6,No,Yes
+TXN003212,483932,Nakuru,Meru,23,Send Money,102,7,Yes,Yes,7,No,Yes
+TXN003217,132616,Kisumu,Mombasa,12,Paybill,40,20,Yes,No,6,No,Yes
+TXN003218,381792,Meru,Kisumu,18,Withdraw,10,18,Yes,Yes,3,Yes,Yes
+TXN003219,410670,Nakuru,Nairobi,15,Send Money,84,20,Yes,Yes,0,No,Yes
+TXN003222,257473,Nairobi,Uasin Gishu,6,Paybill,95,18,No,Yes,8,Yes,Yes
+TXN003223,83296,Meru,Nyeri,1,Till,89,22,Yes,Yes,2,No,Yes
+TXN003225,6939,Kakamega,Kisumu,22,Till,109,19,No,Yes,6,No,Yes
+TXN003226,480725,Kakamega,Nyeri,14,Till,105,11,Yes,No,7,Yes,Yes
+TXN003227,246084,Meru,Kiambu,13,Till,64,18,No,Yes,7,Yes,Yes
+TXN003229,499956,Meru,Kisumu,16,Paybill,118,5,No,Yes,6,Yes,Yes
+TXN003230,468543,Kakamega,Nairobi,0,Till,52,22,Yes,No,4,Yes,Yes
+TXN003233,75728,Kisumu,Nyeri,21,Till,60,19,Yes,Yes,2,No,Yes
+TXN003234,124947,Mombasa,Meru,19,Send Money,48,22,No,Yes,6,Yes,Yes
+TXN003235,323433,Nairobi,Mombasa,15,Send Money,72,22,No,Yes,8,No,Yes
+TXN003237,340241,Kiambu,Nakuru,7,Withdraw,14,24,Yes,No,4,Yes,Yes
+TXN003239,171766,Nairobi,Mombasa,15,Till,9,3,Yes,Yes,0,No,Yes
+TXN003241,85756,Nairobi,Kisumu,19,Withdraw,88,25,Yes,Yes,0,Yes,Yes
+TXN003245,231160,Kakamega,Meru,7,Withdraw,38,2,No,Yes,3,Yes,Yes
+TXN003247,180145,Machakos,Nyeri,9,Withdraw,64,25,Yes,No,4,Yes,Yes
+TXN003249,89658,Kiambu,Machakos,0,Withdraw,37,24,Yes,No,7,No,Yes
+TXN003250,109678,Kakamega,Meru,3,Send Money,24,9,No,Yes,5,Yes,Yes
+TXN003252,312763,Meru,Uasin Gishu,3,Paybill,29,27,Yes,Yes,3,No,Yes
+TXN003253,27478,Nairobi,Kisumu,4,Withdraw,105,22,No,Yes,4,Yes,Yes
+TXN003258,240179,Kisumu,Meru,5,Withdraw,24,16,No,Yes,4,No,Yes
+TXN003262,174570,Nyeri,Meru,0,Send Money,85,3,Yes,No,6,Yes,Yes
+TXN003265,455033,Meru,Kiambu,16,Send Money,115,2,No,Yes,6,No,Yes
+TXN003269,109996,Nyeri,Kakamega,17,Send Money,70,23,Yes,No,8,Yes,Yes
+TXN003270,475144,Meru,Nyeri,10,Withdraw,51,14,Yes,No,4,No,Yes
+TXN003272,177567,Machakos,Meru,8,Withdraw,18,3,Yes,No,6,Yes,Yes
+TXN003273,309029,Nyeri,Kiambu,14,Send Money,119,23,No,Yes,8,Yes,Yes
+TXN003274,172193,Meru,Nyeri,17,Withdraw,20,2,Yes,Yes,3,Yes,Yes
+TXN003275,47849,Nakuru,Uasin Gishu,12,Withdraw,102,24,Yes,Yes,2,Yes,Yes
+TXN003282,89291,Kiambu,Nairobi,23,Paybill,71,12,No,Yes,4,Yes,Yes
+TXN003285,209624,Machakos,Uasin Gishu,19,Send Money,112,21,No,Yes,8,No,Yes
+TXN003287,326995,Machakos,Nyeri,14,Withdraw,109,3,Yes,No,8,No,Yes
+TXN003288,15258,Machakos,Meru,18,Till,2,22,No,Yes,3,No,Yes
+TXN003290,31065,Mombasa,Nakuru,23,Withdraw,11,5,Yes,Yes,3,Yes,Yes
+TXN003291,47821,Nakuru,Machakos,13,Send Money,111,25,No,Yes,8,Yes,Yes
+TXN003292,168067,Mombasa,Machakos,6,Paybill,115,29,Yes,Yes,8,Yes,Yes
+TXN003293,239667,Nairobi,Kisumu,20,Withdraw,36,27,Yes,No,6,No,Yes
+TXN003294,257476,Machakos,Meru,13,Till,22,17,No,Yes,5,No,Yes
+TXN003299,206806,Kiambu,Machakos,15,Till,84,11,Yes,Yes,2,Yes,Yes
+TXN003300,372573,Kisumu,Kakamega,20,Withdraw,38,11,Yes,Yes,3,Yes,Yes
+TXN003303,386337,Nairobi,Meru,8,Send Money,90,6,Yes,No,3,No,Yes
+TXN003304,92339,Machakos,Kakamega,18,Till,103,23,Yes,Yes,5,Yes,Yes
+TXN003305,305707,Mombasa,Kisumu,20,Paybill,73,2,Yes,No,7,No,Yes
+TXN003307,106976,Kakamega,Mombasa,6,Paybill,103,10,Yes,No,8,No,Yes
+TXN003308,315056,Nyeri,Uasin Gishu,2,Paybill,99,22,No,Yes,7,No,Yes
+TXN003309,258822,Nairobi,Kisumu,19,Send Money,31,10,Yes,Yes,1,Yes,Yes
+TXN003310,462918,Mombasa,Kiambu,18,Till,90,23,Yes,Yes,3,Yes,Yes
+TXN003311,293904,Kiambu,Machakos,5,Paybill,5,6,Yes,Yes,6,No,Yes
+TXN003312,61400,Mombasa,Nakuru,6,Till,106,19,Yes,Yes,8,Yes,Yes
+TXN003313,205861,Nakuru,Uasin Gishu,20,Withdraw,72,24,Yes,Yes,7,Yes,Yes
+TXN003316,409897,Uasin Gishu,Nairobi,15,Send Money,21,1,Yes,No,4,No,Yes
+TXN003318,187800,Uasin Gishu,Nakuru,3,Withdraw,91,28,No,Yes,3,Yes,Yes
+TXN003323,409702,Nyeri,Uasin Gishu,6,Paybill,4,19,No,Yes,4,Yes,Yes
+TXN003324,95787,Nyeri,Kakamega,9,Till,28,10,Yes,Yes,6,No,Yes
+TXN003325,462306,Machakos,Meru,23,Send Money,90,18,Yes,Yes,3,No,Yes
+TXN003326,440834,Nyeri,Kisumu,21,Till,74,16,Yes,Yes,8,No,Yes
+TXN003328,409897,Kakamega,Nyeri,17,Paybill,4,7,No,Yes,3,No,Yes
+TXN003329,287257,Nakuru,Nyeri,0,Send Money,91,16,Yes,No,3,Yes,Yes
+TXN003332,68348,Machakos,Kisumu,18,Withdraw,5,13,Yes,Yes,7,No,Yes
+TXN003333,252120,Nairobi,Nyeri,3,Send Money,52,2,Yes,No,5,No,Yes
+TXN003334,392897,Kisumu,Nyeri,3,Till,100,9,No,Yes,5,No,Yes
+TXN003336,160962,Mombasa,Nyeri,19,Paybill,50,30,Yes,Yes,6,Yes,Yes
+TXN003337,209591,Kiambu,Uasin Gishu,11,Till,96,24,Yes,No,5,No,Yes
+TXN003338,92036,Nakuru,Kakamega,14,Send Money,95,13,Yes,No,8,No,Yes
+TXN003339,139991,Kiambu,Machakos,18,Till,104,1,Yes,No,4,No,Yes
+TXN003341,337444,Meru,Kakamega,8,Paybill,18,5,No,Yes,3,No,Yes
+TXN003342,362052,Nyeri,Machakos,21,Send Money,13,21,No,Yes,6,Yes,Yes
+TXN003343,494087,Nairobi,Meru,18,Send Money,75,11,No,Yes,3,No,Yes
+TXN003344,213114,Mombasa,Nakuru,13,Till,88,30,No,Yes,8,Yes,Yes
+TXN003345,448910,Nyeri,Kiambu,6,Withdraw,115,25,Yes,Yes,4,No,Yes
+TXN003347,459469,Kiambu,Meru,23,Withdraw,91,4,No,Yes,5,No,Yes
+TXN003349,179773,Mombasa,Kakamega,6,Till,22,17,Yes,Yes,1,No,Yes
+TXN003351,288829,Mombasa,Nairobi,1,Send Money,30,27,Yes,No,4,No,Yes
+TXN003352,233335,Kakamega,Uasin Gishu,2,Paybill,2,15,Yes,Yes,4,No,Yes
+TXN003354,405779,Nyeri,Kakamega,22,Till,20,26,Yes,Yes,7,Yes,Yes
+TXN003355,450646,Kisumu,Uasin Gishu,10,Withdraw,52,22,No,Yes,3,Yes,Yes
+TXN003357,438245,Mombasa,Nairobi,15,Send Money,68,28,No,Yes,8,No,Yes
+TXN003359,54088,Kiambu,Kisumu,23,Till,75,28,Yes,Yes,7,No,Yes
+TXN003361,240431,Nakuru,Kisumu,10,Send Money,1,2,No,Yes,2,No,Yes
+TXN003362,82271,Kakamega,Meru,18,Send Money,12,25,Yes,Yes,2,No,Yes
+TXN003365,56891,Nairobi,Meru,0,Withdraw,99,23,Yes,Yes,3,No,Yes
+TXN003367,19230,Meru,Kisumu,21,Withdraw,64,26,Yes,Yes,4,No,Yes
+TXN003370,189029,Kakamega,Meru,8,Withdraw,87,9,Yes,Yes,8,Yes,Yes
+TXN003371,249940,Machakos,Kisumu,4,Send Money,74,12,Yes,Yes,3,No,Yes
+TXN003374,241980,Machakos,Mombasa,13,Till,97,25,No,Yes,6,Yes,Yes
+TXN003377,314874,Nakuru,Nakuru,8,Paybill,120,7,Yes,Yes,7,No,Yes
+TXN003378,78404,Kakamega,Kisumu,7,Withdraw,69,12,No,Yes,8,Yes,Yes
+TXN003380,432352,Kisumu,Nakuru,8,Send Money,99,24,Yes,Yes,8,No,Yes
+TXN003381,107221,Nakuru,Nakuru,21,Send Money,96,15,Yes,No,3,Yes,Yes
+TXN003382,331534,Mombasa,Kisumu,11,Withdraw,81,18,Yes,No,5,No,Yes
+TXN003383,467113,Kakamega,Mombasa,18,Till,71,21,Yes,No,7,Yes,Yes
+TXN003384,394703,Nyeri,Nairobi,20,Withdraw,120,22,Yes,No,6,No,Yes
+TXN003386,243092,Machakos,Nakuru,22,Paybill,80,22,Yes,No,4,Yes,Yes
+TXN003387,329952,Meru,Nakuru,8,Paybill,106,15,Yes,No,8,No,Yes
+TXN003388,275916,Nyeri,Nakuru,21,Paybill,72,7,Yes,Yes,7,No,Yes
+TXN003389,42151,Meru,Nyeri,11,Withdraw,89,12,Yes,Yes,2,Yes,Yes
+TXN003390,181162,Nairobi,Uasin Gishu,13,Withdraw,103,12,Yes,Yes,2,No,Yes
+TXN003391,459824,Nakuru,Kiambu,15,Withdraw,117,24,No,Yes,6,No,Yes
+TXN003397,30567,Mombasa,Nairobi,21,Paybill,66,16,Yes,Yes,0,Yes,Yes
+TXN003398,386083,Kisumu,Machakos,23,Withdraw,104,15,Yes,No,6,Yes,Yes
+TXN003399,344408,Kiambu,Nyeri,14,Till,102,15,Yes,Yes,2,Yes,Yes
+TXN003400,295895,Mombasa,Meru,3,Send Money,28,20,Yes,No,6,Yes,Yes
+TXN003402,159541,Meru,Machakos,20,Till,119,25,No,Yes,7,No,Yes
+TXN003403,47951,Mombasa,Uasin Gishu,9,Till,62,14,Yes,Yes,3,No,Yes
+TXN003404,334808,Nakuru,Kiambu,13,Withdraw,72,4,Yes,No,5,No,Yes
+TXN003406,390225,Machakos,Uasin Gishu,13,Till,99,26,No,Yes,8,Yes,Yes
+TXN003407,481551,Kakamega,Kakamega,2,Paybill,12,18,Yes,No,8,No,Yes
+TXN003410,147070,Nakuru,Machakos,8,Withdraw,51,26,Yes,No,3,No,Yes
+TXN003411,311930,Uasin Gishu,Nairobi,7,Withdraw,43,6,Yes,Yes,1,No,Yes
+TXN003412,33341,Uasin Gishu,Meru,9,Withdraw,1,17,Yes,Yes,5,No,Yes
+TXN003413,224008,Uasin Gishu,Kiambu,14,Till,1,29,No,Yes,3,No,Yes
+TXN003414,240989,Kisumu,Kisumu,3,Till,56,24,Yes,Yes,6,Yes,Yes
+TXN003416,22282,Nakuru,Nakuru,11,Paybill,101,27,No,Yes,5,Yes,Yes
+TXN003418,401874,Nyeri,Nairobi,3,Send Money,111,1,Yes,No,7,Yes,Yes
+TXN003421,176233,Mombasa,Nyeri,13,Withdraw,16,19,Yes,Yes,6,No,Yes
+TXN003429,25250,Nakuru,Meru,19,Paybill,107,21,Yes,Yes,1,Yes,Yes
+TXN003431,413204,Nyeri,Nyeri,22,Send Money,20,8,Yes,No,5,No,Yes
+TXN003432,443502,Kiambu,Machakos,0,Till,3,29,No,Yes,6,Yes,Yes
+TXN003433,85654,Nairobi,Nyeri,3,Withdraw,12,3,Yes,Yes,3,No,Yes
+TXN003434,412152,Uasin Gishu,Nairobi,17,Send Money,36,25,Yes,Yes,4,No,Yes
+TXN003436,138258,Meru,Machakos,16,Send Money,36,19,No,Yes,6,Yes,Yes
+TXN003438,358797,Kisumu,Meru,8,Send Money,80,21,No,Yes,7,No,Yes
+TXN003439,159983,Kakamega,Uasin Gishu,5,Till,19,22,Yes,No,5,No,Yes
+TXN003446,499091,Kiambu,Kisumu,6,Till,17,7,Yes,Yes,5,Yes,Yes
+TXN003448,460673,Machakos,Kisumu,0,Till,9,15,Yes,Yes,5,Yes,Yes
+TXN003449,476204,Nakuru,Mombasa,16,Till,94,29,Yes,No,3,Yes,Yes
+TXN003450,194805,Kisumu,Nakuru,4,Paybill,118,14,Yes,No,3,No,Yes
+TXN003451,380474,Meru,Kiambu,8,Paybill,92,23,Yes,Yes,1,Yes,Yes
+TXN003452,380440,Nyeri,Kakamega,16,Paybill,14,26,No,Yes,4,Yes,Yes
+TXN003453,139111,Kiambu,Nairobi,4,Send Money,89,30,Yes,No,7,Yes,Yes
+TXN003454,486573,Kakamega,Meru,18,Send Money,15,14,Yes,Yes,1,Yes,Yes
+TXN003455,263372,Kiambu,Kisumu,13,Till,14,21,Yes,Yes,6,Yes,Yes
+TXN003456,242881,Nyeri,Kakamega,14,Till,67,25,No,Yes,5,No,Yes
+TXN003457,407055,Nyeri,Nyeri,17,Paybill,112,12,Yes,No,3,No,Yes
+TXN003458,102507,Kiambu,Kisumu,4,Till,96,25,No,Yes,5,No,Yes
+TXN003459,106270,Nyeri,Nairobi,10,Send Money,42,4,Yes,No,8,Yes,Yes
+TXN003460,130874,Nyeri,Kakamega,5,Send Money,33,11,No,Yes,8,Yes,Yes
+TXN003463,358670,Meru,Nakuru,3,Till,108,27,Yes,No,8,No,Yes
+TXN003465,134752,Uasin Gishu,Mombasa,8,Till,102,9,Yes,Yes,1,Yes,Yes
+TXN003468,411873,Nairobi,Mombasa,0,Send Money,75,30,No,Yes,6,No,Yes
+TXN003469,391332,Meru,Meru,15,Till,27,26,No,Yes,4,No,Yes
+TXN003471,497090,Kakamega,Meru,8,Paybill,91,30,Yes,Yes,5,Yes,Yes
+TXN003472,239305,Meru,Nairobi,6,Paybill,56,30,Yes,Yes,7,No,Yes
+TXN003473,61666,Nyeri,Nairobi,14,Send Money,21,6,Yes,Yes,5,No,Yes
+TXN003474,152008,Uasin Gishu,Nyeri,14,Till,58,7,Yes,No,8,Yes,Yes
+TXN003477,85013,Mombasa,Meru,6,Withdraw,110,18,Yes,Yes,2,Yes,Yes
+TXN003479,313939,Meru,Kisumu,21,Send Money,27,7,Yes,No,5,No,Yes
+TXN003480,471979,Nakuru,Mombasa,5,Paybill,52,13,No,Yes,4,No,Yes
+TXN003481,132366,Meru,Nyeri,2,Send Money,84,30,No,Yes,5,No,Yes
+TXN003483,457710,Kakamega,Nairobi,9,Paybill,50,24,Yes,No,8,Yes,Yes
+TXN003484,413862,Meru,Machakos,11,Till,49,9,Yes,Yes,6,No,Yes
+TXN003485,300318,Meru,Nakuru,3,Paybill,120,9,Yes,Yes,3,No,Yes
+TXN003486,400114,Kisumu,Kakamega,12,Withdraw,110,14,Yes,No,5,No,Yes
+TXN003488,109426,Meru,Mombasa,18,Till,107,25,No,Yes,7,No,Yes
+TXN003491,43040,Kiambu,Kiambu,5,Paybill,29,20,Yes,No,4,Yes,Yes
+TXN003492,216422,Mombasa,Nairobi,23,Withdraw,33,16,Yes,Yes,4,Yes,Yes
+TXN003494,179685,Meru,Meru,12,Withdraw,116,16,Yes,Yes,6,No,Yes
+TXN003501,262694,Kiambu,Kiambu,15,Send Money,49,16,No,Yes,3,No,Yes
+TXN003506,259653,Machakos,Nakuru,20,Till,22,20,Yes,No,8,No,Yes
+TXN003507,174515,Nyeri,Nairobi,15,Send Money,113,1,Yes,No,5,No,Yes
+TXN003508,196446,Uasin Gishu,Meru,6,Paybill,30,18,Yes,Yes,8,No,Yes
+TXN003509,378384,Nyeri,Nairobi,22,Till,78,4,Yes,No,6,No,Yes
+TXN003510,425469,Nairobi,Kiambu,2,Till,100,1,No,Yes,7,Yes,Yes
+TXN003512,420615,Nyeri,Kakamega,20,Withdraw,95,29,Yes,No,5,Yes,Yes
+TXN003514,452913,Kakamega,Nakuru,18,Withdraw,56,24,Yes,Yes,3,Yes,Yes
+TXN003515,138701,Nairobi,Mombasa,0,Paybill,15,11,Yes,Yes,4,Yes,Yes
+TXN003516,329452,Meru,Machakos,3,Withdraw,63,14,Yes,No,8,Yes,Yes
+TXN003518,223981,Machakos,Kiambu,22,Withdraw,12,9,No,Yes,5,No,Yes
+TXN003519,276929,Uasin Gishu,Nairobi,5,Withdraw,76,7,No,Yes,5,Yes,Yes
+TXN003521,493635,Nakuru,Meru,3,Paybill,21,20,Yes,Yes,6,Yes,Yes
+TXN003523,215650,Kakamega,Meru,2,Send Money,120,17,No,Yes,5,Yes,Yes
+TXN003525,18826,Nyeri,Nakuru,0,Paybill,59,17,Yes,No,7,No,Yes
+TXN003527,455119,Nyeri,Nairobi,19,Send Money,38,29,No,Yes,7,Yes,Yes
+TXN003528,99214,Nakuru,Mombasa,13,Withdraw,16,28,No,Yes,6,No,Yes
+TXN003530,389299,Kakamega,Machakos,13,Send Money,76,7,Yes,Yes,2,Yes,Yes
+TXN003531,442937,Mombasa,Machakos,5,Paybill,92,27,No,Yes,6,Yes,Yes
+TXN003532,436994,Nakuru,Nakuru,0,Paybill,117,21,Yes,Yes,6,No,Yes
+TXN003534,421182,Kisumu,Nairobi,3,Paybill,46,9,Yes,Yes,7,Yes,Yes
+TXN003536,105158,Nairobi,Kiambu,16,Send Money,11,22,Yes,Yes,6,Yes,Yes
+TXN003537,409918,Nyeri,Kiambu,22,Withdraw,89,2,Yes,Yes,5,No,Yes
+TXN003540,254864,Kisumu,Meru,11,Send Money,19,28,Yes,Yes,6,No,Yes
+TXN003542,176495,Meru,Uasin Gishu,23,Till,116,11,Yes,Yes,0,Yes,Yes
+TXN003544,306865,Kiambu,Kiambu,13,Till,95,4,No,Yes,8,Yes,Yes
+TXN003545,21583,Meru,Machakos,11,Till,31,30,No,Yes,7,No,Yes
+TXN003546,315322,Nairobi,Nyeri,22,Paybill,90,26,Yes,No,5,Yes,Yes
+TXN003548,195139,Kisumu,Nakuru,16,Withdraw,74,28,Yes,No,4,Yes,Yes
+TXN003551,483455,Nakuru,Meru,10,Withdraw,93,28,Yes,No,6,Yes,Yes
+TXN003552,345551,Meru,Nakuru,10,Send Money,109,16,Yes,Yes,5,No,Yes
+TXN003555,493884,Mombasa,Kakamega,20,Send Money,37,27,No,Yes,3,No,Yes
+TXN003559,158134,Nairobi,Kiambu,6,Send Money,103,24,Yes,Yes,8,No,Yes
+TXN003562,338860,Nyeri,Nakuru,19,Send Money,87,1,Yes,Yes,5,No,Yes
+TXN003563,48722,Uasin Gishu,Kiambu,1,Send Money,14,12,Yes,Yes,0,Yes,Yes
+TXN003564,320436,Kakamega,Meru,1,Paybill,91,7,Yes,Yes,6,Yes,Yes
+TXN003565,476967,Mombasa,Nyeri,17,Paybill,1,22,Yes,No,8,Yes,Yes
+TXN003566,276985,Uasin Gishu,Uasin Gishu,7,Till,39,10,No,Yes,6,No,Yes
+TXN003567,461778,Kiambu,Nyeri,22,Send Money,108,26,Yes,Yes,8,Yes,Yes
+TXN003569,160982,Kisumu,Kakamega,19,Withdraw,36,28,Yes,No,7,Yes,Yes
+TXN003570,213154,Kakamega,Kiambu,8,Paybill,31,15,No,Yes,8,No,Yes
+TXN003571,163156,Uasin Gishu,Meru,6,Till,50,17,No,Yes,4,No,Yes
+TXN003573,5417,Kiambu,Meru,12,Withdraw,20,21,No,Yes,8,No,Yes
+TXN003574,219359,Kisumu,Meru,4,Paybill,86,26,Yes,Yes,8,Yes,Yes
+TXN003575,348695,Kisumu,Kisumu,1,Paybill,99,21,Yes,No,6,No,Yes
+TXN003580,493215,Kakamega,Nairobi,11,Withdraw,78,9,Yes,No,3,Yes,Yes
+TXN003581,56343,Kisumu,Nairobi,1,Till,33,14,No,Yes,4,No,Yes
+TXN003584,123484,Kiambu,Nakuru,5,Paybill,29,11,No,Yes,8,Yes,Yes
+TXN003586,408688,Nairobi,Uasin Gishu,1,Send Money,36,5,Yes,Yes,8,Yes,Yes
+TXN003587,386281,Kisumu,Meru,2,Till,106,16,Yes,Yes,5,Yes,Yes
+TXN003590,23510,Mombasa,Nakuru,1,Withdraw,40,28,Yes,No,7,No,Yes
+TXN003591,40320,Nyeri,Meru,14,Till,2,20,Yes,Yes,1,No,Yes
+TXN003593,148642,Mombasa,Kisumu,13,Withdraw,32,3,Yes,No,4,Yes,Yes
+TXN003594,215654,Uasin Gishu,Mombasa,13,Till,45,13,Yes,Yes,3,Yes,Yes
+TXN003595,178178,Machakos,Machakos,10,Paybill,66,1,No,Yes,4,No,Yes
+TXN003596,220768,Nairobi,Kisumu,14,Till,59,5,Yes,Yes,6,No,Yes
+TXN003598,167406,Uasin Gishu,Kakamega,22,Paybill,60,3,Yes,Yes,1,Yes,Yes
+TXN003599,424824,Nairobi,Machakos,8,Till,24,8,No,Yes,3,Yes,Yes
+TXN003600,384917,Kakamega,Nairobi,14,Till,75,23,No,Yes,6,No,Yes
+TXN003601,98797,Kiambu,Kisumu,12,Till,19,28,Yes,Yes,0,Yes,Yes
+TXN003603,448942,Machakos,Mombasa,1,Paybill,100,21,Yes,No,4,Yes,Yes
+TXN003604,99854,Nakuru,Nakuru,0,Till,37,13,No,Yes,3,No,Yes
+TXN003606,62711,Nairobi,Kisumu,3,Withdraw,52,25,No,Yes,7,No,Yes
+TXN003608,289351,Kakamega,Nyeri,11,Withdraw,116,22,Yes,Yes,7,Yes,Yes
+TXN003610,499088,Machakos,Machakos,18,Send Money,95,8,Yes,Yes,1,Yes,Yes
+TXN003611,406085,Meru,Nakuru,12,Till,49,20,Yes,Yes,1,No,Yes
+TXN003613,388049,Kakamega,Uasin Gishu,11,Send Money,43,19,Yes,No,7,Yes,Yes
+TXN003614,302327,Uasin Gishu,Kisumu,20,Paybill,34,13,Yes,Yes,7,No,Yes
+TXN003616,268764,Uasin Gishu,Nairobi,18,Send Money,111,28,Yes,Yes,0,Yes,Yes
+TXN003617,309153,Nairobi,Nakuru,4,Withdraw,36,28,Yes,Yes,7,Yes,Yes
+TXN003618,361963,Kakamega,Kakamega,15,Send Money,52,22,Yes,Yes,5,No,Yes
+TXN003619,44418,Mombasa,Mombasa,18,Till,36,22,No,Yes,6,Yes,Yes
+TXN003621,311805,Machakos,Mombasa,6,Till,47,13,Yes,Yes,2,Yes,Yes
+TXN003624,288930,Nyeri,Kakamega,9,Withdraw,17,24,Yes,No,7,No,Yes
+TXN003628,298158,Nairobi,Nakuru,20,Send Money,54,19,Yes,Yes,5,Yes,Yes
+TXN003632,211459,Kakamega,Nakuru,18,Paybill,76,28,Yes,No,5,Yes,Yes
+TXN003633,419817,Nyeri,Uasin Gishu,10,Send Money,17,5,Yes,Yes,7,No,Yes
+TXN003635,380038,Mombasa,Kisumu,21,Till,62,25,Yes,No,4,Yes,Yes
+TXN003636,111032,Nyeri,Mombasa,2,Till,39,21,No,Yes,5,Yes,Yes
+TXN003639,103376,Kakamega,Nairobi,16,Till,26,19,Yes,No,8,No,Yes
+TXN003640,170188,Mombasa,Nairobi,22,Send Money,3,13,No,Yes,4,No,Yes
+TXN003642,60202,Meru,Meru,20,Send Money,118,1,Yes,Yes,8,No,Yes
+TXN003643,112314,Nakuru,Nyeri,9,Send Money,20,25,Yes,No,7,No,Yes
+TXN003644,52869,Kakamega,Machakos,12,Send Money,12,11,No,Yes,3,No,Yes
+TXN003646,148859,Machakos,Kiambu,12,Paybill,54,6,Yes,Yes,1,Yes,Yes
+TXN003648,120150,Kakamega,Nairobi,23,Send Money,36,13,No,Yes,5,No,Yes
+TXN003649,218741,Meru,Machakos,3,Withdraw,7,26,Yes,Yes,0,No,Yes
+TXN003652,228703,Nakuru,Nakuru,21,Paybill,33,22,Yes,No,4,Yes,Yes
+TXN003653,227984,Meru,Mombasa,10,Withdraw,51,12,Yes,Yes,8,No,Yes
+TXN003654,365291,Machakos,Kakamega,17,Paybill,98,29,No,Yes,7,Yes,Yes
+TXN003655,296702,Kisumu,Mombasa,18,Send Money,8,23,No,Yes,4,Yes,Yes
+TXN003656,337232,Kiambu,Mombasa,9,Send Money,88,4,No,Yes,4,Yes,Yes
+TXN003658,80704,Kakamega,Kiambu,1,Paybill,1,29,Yes,Yes,0,Yes,Yes
+TXN003662,293518,Nyeri,Machakos,4,Paybill,84,1,Yes,Yes,3,Yes,Yes
+TXN003663,53706,Nyeri,Kiambu,22,Send Money,46,13,Yes,Yes,4,Yes,Yes
+TXN003665,409182,Kisumu,Nakuru,17,Withdraw,21,1,Yes,No,3,No,Yes
+TXN003668,255270,Kisumu,Kiambu,22,Send Money,111,5,Yes,Yes,7,No,Yes
+TXN003669,10779,Nairobi,Meru,22,Withdraw,31,27,Yes,Yes,5,Yes,Yes
+TXN003670,480940,Kisumu,Uasin Gishu,11,Till,19,10,No,Yes,5,No,Yes
+TXN003671,464235,Nakuru,Meru,17,Till,9,14,Yes,Yes,7,No,Yes
+TXN003672,366693,Uasin Gishu,Nakuru,21,Paybill,24,8,Yes,Yes,8,Yes,Yes
+TXN003673,407456,Kiambu,Kisumu,20,Paybill,107,15,No,Yes,7,Yes,Yes
+TXN003675,380403,Nakuru,Kiambu,22,Withdraw,55,22,Yes,Yes,3,No,Yes
+TXN003677,296976,Uasin Gishu,Nyeri,13,Withdraw,37,22,No,Yes,5,No,Yes
+TXN003678,65714,Mombasa,Meru,8,Till,99,3,Yes,Yes,5,No,Yes
+TXN003679,387943,Machakos,Mombasa,6,Paybill,46,9,Yes,Yes,5,No,Yes
+TXN003680,371236,Mombasa,Meru,13,Paybill,5,24,No,Yes,5,No,Yes
+TXN003681,345790,Kakamega,Kiambu,10,Send Money,89,12,Yes,Yes,0,No,Yes
+TXN003682,352646,Meru,Nairobi,10,Send Money,30,28,No,Yes,6,No,Yes
+TXN003684,454173,Nakuru,Nyeri,3,Paybill,90,16,No,Yes,3,Yes,Yes
+TXN003685,270558,Kakamega,Machakos,4,Send Money,11,15,Yes,Yes,5,No,Yes
+TXN003687,160384,Nyeri,Nyeri,12,Paybill,78,27,Yes,Yes,1,Yes,Yes
+TXN003689,267138,Mombasa,Nairobi,1,Paybill,103,1,Yes,No,4,No,Yes
+TXN003694,22797,Uasin Gishu,Nairobi,2,Send Money,53,12,Yes,Yes,0,No,Yes
+TXN003695,329830,Machakos,Machakos,23,Withdraw,38,4,Yes,Yes,3,No,Yes
+TXN003699,262246,Nyeri,Meru,7,Withdraw,62,15,Yes,Yes,3,Yes,Yes
+TXN003700,337284,Nakuru,Nairobi,8,Till,82,26,Yes,Yes,4,No,Yes
+TXN003702,434317,Kakamega,Meru,21,Withdraw,93,8,No,Yes,8,Yes,Yes
+TXN003703,408396,Kakamega,Machakos,16,Till,40,24,Yes,Yes,1,No,Yes
+TXN003704,325012,Kisumu,Nairobi,11,Till,25,30,Yes,No,3,No,Yes
+TXN003705,433761,Mombasa,Meru,10,Till,40,20,Yes,Yes,2,No,Yes
+TXN003707,332913,Kisumu,Nairobi,21,Till,10,25,No,Yes,7,No,Yes
+TXN003712,289431,Kiambu,Kiambu,4,Withdraw,55,14,No,Yes,8,No,Yes
+TXN003714,43127,Kakamega,Nairobi,7,Paybill,15,26,Yes,Yes,8,No,Yes
+TXN003715,82379,Nairobi,Kakamega,7,Paybill,42,15,Yes,No,4,Yes,Yes
+TXN003719,402600,Machakos,Uasin Gishu,11,Send Money,37,8,Yes,Yes,1,No,Yes
+TXN003720,267491,Kakamega,Nairobi,0,Paybill,101,4,Yes,No,5,Yes,Yes
+TXN003722,155248,Machakos,Mombasa,20,Paybill,4,27,No,Yes,6,Yes,Yes
+TXN003725,189045,Kisumu,Uasin Gishu,14,Paybill,112,5,Yes,Yes,4,No,Yes
+TXN003728,164982,Meru,Machakos,1,Send Money,27,15,No,Yes,6,Yes,Yes
+TXN003730,311037,Kisumu,Nyeri,16,Send Money,30,27,No,Yes,3,No,Yes
+TXN003734,160544,Uasin Gishu,Meru,17,Paybill,55,10,Yes,Yes,6,Yes,Yes
+TXN003735,204613,Machakos,Nakuru,15,Withdraw,39,18,No,Yes,7,No,Yes
+TXN003737,11657,Machakos,Kiambu,11,Paybill,114,28,No,Yes,7,Yes,Yes
+TXN003739,230925,Kakamega,Kiambu,6,Send Money,73,5,No,Yes,5,Yes,Yes
+TXN003740,359521,Nairobi,Nakuru,23,Till,51,25,Yes,Yes,2,No,Yes
+TXN003742,359543,Meru,Uasin Gishu,23,Till,119,8,No,Yes,7,No,Yes
+TXN003744,380230,Kakamega,Mombasa,16,Paybill,25,24,Yes,No,4,Yes,Yes
+TXN003747,176397,Nakuru,Nyeri,2,Send Money,85,12,Yes,Yes,2,No,Yes
+TXN003748,8390,Nairobi,Kakamega,20,Till,45,1,Yes,Yes,8,Yes,Yes
+TXN003749,356131,Kakamega,Uasin Gishu,15,Withdraw,82,11,No,Yes,8,Yes,Yes
+TXN003750,416643,Nakuru,Nakuru,20,Withdraw,35,6,Yes,Yes,5,No,Yes
+TXN003751,101513,Meru,Uasin Gishu,23,Paybill,94,26,Yes,No,8,Yes,Yes
+TXN003752,41894,Uasin Gishu,Nairobi,15,Withdraw,106,12,Yes,Yes,0,Yes,Yes
+TXN003753,396721,Meru,Uasin Gishu,10,Paybill,22,3,No,Yes,4,No,Yes
+TXN003755,2305,Nakuru,Nairobi,21,Till,72,19,Yes,Yes,8,No,Yes
+TXN003756,27176,Nakuru,Mombasa,4,Withdraw,61,20,Yes,Yes,7,No,Yes
+TXN003757,101117,Nairobi,Kisumu,21,Withdraw,114,9,Yes,No,8,No,Yes
+TXN003758,351239,Nairobi,Meru,1,Withdraw,117,12,Yes,Yes,6,Yes,Yes
+TXN003762,103702,Meru,Kiambu,2,Withdraw,22,7,Yes,Yes,6,Yes,Yes
+TXN003763,176326,Nairobi,Kakamega,16,Withdraw,2,6,No,Yes,3,Yes,Yes
+TXN003766,355074,Machakos,Mombasa,17,Send Money,51,5,No,Yes,8,No,Yes
+TXN003767,151062,Nyeri,Kiambu,21,Till,99,23,Yes,Yes,4,Yes,Yes
+TXN003773,146189,Meru,Nyeri,4,Till,74,7,Yes,No,4,No,Yes
+TXN003774,129469,Kiambu,Nairobi,15,Paybill,120,15,Yes,No,7,Yes,Yes
+TXN003776,437138,Machakos,Kakamega,3,Paybill,100,25,Yes,Yes,7,Yes,Yes
+TXN003778,240087,Kisumu,Kiambu,5,Till,85,17,No,Yes,5,Yes,Yes
+TXN003779,406684,Machakos,Kakamega,17,Paybill,50,13,Yes,Yes,8,Yes,Yes
+TXN003780,213573,Kiambu,Mombasa,7,Withdraw,84,20,Yes,Yes,0,Yes,Yes
+TXN003781,177457,Meru,Meru,14,Withdraw,84,7,Yes,No,6,No,Yes
+TXN003782,428061,Nairobi,Kakamega,8,Withdraw,4,24,No,Yes,6,Yes,Yes
+TXN003783,52118,Nairobi,Kiambu,23,Send Money,107,9,Yes,Yes,7,Yes,Yes
+TXN003785,346246,Uasin Gishu,Kisumu,2,Till,94,21,No,Yes,8,No,Yes
+TXN003787,225012,Kiambu,Mombasa,8,Paybill,16,17,Yes,No,8,No,Yes
+TXN003788,256444,Meru,Nyeri,16,Withdraw,65,12,Yes,Yes,4,Yes,Yes
+TXN003790,302166,Nairobi,Kakamega,22,Send Money,112,19,Yes,Yes,5,Yes,Yes
+TXN003791,111000,Machakos,Uasin Gishu,14,Withdraw,111,5,Yes,No,4,No,Yes
+TXN003792,37311,Uasin Gishu,Nairobi,9,Till,47,27,No,Yes,7,No,Yes
+TXN003793,219039,Kiambu,Machakos,14,Withdraw,71,19,Yes,Yes,1,No,Yes
+TXN003796,172819,Nairobi,Kiambu,18,Withdraw,113,11,Yes,Yes,7,No,Yes
+TXN003797,277513,Kiambu,Kiambu,4,Paybill,18,19,No,Yes,7,No,Yes
+TXN003800,451378,Kiambu,Nakuru,1,Paybill,56,7,Yes,Yes,2,Yes,Yes
+TXN003801,46691,Mombasa,Mombasa,3,Till,70,23,Yes,Yes,3,Yes,Yes
+TXN003806,479179,Nyeri,Uasin Gishu,21,Till,80,14,Yes,Yes,8,No,Yes
+TXN003807,35854,Mombasa,Meru,19,Send Money,60,21,Yes,No,6,Yes,Yes
+TXN003808,406327,Meru,Kiambu,20,Withdraw,106,30,No,Yes,4,No,Yes
+TXN003809,220725,Kisumu,Uasin Gishu,16,Till,91,6,Yes,No,8,No,Yes
+TXN003810,438622,Meru,Meru,1,Send Money,15,16,No,Yes,6,No,Yes
+TXN003812,438713,Mombasa,Machakos,20,Send Money,2,7,No,Yes,1,Yes,Yes
+TXN003815,355576,Uasin Gishu,Kisumu,10,Paybill,46,2,Yes,No,3,Yes,Yes
+TXN003816,353208,Kakamega,Machakos,10,Till,69,3,No,Yes,3,Yes,Yes
+TXN003820,245446,Kisumu,Kakamega,15,Paybill,62,4,Yes,Yes,5,Yes,Yes
+TXN003823,476699,Meru,Nakuru,18,Paybill,50,14,No,Yes,5,Yes,Yes
+TXN003825,108941,Kisumu,Kakamega,19,Till,114,9,Yes,Yes,0,No,Yes
+TXN003827,316206,Meru,Mombasa,4,Withdraw,111,20,Yes,Yes,7,Yes,Yes
+TXN003829,220996,Meru,Mombasa,1,Send Money,87,6,Yes,Yes,6,No,Yes
+TXN003830,376038,Nakuru,Uasin Gishu,8,Till,36,27,No,Yes,6,No,Yes
+TXN003832,331159,Nyeri,Nakuru,10,Paybill,8,15,Yes,Yes,7,No,Yes
+TXN003834,283378,Meru,Nairobi,1,Withdraw,97,12,Yes,Yes,0,Yes,Yes
+TXN003836,289209,Kakamega,Nairobi,7,Till,53,4,No,Yes,8,No,Yes
+TXN003837,143819,Uasin Gishu,Machakos,20,Withdraw,103,14,Yes,Yes,2,No,Yes
+TXN003838,448667,Uasin Gishu,Nakuru,10,Send Money,111,17,No,Yes,5,No,Yes
+TXN003842,46331,Mombasa,Kiambu,10,Till,2,19,Yes,Yes,2,No,Yes
+TXN003843,251685,Nakuru,Kakamega,12,Withdraw,118,19,No,Yes,7,Yes,Yes
+TXN003847,318479,Kisumu,Nyeri,8,Send Money,82,12,Yes,Yes,4,No,Yes
+TXN003853,423252,Kakamega,Nakuru,20,Till,117,25,Yes,No,7,Yes,Yes
+TXN003854,376404,Kiambu,Kakamega,5,Paybill,106,29,No,Yes,7,Yes,Yes
+TXN003855,409496,Uasin Gishu,Uasin Gishu,3,Send Money,87,22,Yes,No,4,No,Yes
+TXN003858,395316,Meru,Machakos,13,Send Money,32,22,No,Yes,8,No,Yes
+TXN003859,120399,Nakuru,Mombasa,17,Paybill,86,10,No,Yes,8,Yes,Yes
+TXN003860,285501,Uasin Gishu,Meru,2,Paybill,4,4,No,Yes,4,No,Yes
+TXN003861,338426,Meru,Nyeri,0,Send Money,107,26,Yes,No,7,Yes,Yes
+TXN003862,406842,Uasin Gishu,Nakuru,3,Till,87,29,Yes,Yes,0,Yes,Yes
+TXN003865,41756,Nyeri,Meru,13,Withdraw,22,16,Yes,Yes,3,Yes,Yes
+TXN003866,98247,Nakuru,Mombasa,21,Withdraw,5,27,Yes,Yes,5,Yes,Yes
+TXN003869,114721,Machakos,Kiambu,23,Withdraw,101,28,No,Yes,5,Yes,Yes
+TXN003870,159666,Nyeri,Kakamega,0,Paybill,56,20,Yes,Yes,7,Yes,Yes
+TXN003871,253088,Nairobi,Meru,7,Send Money,19,18,Yes,Yes,4,Yes,Yes
+TXN003873,349260,Kiambu,Mombasa,17,Paybill,88,1,Yes,No,3,Yes,Yes
+TXN003874,72838,Kisumu,Machakos,4,Send Money,88,24,No,Yes,7,No,Yes
+TXN003875,463549,Kakamega,Meru,11,Till,21,3,Yes,Yes,1,No,Yes
+TXN003876,86884,Nairobi,Mombasa,23,Send Money,68,29,Yes,Yes,6,No,Yes
+TXN003877,210232,Nyeri,Uasin Gishu,23,Paybill,58,17,Yes,Yes,6,No,Yes
+TXN003881,318992,Kakamega,Machakos,10,Send Money,67,9,Yes,Yes,5,Yes,Yes
+TXN003882,276673,Uasin Gishu,Kakamega,14,Send Money,34,17,No,Yes,8,No,Yes
+TXN003885,171845,Kakamega,Kisumu,14,Withdraw,92,29,Yes,Yes,7,Yes,Yes
+TXN003886,127124,Nyeri,Nakuru,4,Send Money,120,24,Yes,Yes,0,Yes,Yes
+TXN003887,189321,Nairobi,Uasin Gishu,6,Withdraw,14,3,Yes,Yes,3,No,Yes
+TXN003891,434925,Nakuru,Nyeri,21,Send Money,8,15,Yes,No,4,Yes,Yes
+TXN003892,302852,Uasin Gishu,Kakamega,22,Withdraw,8,30,Yes,Yes,4,No,Yes
+TXN003894,50608,Kiambu,Machakos,2,Withdraw,62,2,Yes,Yes,7,No,Yes
+TXN003895,456181,Nyeri,Nairobi,8,Till,60,25,Yes,Yes,2,Yes,Yes
+TXN003896,120637,Machakos,Nakuru,23,Paybill,40,15,Yes,No,7,Yes,Yes
+TXN003897,31150,Nyeri,Meru,17,Withdraw,80,30,No,Yes,8,No,Yes
+TXN003898,411008,Meru,Meru,6,Paybill,31,12,No,Yes,7,Yes,Yes
+TXN003901,130315,Kisumu,Nakuru,19,Send Money,75,18,Yes,No,6,No,Yes
+TXN003905,361658,Uasin Gishu,Kisumu,16,Withdraw,26,9,No,Yes,6,Yes,Yes
+TXN003907,190403,Kiambu,Kisumu,2,Send Money,103,23,Yes,No,3,No,Yes
+TXN003909,331282,Nakuru,Nyeri,3,Till,71,18,No,Yes,4,No,Yes
+TXN003910,39158,Kakamega,Meru,5,Till,21,20,Yes,Yes,6,No,Yes
+TXN003914,481032,Nyeri,Kisumu,8,Till,88,29,Yes,Yes,5,No,Yes
+TXN003915,388101,Uasin Gishu,Kiambu,7,Withdraw,26,3,Yes,Yes,2,No,Yes
+TXN003916,280582,Nairobi,Mombasa,8,Withdraw,82,22,No,Yes,4,Yes,Yes
+TXN003918,478795,Meru,Nairobi,12,Till,40,20,Yes,Yes,1,No,Yes
+TXN003920,472114,Uasin Gishu,Nairobi,0,Till,22,11,Yes,Yes,3,Yes,Yes
+TXN003921,399316,Nyeri,Nakuru,20,Paybill,7,6,No,Yes,8,No,Yes
+TXN003927,368271,Machakos,Kakamega,15,Withdraw,98,20,Yes,Yes,0,No,Yes
+TXN003928,346120,Nairobi,Kakamega,9,Send Money,106,20,Yes,No,7,No,Yes
+TXN003929,21210,Machakos,Nairobi,8,Paybill,48,19,Yes,No,8,Yes,Yes
+TXN003931,324569,Machakos,Kiambu,21,Withdraw,81,13,No,Yes,6,Yes,Yes
+TXN003932,475684,Kisumu,Mombasa,1,Send Money,118,13,Yes,No,5,Yes,Yes
+TXN003938,219888,Kisumu,Kisumu,15,Paybill,59,26,Yes,Yes,7,No,Yes
+TXN003940,355854,Nyeri,Machakos,8,Send Money,112,19,Yes,Yes,0,Yes,Yes
+TXN003941,229508,Kisumu,Kiambu,4,Withdraw,1,2,No,Yes,5,Yes,Yes
+TXN003943,196718,Mombasa,Kiambu,4,Withdraw,91,8,No,Yes,4,No,Yes
+TXN003944,392132,Kisumu,Nairobi,12,Paybill,22,1,No,Yes,8,No,Yes
+TXN003947,373289,Nakuru,Nakuru,23,Paybill,79,3,No,Yes,6,Yes,Yes
+TXN003950,247108,Meru,Nakuru,13,Withdraw,117,18,Yes,Yes,1,Yes,Yes
+TXN003953,131223,Machakos,Mombasa,3,Send Money,116,17,Yes,No,4,Yes,Yes
+TXN003954,73298,Nakuru,Nairobi,17,Paybill,49,20,Yes,No,5,Yes,Yes
+TXN003955,100787,Mombasa,Kiambu,20,Till,89,8,Yes,Yes,3,No,Yes
+TXN003957,72723,Kiambu,Mombasa,10,Send Money,103,26,No,Yes,6,No,Yes
+TXN003959,385276,Nairobi,Kisumu,18,Till,33,22,Yes,No,7,Yes,Yes
+TXN003961,388299,Mombasa,Kisumu,11,Paybill,103,25,No,Yes,7,No,Yes
+TXN003962,281599,Uasin Gishu,Machakos,19,Send Money,34,17,Yes,No,5,Yes,Yes
+TXN003964,75746,Machakos,Kisumu,9,Paybill,31,27,Yes,Yes,4,Yes,Yes
+TXN003967,492296,Machakos,Nairobi,23,Paybill,6,24,Yes,No,7,Yes,Yes
+TXN003968,475886,Kakamega,Kakamega,22,Send Money,65,23,Yes,Yes,4,Yes,Yes
+TXN003969,434504,Nakuru,Mombasa,13,Send Money,82,16,Yes,No,6,Yes,Yes
+TXN003972,256891,Uasin Gishu,Uasin Gishu,16,Send Money,88,29,No,Yes,5,Yes,Yes
+TXN003973,182253,Uasin Gishu,Uasin Gishu,2,Withdraw,46,24,No,Yes,5,No,Yes
+TXN003974,217410,Nakuru,Uasin Gishu,8,Withdraw,72,19,No,Yes,3,No,Yes
+TXN003976,307813,Machakos,Mombasa,16,Paybill,43,14,Yes,Yes,2,No,Yes
+TXN003981,69857,Uasin Gishu,Meru,22,Send Money,31,1,Yes,Yes,7,No,Yes
+TXN003982,58034,Nakuru,Kakamega,21,Send Money,63,13,Yes,Yes,1,No,Yes
+TXN003983,438802,Uasin Gishu,Kisumu,5,Paybill,68,12,No,Yes,6,Yes,Yes
+TXN003985,205357,Mombasa,Nairobi,9,Send Money,80,24,No,Yes,8,No,Yes
+TXN003986,439453,Nairobi,Nakuru,4,Till,91,2,Yes,Yes,7,Yes,Yes
+TXN003990,372384,Meru,Nairobi,6,Withdraw,14,4,Yes,Yes,7,No,Yes
+TXN003991,222295,Kisumu,Nyeri,2,Paybill,50,13,Yes,No,4,No,Yes
+TXN003994,331893,Machakos,Kisumu,22,Withdraw,89,7,Yes,Yes,2,No,Yes
+TXN003997,445283,Kisumu,Meru,16,Paybill,110,20,No,Yes,8,No,Yes
+TXN003998,266219,Mombasa,Kiambu,18,Withdraw,65,29,Yes,Yes,1,No,Yes
+TXN003999,231637,Mombasa,Uasin Gishu,11,Withdraw,64,14,No,Yes,3,No,Yes
+TXN004000,217069,Mombasa,Meru,20,Till,108,12,Yes,Yes,2,No,Yes
+TXN004001,344270,Meru,Kiambu,6,Till,35,23,Yes,Yes,4,No,Yes
+TXN004003,180017,Meru,Machakos,23,Withdraw,81,11,Yes,Yes,1,No,Yes
+TXN004004,390547,Meru,Nakuru,12,Send Money,57,17,Yes,Yes,3,No,Yes
+TXN004007,425,Mombasa,Kisumu,0,Withdraw,86,5,Yes,Yes,3,Yes,Yes
+TXN004008,207677,Nairobi,Nakuru,20,Withdraw,110,16,No,Yes,7,Yes,Yes
+TXN004009,117252,Uasin Gishu,Kakamega,0,Withdraw,38,25,No,Yes,6,No,Yes
+TXN004010,335908,Kakamega,Kiambu,6,Withdraw,13,19,Yes,No,6,No,Yes
+TXN004012,205817,Nyeri,Nyeri,15,Paybill,33,24,Yes,No,4,No,Yes
+TXN004014,49605,Machakos,Kiambu,15,Send Money,18,19,Yes,No,6,Yes,Yes
+TXN004015,359932,Mombasa,Kiambu,12,Send Money,5,19,No,Yes,4,Yes,Yes
+TXN004017,466126,Kiambu,Uasin Gishu,14,Paybill,119,2,No,Yes,8,No,Yes
+TXN004019,290753,Meru,Uasin Gishu,15,Send Money,78,9,Yes,Yes,1,No,Yes
+TXN004020,274606,Kiambu,Kisumu,21,Till,29,5,Yes,Yes,0,No,Yes
+TXN004022,102977,Meru,Kiambu,2,Paybill,97,12,No,Yes,4,Yes,Yes
+TXN004023,164421,Nyeri,Nyeri,22,Withdraw,73,15,Yes,Yes,2,Yes,Yes
+TXN004028,460090,Nyeri,Machakos,3,Paybill,1,16,Yes,No,4,Yes,Yes
+TXN004029,117104,Nairobi,Machakos,14,Withdraw,106,28,Yes,Yes,7,No,Yes
+TXN004033,58122,Uasin Gishu,Machakos,10,Withdraw,77,28,Yes,No,7,Yes,Yes
+TXN004035,165911,Kiambu,Kiambu,21,Paybill,30,15,No,Yes,5,No,Yes
+TXN004037,385828,Mombasa,Machakos,14,Withdraw,56,16,Yes,Yes,8,No,Yes
+TXN004038,150441,Uasin Gishu,Nyeri,0,Paybill,95,14,No,Yes,5,Yes,Yes
+TXN004039,264293,Machakos,Nairobi,5,Withdraw,95,7,Yes,Yes,4,No,Yes
+TXN004040,167842,Uasin Gishu,Nakuru,22,Paybill,66,14,Yes,Yes,4,No,Yes
+TXN004041,447849,Kisumu,Kiambu,10,Withdraw,27,25,Yes,Yes,4,No,Yes
+TXN004046,299312,Mombasa,Kisumu,22,Paybill,112,7,Yes,Yes,2,No,Yes
+TXN004049,166929,Nairobi,Nakuru,11,Withdraw,69,29,Yes,Yes,4,Yes,Yes
+TXN004050,117835,Nakuru,Machakos,21,Till,4,7,Yes,Yes,6,No,Yes
+TXN004054,26546,Machakos,Nyeri,14,Paybill,88,22,Yes,Yes,0,Yes,Yes
+TXN004057,467799,Kiambu,Meru,1,Till,20,17,Yes,Yes,3,No,Yes
+TXN004059,450123,Uasin Gishu,Uasin Gishu,7,Withdraw,88,2,Yes,Yes,0,Yes,Yes
+TXN004060,226297,Kiambu,Mombasa,9,Send Money,23,25,Yes,No,5,No,Yes
+TXN004063,387904,Kiambu,Uasin Gishu,18,Send Money,85,26,Yes,Yes,6,Yes,Yes
+TXN004067,181739,Mombasa,Nairobi,21,Withdraw,35,24,No,Yes,7,Yes,Yes
+TXN004069,440731,Nakuru,Nakuru,21,Paybill,55,14,No,Yes,4,No,Yes
+TXN004070,407004,Machakos,Kiambu,23,Send Money,16,16,Yes,No,7,No,Yes
+TXN004072,186978,Kisumu,Mombasa,14,Withdraw,101,21,Yes,Yes,8,No,Yes
+TXN004073,287120,Machakos,Nairobi,10,Send Money,1,4,Yes,No,6,Yes,Yes
+TXN004076,426864,Kiambu,Nairobi,21,Paybill,20,26,Yes,Yes,8,No,Yes
+TXN004081,54981,Kiambu,Kakamega,18,Paybill,8,20,Yes,No,4,No,Yes
+TXN004086,284859,Machakos,Kisumu,17,Till,1,7,No,Yes,8,Yes,Yes
+TXN004088,253360,Nyeri,Nairobi,6,Send Money,57,12,Yes,No,6,No,Yes
+TXN004089,224106,Kisumu,Kiambu,20,Send Money,26,13,No,Yes,7,No,Yes
+TXN004091,6039,Uasin Gishu,Nairobi,16,Till,27,20,No,Yes,5,Yes,Yes
+TXN004092,98724,Mombasa,Mombasa,8,Withdraw,24,20,No,Yes,4,Yes,Yes
+TXN004094,144470,Meru,Kiambu,11,Withdraw,98,19,Yes,No,7,Yes,Yes
+TXN004096,405489,Uasin Gishu,Nyeri,23,Send Money,88,9,Yes,No,7,Yes,Yes
+TXN004099,499637,Kisumu,Nakuru,13,Paybill,119,19,Yes,No,5,No,Yes
+TXN004100,161637,Kakamega,Nyeri,22,Withdraw,98,3,Yes,Yes,4,No,Yes
+TXN004101,235588,Kakamega,Kisumu,17,Send Money,120,30,Yes,Yes,6,No,Yes
+TXN004102,290100,Kisumu,Kiambu,18,Send Money,19,27,Yes,Yes,7,No,Yes
+TXN004104,243948,Uasin Gishu,Nakuru,3,Till,92,8,Yes,No,3,No,Yes
+TXN004105,193202,Uasin Gishu,Meru,8,Till,73,13,No,Yes,7,Yes,Yes
+TXN004106,287064,Nairobi,Nairobi,23,Till,91,30,Yes,No,4,Yes,Yes
+TXN004109,392824,Kiambu,Meru,22,Withdraw,102,10,Yes,No,3,No,Yes
+TXN004113,102306,Nakuru,Nairobi,8,Send Money,92,13,Yes,Yes,7,No,Yes
+TXN004116,81707,Nakuru,Machakos,0,Withdraw,113,15,No,Yes,7,No,Yes
+TXN004117,457934,Meru,Meru,0,Till,102,25,No,Yes,7,Yes,Yes
+TXN004118,110496,Uasin Gishu,Kisumu,5,Withdraw,66,18,Yes,No,6,No,Yes
+TXN004121,201350,Meru,Nairobi,12,Send Money,104,15,Yes,Yes,3,No,Yes
+TXN004125,145653,Machakos,Nakuru,22,Paybill,21,21,Yes,No,4,Yes,Yes
+TXN004126,495527,Machakos,Nyeri,2,Paybill,65,24,No,Yes,7,Yes,Yes
+TXN004128,155560,Machakos,Mombasa,0,Withdraw,46,11,No,Yes,6,Yes,Yes
+TXN004132,18395,Machakos,Mombasa,15,Withdraw,50,21,Yes,No,5,Yes,Yes
+TXN004133,364318,Meru,Machakos,6,Send Money,47,3,Yes,No,8,No,Yes
+TXN004134,437888,Nyeri,Nairobi,21,Send Money,23,15,Yes,No,4,No,Yes
+TXN004135,327421,Uasin Gishu,Mombasa,12,Till,64,14,Yes,Yes,3,No,Yes
+TXN004136,358266,Nakuru,Kisumu,4,Paybill,49,3,No,Yes,6,No,Yes
+TXN004138,88037,Nairobi,Nyeri,19,Till,75,24,No,Yes,8,No,Yes
+TXN004142,364366,Machakos,Nyeri,23,Withdraw,93,29,Yes,No,6,Yes,Yes
+TXN004143,424911,Mombasa,Mombasa,13,Withdraw,103,19,Yes,Yes,1,Yes,Yes
+TXN004144,298053,Kiambu,Uasin Gishu,14,Withdraw,39,14,Yes,Yes,1,Yes,Yes
+TXN004145,406781,Uasin Gishu,Kisumu,1,Withdraw,34,5,Yes,Yes,5,Yes,Yes
+TXN004149,445361,Uasin Gishu,Kiambu,11,Send Money,8,10,Yes,No,4,Yes,Yes
+TXN004153,264283,Nairobi,Nyeri,7,Till,96,1,No,Yes,3,No,Yes
+TXN004154,142286,Meru,Nyeri,16,Send Money,82,27,No,Yes,7,No,Yes
+TXN004156,348336,Kisumu,Kisumu,7,Withdraw,118,20,No,Yes,7,No,Yes
+TXN004157,282574,Kiambu,Mombasa,17,Paybill,31,3,Yes,No,5,Yes,Yes
+TXN004160,454894,Kakamega,Nakuru,11,Paybill,118,1,Yes,No,4,No,Yes
+TXN004163,246829,Nairobi,Kiambu,0,Paybill,62,21,Yes,Yes,1,Yes,Yes
+TXN004164,267068,Mombasa,Nyeri,14,Withdraw,33,8,No,Yes,6,Yes,Yes
+TXN004165,373117,Kisumu,Kisumu,10,Paybill,61,26,No,Yes,3,No,Yes
+TXN004166,310152,Machakos,Kakamega,15,Withdraw,29,20,Yes,Yes,4,Yes,Yes
+TXN004169,18319,Meru,Uasin Gishu,22,Withdraw,30,23,No,Yes,8,Yes,Yes
+TXN004174,272584,Nakuru,Meru,10,Till,98,19,No,Yes,6,Yes,Yes
+TXN004175,409135,Kakamega,Kisumu,7,Till,82,11,Yes,Yes,1,No,Yes
+TXN004178,290482,Nyeri,Mombasa,0,Send Money,81,21,Yes,Yes,0,Yes,Yes
+TXN004180,168771,Meru,Uasin Gishu,14,Send Money,63,11,No,Yes,4,Yes,Yes
+TXN004181,331644,Machakos,Nyeri,22,Withdraw,90,26,Yes,Yes,0,No,Yes
+TXN004182,472019,Meru,Uasin Gishu,13,Till,24,9,Yes,Yes,7,No,Yes
+TXN004184,81465,Nakuru,Nakuru,10,Paybill,96,11,Yes,Yes,3,No,Yes
+TXN004187,371696,Kakamega,Kakamega,2,Paybill,83,19,No,Yes,4,Yes,Yes
+TXN004191,397024,Nyeri,Kakamega,23,Withdraw,26,13,No,Yes,5,No,Yes
+TXN004192,256752,Nairobi,Kakamega,5,Paybill,27,11,Yes,No,8,Yes,Yes
+TXN004194,46275,Meru,Uasin Gishu,5,Withdraw,34,20,Yes,No,3,Yes,Yes
+TXN004196,206225,Nakuru,Uasin Gishu,4,Send Money,114,13,Yes,Yes,0,No,Yes
+TXN004197,415570,Kakamega,Nyeri,14,Send Money,7,12,Yes,No,4,Yes,Yes
+TXN004198,456754,Nakuru,Kakamega,23,Paybill,39,27,Yes,Yes,3,No,Yes
+TXN004200,241647,Nyeri,Meru,18,Send Money,61,23,Yes,No,5,No,Yes
+TXN004201,248669,Nyeri,Kisumu,15,Send Money,12,6,No,Yes,5,No,Yes
+TXN004207,455984,Nyeri,Kisumu,19,Paybill,115,14,Yes,Yes,2,Yes,Yes
+TXN004208,418105,Mombasa,Machakos,23,Paybill,31,12,Yes,No,8,No,Yes
+TXN004211,470266,Nairobi,Nyeri,17,Send Money,67,8,Yes,Yes,1,No,Yes
+TXN004213,341104,Kakamega,Meru,15,Till,2,11,Yes,Yes,0,No,Yes
+TXN004214,133029,Uasin Gishu,Nakuru,12,Till,64,14,Yes,Yes,7,No,Yes
+TXN004215,203820,Kakamega,Kakamega,8,Withdraw,98,11,Yes,Yes,3,No,Yes
+TXN004216,120044,Nyeri,Mombasa,19,Send Money,26,16,Yes,Yes,6,Yes,Yes
+TXN004217,180891,Nyeri,Kakamega,7,Till,1,6,Yes,No,4,Yes,Yes
+TXN004218,164268,Machakos,Nairobi,8,Withdraw,7,11,Yes,Yes,4,Yes,Yes
+TXN004219,68503,Meru,Mombasa,8,Till,97,14,Yes,No,6,Yes,Yes
+TXN004220,497848,Nairobi,Meru,17,Till,76,16,No,Yes,6,No,Yes
+TXN004221,304451,Nakuru,Uasin Gishu,13,Till,15,20,Yes,No,4,No,Yes
+TXN004227,383027,Meru,Nairobi,10,Till,24,27,Yes,Yes,0,No,Yes
+TXN004228,183907,Nyeri,Machakos,9,Send Money,95,4,No,Yes,6,No,Yes
+TXN004229,169143,Kisumu,Kiambu,13,Paybill,94,19,Yes,Yes,4,No,Yes
+TXN004231,406256,Nakuru,Machakos,19,Withdraw,98,14,No,Yes,3,No,Yes
+TXN004237,372645,Kakamega,Nyeri,5,Till,24,23,Yes,No,5,Yes,Yes
+TXN004238,151909,Machakos,Uasin Gishu,15,Send Money,50,8,Yes,No,4,Yes,Yes
+TXN004239,35537,Kisumu,Kiambu,20,Till,59,15,No,Yes,8,No,Yes
+TXN004240,290304,Nairobi,Kakamega,10,Till,12,23,No,Yes,8,No,Yes
+TXN004241,401032,Machakos,Meru,20,Withdraw,26,23,Yes,No,3,No,Yes
+TXN004245,298454,Kiambu,Mombasa,7,Withdraw,113,27,Yes,Yes,4,Yes,Yes
+TXN004247,17529,Uasin Gishu,Kakamega,5,Paybill,53,18,No,Yes,6,Yes,Yes
+TXN004249,295812,Nairobi,Machakos,23,Withdraw,46,15,Yes,No,4,Yes,Yes
+TXN004253,493509,Kakamega,Kiambu,18,Paybill,15,1,No,Yes,5,Yes,Yes
+TXN004254,61361,Mombasa,Machakos,20,Till,52,13,Yes,Yes,6,Yes,Yes
+TXN004255,330187,Kiambu,Kakamega,21,Till,49,14,Yes,Yes,4,Yes,Yes
+TXN004258,174131,Nakuru,Nyeri,6,Withdraw,56,21,No,Yes,3,No,Yes
+TXN004259,153604,Nyeri,Mombasa,15,Send Money,63,5,Yes,No,5,No,Yes
+TXN004261,210487,Machakos,Nakuru,18,Send Money,90,8,Yes,Yes,0,No,Yes
+TXN004263,57454,Kakamega,Nairobi,18,Send Money,95,15,Yes,No,3,Yes,Yes
+TXN004264,465376,Nyeri,Kiambu,12,Send Money,51,14,Yes,Yes,0,Yes,Yes
+TXN004266,486316,Mombasa,Kisumu,11,Paybill,53,13,Yes,No,7,Yes,Yes
+TXN004269,62824,Kakamega,Mombasa,13,Send Money,60,29,Yes,Yes,1,No,Yes
+TXN004270,468661,Kakamega,Mombasa,13,Till,36,6,No,Yes,4,No,Yes
+TXN004272,357712,Kiambu,Mombasa,21,Send Money,85,17,Yes,No,4,No,Yes
+TXN004273,437947,Uasin Gishu,Kisumu,0,Paybill,29,30,No,Yes,4,No,Yes
+TXN004274,425029,Machakos,Kisumu,9,Paybill,71,26,Yes,No,3,No,Yes
+TXN004275,428263,Mombasa,Kiambu,13,Till,61,22,No,Yes,7,No,Yes
+TXN004278,377470,Mombasa,Machakos,11,Send Money,20,27,Yes,Yes,8,No,Yes
+TXN004280,192878,Nairobi,Kakamega,5,Withdraw,52,29,Yes,No,8,Yes,Yes
+TXN004281,37704,Kisumu,Meru,6,Withdraw,20,13,Yes,Yes,4,Yes,Yes
+TXN004282,277659,Kisumu,Kakamega,7,Paybill,120,4,Yes,Yes,6,No,Yes
+TXN004283,81131,Kakamega,Kiambu,13,Till,113,14,Yes,No,7,No,Yes
+TXN004284,477949,Kakamega,Kiambu,18,Paybill,65,26,Yes,No,6,No,Yes
+TXN004285,301608,Kakamega,Machakos,20,Withdraw,38,9,Yes,Yes,3,No,Yes
+TXN004288,208104,Meru,Nairobi,10,Paybill,16,29,Yes,Yes,7,No,Yes
+TXN004289,158598,Mombasa,Machakos,21,Send Money,6,30,Yes,Yes,3,Yes,Yes
+TXN004291,281983,Nakuru,Mombasa,3,Till,8,28,Yes,Yes,8,No,Yes
+TXN004292,144769,Machakos,Kakamega,7,Till,100,29,Yes,No,8,Yes,Yes
+TXN004295,478645,Kisumu,Machakos,3,Paybill,84,6,Yes,No,7,Yes,Yes
+TXN004296,455564,Uasin Gishu,Kisumu,2,Send Money,115,14,Yes,Yes,5,Yes,Yes
+TXN004297,277590,Nairobi,Uasin Gishu,4,Send Money,38,2,Yes,No,7,No,Yes
+TXN004301,324647,Uasin Gishu,Kisumu,12,Send Money,2,20,Yes,Yes,0,No,Yes
+TXN004302,252953,Nyeri,Machakos,20,Withdraw,1,21,Yes,No,7,No,Yes
+TXN004303,327049,Kakamega,Nakuru,17,Send Money,67,23,Yes,Yes,3,Yes,Yes
+TXN004304,466539,Meru,Kakamega,21,Paybill,43,6,Yes,Yes,2,Yes,Yes
+TXN004305,404199,Nyeri,Kiambu,15,Till,42,9,Yes,Yes,4,Yes,Yes
+TXN004306,152953,Meru,Kiambu,14,Send Money,31,21,Yes,No,4,No,Yes
+TXN004307,30160,Uasin Gishu,Uasin Gishu,19,Paybill,61,27,Yes,No,6,Yes,Yes
+TXN004310,49852,Kiambu,Nakuru,6,Paybill,81,29,Yes,Yes,5,Yes,Yes
+TXN004312,163828,Kisumu,Nairobi,13,Paybill,52,1,Yes,Yes,3,No,Yes
+TXN004313,91354,Kiambu,Kisumu,12,Withdraw,104,13,Yes,Yes,1,No,Yes
+TXN004314,439340,Kiambu,Nairobi,17,Paybill,120,8,Yes,Yes,6,Yes,Yes
+TXN004316,165953,Meru,Meru,11,Send Money,60,30,No,Yes,5,Yes,Yes
+TXN004317,290547,Kakamega,Nakuru,20,Till,10,20,Yes,Yes,5,No,Yes
+TXN004318,82519,Kakamega,Uasin Gishu,7,Till,103,14,Yes,No,5,Yes,Yes
+TXN004323,363957,Machakos,Nyeri,14,Send Money,102,22,No,Yes,6,Yes,Yes
+TXN004324,210312,Machakos,Mombasa,2,Send Money,105,24,Yes,Yes,7,Yes,Yes
+TXN004326,218399,Kakamega,Kiambu,2,Send Money,57,7,Yes,Yes,7,Yes,Yes
+TXN004328,100742,Mombasa,Kakamega,0,Withdraw,33,1,Yes,Yes,7,No,Yes
+TXN004329,54715,Kakamega,Nakuru,17,Paybill,27,21,Yes,Yes,1,Yes,Yes
+TXN004332,152496,Kiambu,Mombasa,3,Withdraw,110,5,No,Yes,7,Yes,Yes
+TXN004333,456217,Mombasa,Kiambu,15,Till,36,7,No,Yes,4,Yes,Yes
+TXN004336,209938,Nakuru,Kiambu,22,Withdraw,8,8,No,Yes,5,Yes,Yes
+TXN004337,204999,Kiambu,Machakos,6,Paybill,41,5,Yes,No,4,No,Yes
+TXN004340,331786,Kakamega,Nyeri,13,Till,14,25,Yes,No,8,Yes,Yes
+TXN004341,237483,Nairobi,Kiambu,3,Till,96,13,Yes,Yes,8,Yes,Yes
+TXN004343,194623,Nairobi,Mombasa,21,Withdraw,84,27,No,Yes,6,No,Yes
+TXN004344,263223,Kakamega,Machakos,1,Till,99,12,Yes,No,3,Yes,Yes
+TXN004347,379770,Meru,Kisumu,16,Send Money,101,22,No,Yes,5,No,Yes
+TXN004348,278256,Uasin Gishu,Nakuru,23,Paybill,35,15,Yes,No,6,Yes,Yes
+TXN004349,151055,Nairobi,Uasin Gishu,5,Withdraw,10,14,Yes,Yes,5,No,Yes
+TXN004350,268904,Mombasa,Mombasa,4,Send Money,83,29,Yes,Yes,6,Yes,Yes
+TXN004351,241405,Kisumu,Nakuru,7,Send Money,120,19,No,Yes,8,Yes,Yes
+TXN004353,494387,Kakamega,Mombasa,8,Send Money,97,29,No,Yes,6,Yes,Yes
+TXN004354,99391,Kisumu,Nakuru,10,Withdraw,36,26,Yes,No,7,Yes,Yes
+TXN004356,97114,Machakos,Nyeri,14,Send Money,5,15,Yes,No,4,Yes,Yes
+TXN004357,323857,Machakos,Meru,4,Till,91,20,No,Yes,5,Yes,Yes
+TXN004358,118657,Kakamega,Meru,22,Paybill,112,29,Yes,No,5,No,Yes
+TXN004359,207343,Meru,Machakos,14,Paybill,38,22,Yes,No,3,No,Yes
+TXN004361,168146,Mombasa,Nairobi,15,Till,14,4,Yes,Yes,3,Yes,Yes
+TXN004362,98471,Meru,Kiambu,16,Till,48,25,Yes,Yes,4,No,Yes
+TXN004363,373063,Kisumu,Kisumu,7,Paybill,94,29,Yes,Yes,3,Yes,Yes
+TXN004364,475237,Kakamega,Nairobi,23,Till,5,18,No,Yes,8,No,Yes
+TXN004365,108682,Nyeri,Machakos,17,Withdraw,75,27,Yes,Yes,7,Yes,Yes
+TXN004366,272249,Uasin Gishu,Nyeri,5,Paybill,27,16,Yes,Yes,3,Yes,Yes
+TXN004367,197069,Machakos,Mombasa,19,Paybill,84,2,Yes,Yes,7,Yes,Yes
+TXN004369,334519,Mombasa,Nakuru,6,Withdraw,36,21,No,Yes,8,Yes,Yes
+TXN004371,230538,Machakos,Machakos,20,Paybill,110,16,Yes,Yes,5,Yes,Yes
+TXN004373,271355,Meru,Nyeri,5,Till,42,2,Yes,No,7,No,Yes
+TXN004374,270291,Machakos,Uasin Gishu,9,Send Money,63,24,No,Yes,7,Yes,Yes
+TXN004375,168413,Nairobi,Uasin Gishu,13,Withdraw,114,28,Yes,Yes,0,No,Yes
+TXN004376,357123,Mombasa,Mombasa,18,Send Money,115,16,Yes,No,3,Yes,Yes
+TXN004377,376820,Nakuru,Nairobi,19,Paybill,56,23,Yes,Yes,5,No,Yes
+TXN004378,256990,Nakuru,Kakamega,15,Send Money,27,24,Yes,Yes,4,Yes,Yes
+TXN004379,244636,Uasin Gishu,Mombasa,17,Paybill,2,25,Yes,No,3,Yes,Yes
+TXN004380,460961,Nairobi,Kakamega,4,Send Money,7,29,Yes,No,5,Yes,Yes
+TXN004382,488517,Uasin Gishu,Machakos,4,Send Money,62,8,Yes,No,5,Yes,Yes
+TXN004383,175837,Kisumu,Nairobi,14,Paybill,92,29,Yes,No,7,Yes,Yes
+TXN004384,475330,Nakuru,Machakos,22,Till,115,24,Yes,No,7,Yes,Yes
+TXN004385,5908,Kiambu,Machakos,13,Till,118,18,Yes,No,8,No,Yes
+TXN004386,498890,Kisumu,Nairobi,10,Till,91,15,Yes,No,4,No,Yes
+TXN004387,29164,Uasin Gishu,Kakamega,8,Send Money,119,21,No,Yes,5,No,Yes
+TXN004388,295736,Machakos,Meru,23,Paybill,101,6,Yes,Yes,6,No,Yes
+TXN004389,18628,Kiambu,Nairobi,11,Send Money,119,1,Yes,Yes,4,Yes,Yes
+TXN004390,203263,Uasin Gishu,Machakos,9,Till,81,16,Yes,Yes,4,No,Yes
+TXN004392,132128,Machakos,Kisumu,11,Withdraw,80,15,No,Yes,4,No,Yes
+TXN004393,9973,Kisumu,Machakos,14,Withdraw,37,29,Yes,No,6,No,Yes
+TXN004396,193059,Machakos,Nairobi,14,Send Money,73,11,Yes,No,3,Yes,Yes
+TXN004397,406835,Kakamega,Uasin Gishu,6,Send Money,64,9,Yes,No,4,No,Yes
+TXN004398,328172,Meru,Kakamega,12,Withdraw,6,23,Yes,Yes,3,Yes,Yes
+TXN004401,97158,Kisumu,Kiambu,23,Till,66,29,Yes,Yes,3,No,Yes
+TXN004402,402401,Kiambu,Kiambu,16,Till,64,30,Yes,No,5,Yes,Yes
+TXN004404,337880,Kakamega,Uasin Gishu,21,Withdraw,96,10,No,Yes,7,Yes,Yes
+TXN004405,219234,Machakos,Nakuru,8,Paybill,103,9,No,Yes,7,Yes,Yes
+TXN004408,315350,Kisumu,Machakos,18,Paybill,25,29,No,Yes,6,No,Yes
+TXN004409,59411,Uasin Gishu,Kakamega,10,Send Money,58,14,No,Yes,8,No,Yes
+TXN004410,13764,Nairobi,Kiambu,8,Withdraw,81,12,No,Yes,6,No,Yes
+TXN004412,191514,Kiambu,Meru,9,Send Money,96,1,Yes,No,5,No,Yes
+TXN004419,336341,Nairobi,Kakamega,19,Withdraw,116,25,No,Yes,5,Yes,Yes
+TXN004420,420512,Kakamega,Nyeri,8,Paybill,14,14,No,Yes,7,No,Yes
+TXN004422,305155,Machakos,Nairobi,3,Withdraw,43,1,No,Yes,5,Yes,Yes
+TXN004424,109185,Nakuru,Nakuru,23,Till,7,16,Yes,Yes,8,Yes,Yes
+TXN004425,432497,Kiambu,Nakuru,5,Withdraw,95,19,Yes,Yes,3,No,Yes
+TXN004426,301105,Nyeri,Nairobi,2,Withdraw,111,23,Yes,No,4,Yes,Yes
+TXN004428,20720,Meru,Mombasa,8,Withdraw,32,3,Yes,Yes,8,No,Yes
+TXN004432,127104,Nairobi,Nakuru,0,Paybill,61,24,No,Yes,4,No,Yes
+TXN004433,458382,Mombasa,Uasin Gishu,5,Till,58,16,Yes,Yes,7,Yes,Yes
+TXN004435,145760,Uasin Gishu,Nyeri,22,Withdraw,111,27,No,Yes,7,Yes,Yes
+TXN004438,9493,Kisumu,Kiambu,3,Till,57,13,Yes,No,6,No,Yes
+TXN004439,254894,Nairobi,Kiambu,2,Send Money,29,3,Yes,Yes,0,No,Yes
+TXN004440,241323,Nakuru,Kakamega,1,Paybill,104,4,Yes,Yes,4,Yes,Yes
+TXN004441,221474,Machakos,Machakos,0,Send Money,47,15,Yes,No,6,Yes,Yes
+TXN004442,305416,Mombasa,Machakos,16,Till,27,12,Yes,Yes,1,Yes,Yes
+TXN004443,193710,Nairobi,Nairobi,23,Send Money,51,15,Yes,Yes,3,No,Yes
+TXN004445,122323,Nakuru,Nakuru,19,Withdraw,1,6,Yes,No,3,No,Yes
+TXN004446,425396,Kiambu,Meru,5,Withdraw,82,22,Yes,Yes,0,Yes,Yes
+TXN004447,82093,Nairobi,Uasin Gishu,2,Paybill,10,27,Yes,Yes,4,Yes,Yes
+TXN004449,130886,Mombasa,Nyeri,22,Send Money,44,18,Yes,No,7,Yes,Yes
+TXN004454,453514,Mombasa,Kakamega,10,Till,34,25,Yes,No,4,No,Yes
+TXN004455,461323,Mombasa,Kiambu,17,Send Money,14,24,Yes,No,7,Yes,Yes
+TXN004456,200685,Machakos,Kakamega,1,Paybill,8,12,Yes,Yes,7,No,Yes
+TXN004459,367039,Nakuru,Kakamega,21,Withdraw,45,28,Yes,Yes,5,Yes,Yes
+TXN004462,230285,Kiambu,Nakuru,13,Till,84,1,Yes,No,8,Yes,Yes
+TXN004463,302449,Mombasa,Nairobi,10,Till,61,5,Yes,No,6,No,Yes
+TXN004467,482907,Kisumu,Mombasa,19,Paybill,62,16,Yes,No,6,No,Yes
+TXN004470,434555,Kisumu,Nairobi,11,Till,60,30,No,Yes,8,Yes,Yes
+TXN004472,179483,Uasin Gishu,Mombasa,23,Send Money,97,13,Yes,Yes,8,Yes,Yes
+TXN004473,450778,Nairobi,Mombasa,12,Paybill,72,18,Yes,Yes,5,No,Yes
+TXN004474,376322,Nakuru,Machakos,10,Till,7,24,No,Yes,7,Yes,Yes
+TXN004478,171086,Uasin Gishu,Meru,8,Send Money,112,9,No,Yes,8,Yes,Yes
+TXN004479,321193,Mombasa,Nyeri,6,Till,57,18,No,Yes,8,No,Yes
+TXN004480,467732,Uasin Gishu,Machakos,17,Till,16,25,Yes,Yes,0,No,Yes
+TXN004481,270202,Uasin Gishu,Nairobi,7,Till,37,8,Yes,Yes,0,No,Yes
+TXN004482,438638,Nairobi,Uasin Gishu,8,Paybill,84,23,No,Yes,8,No,Yes
+TXN004483,246628,Meru,Nairobi,20,Till,48,20,Yes,No,4,No,Yes
+TXN004484,391995,Nairobi,Kisumu,15,Send Money,71,27,Yes,Yes,4,No,Yes
+TXN004486,168158,Kakamega,Machakos,9,Withdraw,118,21,Yes,Yes,8,No,Yes
+TXN004488,267710,Machakos,Machakos,7,Paybill,22,17,No,Yes,7,Yes,Yes
+TXN004491,7106,Mombasa,Nyeri,0,Till,93,12,Yes,Yes,1,No,Yes
+TXN004493,144149,Nakuru,Kisumu,15,Withdraw,95,12,Yes,No,6,Yes,Yes
+TXN004496,192446,Kisumu,Kiambu,3,Paybill,53,7,No,Yes,7,Yes,Yes
+TXN004498,468546,Nakuru,Uasin Gishu,11,Paybill,56,13,No,Yes,6,No,Yes
+TXN004500,395440,Nakuru,Mombasa,17,Withdraw,70,19,No,Yes,4,No,Yes
+TXN004502,147475,Mombasa,Meru,12,Send Money,20,26,Yes,Yes,3,Yes,Yes
+TXN004503,402973,Kiambu,Nairobi,0,Till,19,11,Yes,Yes,7,Yes,Yes
+TXN004505,203839,Nyeri,Meru,13,Withdraw,6,24,Yes,No,5,No,Yes
+TXN004506,106237,Nakuru,Nyeri,1,Paybill,53,17,Yes,No,3,No,Yes
+TXN004508,154507,Nyeri,Uasin Gishu,4,Send Money,60,16,Yes,No,5,Yes,Yes
+TXN004509,1717,Nyeri,Kisumu,16,Send Money,73,17,No,Yes,6,No,Yes
+TXN004511,458929,Machakos,Kisumu,17,Till,117,6,No,Yes,4,Yes,Yes
+TXN004512,197933,Kakamega,Meru,4,Paybill,42,17,Yes,No,8,Yes,Yes
+TXN004514,278537,Nyeri,Kakamega,17,Send Money,28,9,Yes,No,4,No,Yes
+TXN004515,495042,Uasin Gishu,Machakos,17,Withdraw,105,26,No,Yes,3,No,Yes
+TXN004518,116741,Nyeri,Kisumu,20,Till,82,1,No,Yes,3,No,Yes
+TXN004520,12173,Nyeri,Mombasa,7,Withdraw,37,29,Yes,No,5,No,Yes
+TXN004523,235760,Uasin Gishu,Kisumu,1,Till,29,24,Yes,No,7,No,Yes
+TXN004524,432542,Nairobi,Mombasa,10,Withdraw,2,30,No,No,6,No,Yes
+TXN004527,238295,Kisumu,Uasin Gishu,15,Till,23,20,Yes,Yes,7,Yes,Yes
+TXN004528,22946,Mombasa,Nakuru,16,Paybill,56,22,Yes,Yes,5,No,Yes
+TXN004529,229841,Nakuru,Meru,4,Paybill,92,30,Yes,No,8,Yes,Yes
+TXN004532,140918,Mombasa,Kiambu,18,Paybill,83,18,Yes,No,3,No,Yes
+TXN004535,317175,Uasin Gishu,Uasin Gishu,11,Till,101,2,Yes,Yes,0,Yes,Yes
+TXN004536,162005,Kakamega,Nyeri,8,Withdraw,44,10,Yes,Yes,0,Yes,Yes
+TXN004544,367638,Machakos,Machakos,19,Withdraw,74,29,No,Yes,8,No,Yes
+TXN004545,483988,Machakos,Machakos,5,Paybill,41,19,Yes,Yes,4,Yes,Yes
+TXN004546,399924,Nairobi,Nakuru,20,Paybill,30,2,Yes,No,4,Yes,Yes
+TXN004550,53933,Nairobi,Nairobi,19,Withdraw,73,26,Yes,No,7,Yes,Yes
+TXN004551,293146,Uasin Gishu,Kiambu,4,Send Money,38,10,Yes,Yes,3,Yes,Yes
+TXN004553,149045,Kakamega,Meru,18,Send Money,67,19,Yes,Yes,5,No,Yes
+TXN004554,189664,Uasin Gishu,Machakos,3,Paybill,99,28,No,Yes,4,No,Yes
+TXN004555,404057,Kakamega,Nairobi,16,Send Money,29,10,Yes,No,4,Yes,Yes
+TXN004556,217317,Meru,Kiambu,7,Till,110,21,Yes,Yes,3,No,Yes
+TXN004558,38493,Kisumu,Mombasa,21,Send Money,82,4,Yes,Yes,6,No,Yes
+TXN004559,167474,Nairobi,Kakamega,1,Till,33,9,No,Yes,7,No,Yes
+TXN004561,97306,Uasin Gishu,Machakos,14,Paybill,57,13,Yes,No,3,Yes,Yes
+TXN004562,1788,Kakamega,Nyeri,19,Paybill,99,16,Yes,No,7,Yes,Yes
+TXN004564,438251,Machakos,Kiambu,8,Send Money,107,7,No,Yes,8,No,Yes
+TXN004565,454275,Nyeri,Kisumu,12,Paybill,87,26,Yes,No,7,Yes,Yes
+TXN004566,389263,Machakos,Meru,23,Till,78,1,Yes,No,5,Yes,Yes
+TXN004568,385178,Mombasa,Nakuru,20,Till,29,7,Yes,Yes,7,Yes,Yes
+TXN004569,428541,Kakamega,Uasin Gishu,11,Send Money,64,11,No,Yes,6,Yes,Yes
+TXN004570,74759,Kakamega,Nyeri,13,Till,15,26,Yes,Yes,0,Yes,Yes
+TXN004572,494085,Meru,Nairobi,10,Paybill,42,8,Yes,No,3,Yes,Yes
+TXN004575,101989,Nyeri,Kakamega,4,Send Money,12,3,No,Yes,4,Yes,Yes
+TXN004576,233081,Kiambu,Meru,8,Send Money,42,15,Yes,Yes,4,No,Yes
+TXN004578,289909,Machakos,Kakamega,7,Withdraw,36,1,Yes,No,7,Yes,Yes
+TXN004579,276843,Nyeri,Kisumu,11,Send Money,43,1,No,Yes,5,Yes,Yes
+TXN004580,338904,Kakamega,Kisumu,0,Withdraw,117,4,Yes,Yes,1,No,Yes
+TXN004583,123043,Machakos,Machakos,14,Withdraw,35,1,Yes,Yes,2,No,Yes
+TXN004586,322124,Meru,Kiambu,13,Paybill,3,26,Yes,Yes,3,Yes,Yes
+TXN004587,61538,Uasin Gishu,Machakos,7,Withdraw,40,23,No,Yes,6,Yes,Yes
+TXN004588,115250,Kisumu,Nyeri,19,Send Money,108,27,Yes,No,3,No,Yes
+TXN004593,216270,Kiambu,Meru,13,Send Money,57,2,No,Yes,8,No,Yes
+TXN004594,452509,Nyeri,Nyeri,9,Withdraw,20,5,Yes,Yes,8,No,Yes
+TXN004595,237195,Machakos,Meru,12,Withdraw,109,19,Yes,No,3,No,Yes
+TXN004596,282060,Nakuru,Nairobi,1,Withdraw,88,14,Yes,No,4,Yes,Yes
+TXN004598,201714,Uasin Gishu,Kakamega,23,Send Money,58,28,Yes,Yes,1,No,Yes
+TXN004599,145290,Kiambu,Meru,20,Send Money,3,18,Yes,Yes,4,No,Yes
+TXN004600,335967,Meru,Kiambu,21,Paybill,31,15,Yes,No,5,Yes,Yes
+TXN004601,348130,Nakuru,Kakamega,17,Send Money,104,26,Yes,Yes,5,No,Yes
+TXN004603,13856,Kiambu,Kiambu,19,Till,36,29,No,Yes,4,No,Yes
+TXN004605,293506,Nyeri,Meru,1,Send Money,73,29,Yes,Yes,2,No,Yes
+TXN004606,327012,Kiambu,Kiambu,2,Withdraw,65,28,No,Yes,6,Yes,Yes
+TXN004608,85609,Machakos,Nyeri,23,Till,1,14,No,Yes,8,Yes,Yes
+TXN004609,290700,Meru,Machakos,22,Withdraw,20,9,Yes,No,7,No,Yes
+TXN004612,219907,Kisumu,Machakos,2,Send Money,34,21,Yes,No,5,Yes,Yes
+TXN004613,43434,Meru,Kisumu,4,Withdraw,2,5,No,Yes,3,No,Yes
+TXN004614,482051,Meru,Kiambu,21,Paybill,97,16,No,Yes,8,No,Yes
+TXN004615,221637,Nakuru,Kiambu,8,Paybill,65,6,Yes,No,5,No,Yes
+TXN004616,47971,Machakos,Kakamega,12,Till,31,17,Yes,Yes,1,No,Yes
+TXN004617,408300,Machakos,Nakuru,5,Paybill,13,22,No,Yes,3,No,Yes
+TXN004618,246754,Kakamega,Machakos,5,Till,47,1,Yes,No,3,Yes,Yes
+TXN004619,78511,Kiambu,Kisumu,3,Paybill,88,23,Yes,Yes,4,Yes,Yes
+TXN004624,330370,Nyeri,Nairobi,11,Till,82,12,No,Yes,6,Yes,Yes
+TXN004626,445269,Kakamega,Nairobi,6,Till,3,3,Yes,No,3,Yes,Yes
+TXN004628,110959,Nairobi,Nyeri,0,Till,95,16,Yes,Yes,7,No,Yes
+TXN004629,130164,Meru,Uasin Gishu,10,Withdraw,65,6,Yes,Yes,2,Yes,Yes
+TXN004630,360724,Kiambu,Machakos,3,Paybill,96,12,Yes,No,6,No,Yes
+TXN004635,323196,Nairobi,Kiambu,22,Paybill,19,3,No,Yes,8,No,Yes
+TXN004639,399833,Mombasa,Kiambu,19,Paybill,4,17,Yes,Yes,0,No,Yes
+TXN004640,479294,Nyeri,Nairobi,16,Till,27,23,No,Yes,3,No,Yes
+TXN004643,358636,Nakuru,Nairobi,18,Withdraw,119,17,Yes,No,3,No,Yes
+TXN004648,161750,Nyeri,Nyeri,17,Send Money,23,23,Yes,Yes,7,No,Yes
+TXN004650,199832,Nyeri,Meru,3,Send Money,45,5,No,Yes,6,Yes,Yes
+TXN004651,301408,Kakamega,Meru,21,Paybill,45,8,Yes,Yes,0,Yes,Yes
+TXN004656,227541,Nakuru,Machakos,0,Send Money,95,27,Yes,No,3,Yes,Yes
+TXN004657,210944,Nairobi,Kiambu,18,Till,91,6,No,Yes,5,Yes,Yes
+TXN004658,198160,Machakos,Mombasa,6,Paybill,16,16,Yes,Yes,5,Yes,Yes
+TXN004660,250533,Machakos,Nakuru,7,Send Money,40,3,Yes,No,6,No,Yes
+TXN004661,116597,Nakuru,Nakuru,19,Send Money,102,13,Yes,No,7,No,Yes
+TXN004662,308354,Mombasa,Uasin Gishu,4,Withdraw,41,28,Yes,Yes,0,No,Yes
+TXN004663,255977,Mombasa,Kiambu,12,Till,47,2,Yes,No,6,Yes,Yes
+TXN004664,2901,Machakos,Nyeri,22,Till,107,26,Yes,Yes,4,No,Yes
+TXN004666,73683,Mombasa,Meru,16,Send Money,28,6,Yes,Yes,6,No,Yes
+TXN004667,212894,Kakamega,Machakos,3,Paybill,96,1,Yes,No,5,Yes,Yes
+TXN004669,339528,Machakos,Uasin Gishu,17,Withdraw,21,22,Yes,No,3,No,Yes
+TXN004670,411397,Mombasa,Nairobi,7,Withdraw,22,1,Yes,Yes,4,No,Yes
+TXN004671,410564,Kiambu,Mombasa,8,Till,87,11,Yes,No,7,No,Yes
+TXN004672,411718,Machakos,Nakuru,2,Till,19,24,No,Yes,7,No,Yes
+TXN004673,190538,Nairobi,Kisumu,20,Send Money,75,12,No,Yes,8,Yes,Yes
+TXN004675,425483,Mombasa,Nairobi,19,Send Money,58,23,Yes,No,3,No,Yes
+TXN004678,411276,Machakos,Machakos,6,Send Money,55,1,Yes,Yes,5,Yes,Yes
+TXN004679,98724,Kisumu,Nyeri,0,Till,33,24,Yes,No,6,Yes,Yes
+TXN004681,321993,Kakamega,Nakuru,19,Paybill,5,12,No,Yes,8,Yes,Yes
+TXN004683,227626,Kiambu,Uasin Gishu,15,Withdraw,14,5,Yes,No,4,No,Yes
+TXN004685,30442,Machakos,Kakamega,0,Paybill,96,22,Yes,No,3,Yes,Yes
+TXN004686,269870,Machakos,Mombasa,8,Paybill,56,4,Yes,Yes,8,No,Yes
+TXN004687,277247,Nairobi,Nakuru,5,Withdraw,87,28,Yes,No,5,Yes,Yes
+TXN004688,176917,Machakos,Kisumu,16,Paybill,107,19,Yes,Yes,8,Yes,Yes
+TXN004689,424367,Uasin Gishu,Kakamega,7,Send Money,78,25,Yes,No,3,Yes,Yes
+TXN004690,384852,Nairobi,Mombasa,23,Withdraw,86,18,Yes,Yes,3,No,Yes
+TXN004692,462026,Kiambu,Kiambu,11,Till,13,19,No,Yes,5,No,Yes
+TXN004693,12894,Uasin Gishu,Kakamega,6,Till,109,14,Yes,No,3,No,Yes
+TXN004695,327694,Kisumu,Kakamega,6,Paybill,21,19,No,Yes,6,Yes,Yes
+TXN004696,138709,Machakos,Uasin Gishu,12,Till,30,16,Yes,Yes,1,Yes,Yes
+TXN004697,358263,Nakuru,Nairobi,14,Withdraw,104,4,No,Yes,3,No,Yes
+TXN004698,271821,Uasin Gishu,Nyeri,2,Withdraw,84,28,Yes,Yes,8,No,Yes
+TXN004699,17557,Kisumu,Kiambu,5,Paybill,120,12,Yes,Yes,7,Yes,Yes
+TXN004701,114268,Nakuru,Machakos,21,Withdraw,10,17,No,Yes,4,Yes,Yes
+TXN004702,375307,Mombasa,Mombasa,23,Till,16,26,No,Yes,6,Yes,Yes
+TXN004703,241886,Kiambu,Kakamega,17,Withdraw,49,30,Yes,Yes,7,Yes,Yes
+TXN004704,464477,Kiambu,Machakos,11,Withdraw,102,25,Yes,No,4,Yes,Yes
+TXN004705,456611,Nyeri,Nyeri,10,Paybill,40,15,Yes,Yes,1,No,Yes
+TXN004708,272198,Kisumu,Kiambu,9,Withdraw,68,2,No,Yes,8,Yes,Yes
+TXN004710,17867,Mombasa,Kiambu,18,Paybill,119,26,No,Yes,6,Yes,Yes
+TXN004711,361571,Kisumu,Meru,23,Paybill,12,17,Yes,Yes,7,Yes,Yes
+TXN004713,145374,Uasin Gishu,Kiambu,18,Paybill,73,4,Yes,No,4,No,Yes
+TXN004714,380344,Kakamega,Kisumu,22,Paybill,62,7,No,Yes,3,Yes,Yes
+TXN004715,333312,Nakuru,Meru,5,Till,63,26,Yes,Yes,5,No,Yes
+TXN004716,360956,Nakuru,Uasin Gishu,15,Send Money,65,18,Yes,Yes,2,Yes,Yes
+TXN004717,214006,Mombasa,Kakamega,16,Withdraw,7,21,Yes,Yes,8,No,Yes
+TXN004720,281606,Meru,Nakuru,1,Paybill,10,6,Yes,No,3,No,Yes
+TXN004721,415697,Meru,Machakos,7,Till,24,26,No,Yes,4,No,Yes
+TXN004722,128545,Nairobi,Kakamega,5,Till,106,25,No,Yes,3,Yes,Yes
+TXN004723,426935,Kisumu,Nakuru,1,Withdraw,66,14,Yes,Yes,5,No,Yes
+TXN004724,261301,Nairobi,Mombasa,8,Send Money,71,1,Yes,No,6,No,Yes
+TXN004725,445045,Mombasa,Kisumu,1,Paybill,20,18,Yes,No,4,No,Yes
+TXN004727,285544,Kisumu,Kakamega,14,Withdraw,83,18,No,Yes,7,Yes,Yes
+TXN004730,465466,Uasin Gishu,Mombasa,16,Till,54,13,Yes,Yes,7,No,Yes
+TXN004732,360756,Nyeri,Nyeri,22,Paybill,79,9,No,Yes,6,Yes,Yes
+TXN004733,230637,Kiambu,Kisumu,8,Till,38,10,Yes,Yes,6,Yes,Yes
+TXN004734,170126,Kisumu,Mombasa,15,Paybill,1,6,No,No,7,Yes,Yes
+TXN004736,109271,Kiambu,Nakuru,15,Till,98,6,No,Yes,3,Yes,Yes
+TXN004740,95266,Kakamega,Machakos,11,Till,46,29,Yes,Yes,6,No,Yes
+TXN004742,411205,Nakuru,Nyeri,22,Till,44,13,Yes,No,5,No,Yes
+TXN004744,346075,Nairobi,Kisumu,9,Till,44,7,Yes,No,6,No,Yes
+TXN004745,363706,Kiambu,Nakuru,7,Withdraw,48,13,No,Yes,8,Yes,Yes
+TXN004751,454386,Nairobi,Meru,20,Till,58,20,Yes,Yes,2,Yes,Yes
+TXN004752,154351,Machakos,Machakos,14,Send Money,28,3,Yes,Yes,3,No,Yes
+TXN004753,482235,Nyeri,Kakamega,4,Paybill,6,16,Yes,No,6,No,Yes
+TXN004754,30144,Nyeri,Nakuru,14,Send Money,49,21,Yes,No,5,No,Yes
+TXN004755,339448,Nakuru,Uasin Gishu,15,Withdraw,88,12,Yes,Yes,4,Yes,Yes
+TXN004759,473040,Meru,Kiambu,3,Paybill,39,7,Yes,No,7,No,Yes
+TXN004762,169684,Kiambu,Kakamega,8,Paybill,75,2,No,Yes,4,No,Yes
+TXN004763,240195,Machakos,Kisumu,15,Withdraw,7,15,Yes,No,4,No,Yes
+TXN004765,239321,Nairobi,Nakuru,14,Paybill,41,3,Yes,Yes,4,No,Yes
+TXN004766,293048,Nairobi,Nyeri,20,Till,113,1,Yes,No,6,Yes,Yes
+TXN004767,280512,Nairobi,Mombasa,6,Paybill,64,16,No,Yes,7,No,Yes
+TXN004768,439423,Meru,Kakamega,22,Till,103,20,Yes,No,6,No,Yes
+TXN004771,108907,Kisumu,Uasin Gishu,4,Till,102,18,Yes,Yes,0,Yes,Yes
+TXN004773,297332,Kiambu,Kiambu,7,Till,63,15,Yes,No,3,No,Yes
+TXN004775,474559,Kiambu,Nyeri,5,Send Money,70,21,Yes,Yes,2,Yes,Yes
+TXN004776,480886,Uasin Gishu,Machakos,0,Till,4,26,Yes,Yes,5,Yes,Yes
+TXN004778,98691,Kiambu,Mombasa,10,Withdraw,12,26,No,Yes,4,Yes,Yes
+TXN004779,171520,Nyeri,Uasin Gishu,2,Paybill,66,23,No,Yes,7,No,Yes
+TXN004780,251904,Machakos,Uasin Gishu,19,Till,58,27,Yes,Yes,3,Yes,Yes
+TXN004781,474271,Kakamega,Uasin Gishu,12,Send Money,20,1,Yes,No,4,No,Yes
+TXN004786,39962,Machakos,Nakuru,10,Till,112,20,Yes,Yes,4,Yes,Yes
+TXN004787,432876,Nairobi,Kakamega,22,Send Money,24,11,No,Yes,8,No,Yes
+TXN004794,32126,Kakamega,Nyeri,15,Paybill,75,6,Yes,Yes,5,Yes,Yes
+TXN004797,370647,Meru,Kakamega,11,Withdraw,45,30,No,Yes,8,No,Yes
+TXN004798,417728,Meru,Meru,9,Paybill,45,24,No,Yes,3,Yes,Yes
+TXN004799,37610,Kakamega,Nyeri,14,Paybill,4,19,No,Yes,8,No,Yes
+TXN004800,411727,Nyeri,Nakuru,19,Withdraw,113,17,Yes,No,7,Yes,Yes
+TXN004801,271857,Uasin Gishu,Nairobi,14,Till,26,1,Yes,No,5,No,Yes
+TXN004802,179079,Nairobi,Nakuru,5,Withdraw,112,14,Yes,No,6,No,Yes
+TXN004805,464919,Nyeri,Kiambu,15,Withdraw,60,10,Yes,Yes,6,No,Yes
+TXN004806,99739,Kiambu,Nairobi,21,Withdraw,79,6,Yes,Yes,4,No,Yes
+TXN004807,123533,Mombasa,Mombasa,5,Send Money,82,4,No,Yes,8,Yes,Yes
+TXN004809,486490,Uasin Gishu,Kiambu,15,Send Money,17,29,No,Yes,6,No,Yes
+TXN004811,367579,Nairobi,Mombasa,23,Withdraw,91,1,Yes,Yes,3,Yes,Yes
+TXN004812,42021,Kisumu,Meru,1,Send Money,82,28,Yes,Yes,1,No,Yes
+TXN004813,439991,Nakuru,Nairobi,17,Withdraw,64,10,Yes,No,6,No,Yes
+TXN004816,32192,Mombasa,Kiambu,3,Send Money,56,15,Yes,No,7,Yes,Yes
+TXN004817,20683,Kakamega,Meru,17,Send Money,8,15,Yes,Yes,8,No,Yes
+TXN004822,151575,Nairobi,Kiambu,19,Paybill,41,27,Yes,Yes,4,Yes,Yes
+TXN004823,13702,Uasin Gishu,Kakamega,11,Till,101,15,Yes,Yes,0,Yes,Yes
+TXN004824,137356,Uasin Gishu,Nakuru,16,Paybill,58,12,Yes,No,4,Yes,Yes
+TXN004825,179093,Nakuru,Machakos,16,Paybill,11,4,No,Yes,3,Yes,Yes
+TXN004826,47095,Nairobi,Nyeri,1,Till,61,26,Yes,No,3,Yes,Yes
+TXN004828,158691,Kakamega,Kakamega,4,Send Money,39,23,Yes,Yes,6,No,Yes
+TXN004829,52438,Nairobi,Meru,16,Send Money,18,15,Yes,No,8,Yes,Yes
+TXN004831,79868,Mombasa,Nairobi,14,Send Money,120,14,No,Yes,7,Yes,Yes
+TXN004835,46416,Nakuru,Kakamega,23,Send Money,50,21,No,Yes,3,Yes,Yes
+TXN004837,325624,Kiambu,Kakamega,15,Paybill,79,13,Yes,Yes,3,Yes,Yes
+TXN004839,120690,Meru,Nairobi,13,Paybill,103,25,No,Yes,6,Yes,Yes
+TXN004840,287119,Nairobi,Nakuru,0,Send Money,95,25,Yes,No,6,No,Yes
+TXN004841,184263,Meru,Nakuru,13,Paybill,11,21,Yes,No,3,No,Yes
+TXN004842,168730,Kiambu,Kakamega,4,Till,56,17,Yes,No,7,Yes,Yes
+TXN004843,473014,Kisumu,Mombasa,17,Withdraw,90,9,Yes,No,7,No,Yes
+TXN004844,390743,Kiambu,Kisumu,19,Paybill,38,8,Yes,No,4,No,Yes
+TXN004845,73481,Nairobi,Meru,23,Paybill,51,17,Yes,No,8,No,Yes
+TXN004847,275937,Nakuru,Nakuru,3,Paybill,102,5,No,Yes,7,No,Yes
+TXN004848,177059,Nakuru,Kiambu,0,Till,67,4,Yes,No,6,No,Yes
+TXN004852,171861,Nairobi,Machakos,14,Till,34,21,No,Yes,5,Yes,Yes
+TXN004853,358112,Kiambu,Nyeri,14,Till,43,23,Yes,No,6,No,Yes
+TXN004854,60359,Uasin Gishu,Nairobi,15,Paybill,29,18,Yes,Yes,2,No,Yes
+TXN004856,202897,Mombasa,Kakamega,13,Till,112,1,Yes,No,3,No,Yes
+TXN004858,453227,Machakos,Nyeri,8,Till,29,19,Yes,Yes,8,Yes,Yes
+TXN004859,293679,Kakamega,Mombasa,4,Withdraw,115,23,Yes,Yes,2,No,Yes
+TXN004862,15147,Kiambu,Mombasa,19,Withdraw,102,26,Yes,Yes,0,No,Yes
+TXN004866,350865,Nairobi,Machakos,6,Withdraw,112,4,Yes,Yes,3,Yes,Yes
+TXN004869,495376,Mombasa,Machakos,22,Send Money,83,13,Yes,Yes,5,No,Yes
+TXN004871,436163,Nakuru,Machakos,17,Paybill,106,23,No,Yes,8,No,Yes
+TXN004872,160666,Kiambu,Meru,10,Till,75,6,No,Yes,8,No,Yes
+TXN004873,319345,Machakos,Nyeri,16,Till,12,2,Yes,Yes,3,No,Yes
+TXN004874,238883,Nyeri,Meru,3,Withdraw,109,5,Yes,No,6,Yes,Yes
+TXN004875,42855,Machakos,Nakuru,0,Paybill,85,20,Yes,No,5,No,Yes
+TXN004876,307817,Uasin Gishu,Kakamega,18,Till,53,3,No,Yes,4,Yes,Yes
+TXN004877,328892,Kiambu,Machakos,8,Send Money,85,6,Yes,Yes,7,Yes,Yes
+TXN004879,141843,Kisumu,Nyeri,16,Withdraw,76,9,Yes,Yes,2,No,Yes
+TXN004881,186430,Nakuru,Machakos,14,Till,59,26,Yes,Yes,7,No,Yes
+TXN004882,359508,Uasin Gishu,Nyeri,0,Till,19,22,Yes,No,5,No,Yes
+TXN004883,222530,Nyeri,Mombasa,4,Paybill,105,20,Yes,Yes,1,No,Yes
+TXN004884,199373,Kakamega,Nairobi,0,Paybill,110,5,No,Yes,4,No,Yes
+TXN004885,477783,Kiambu,Kiambu,13,Send Money,45,4,Yes,No,7,Yes,Yes
+TXN004887,240215,Kisumu,Nyeri,19,Send Money,50,8,Yes,Yes,5,No,Yes
+TXN004888,495356,Kiambu,Kakamega,9,Send Money,80,4,Yes,Yes,6,Yes,Yes
+TXN004889,264757,Kisumu,Nakuru,0,Till,2,27,No,Yes,0,Yes,Yes
+TXN004893,262699,Mombasa,Nakuru,1,Send Money,62,17,Yes,No,4,No,Yes
+TXN004895,233213,Kiambu,Kakamega,0,Till,80,17,No,Yes,4,No,Yes
+TXN004899,301445,Mombasa,Meru,21,Withdraw,68,4,Yes,Yes,2,No,Yes
+TXN004900,444198,Mombasa,Uasin Gishu,14,Withdraw,114,15,Yes,Yes,8,Yes,Yes
+TXN004901,154459,Meru,Nyeri,10,Paybill,105,7,No,Yes,4,Yes,Yes
+TXN004902,229944,Kiambu,Meru,6,Till,13,9,Yes,No,4,No,Yes
+TXN004906,450696,Machakos,Machakos,22,Withdraw,42,7,Yes,Yes,6,Yes,Yes
+TXN004908,296419,Nakuru,Nairobi,15,Paybill,112,27,Yes,Yes,6,Yes,Yes
+TXN004909,236515,Mombasa,Kisumu,23,Paybill,111,7,Yes,Yes,5,No,Yes
+TXN004910,401090,Machakos,Nyeri,1,Paybill,96,9,No,Yes,3,Yes,Yes
+TXN004912,174607,Nakuru,Kisumu,15,Send Money,14,30,No,Yes,8,No,Yes
+TXN004915,356420,Machakos,Uasin Gishu,8,Send Money,54,1,Yes,No,3,Yes,Yes
+TXN004917,378110,Mombasa,Kakamega,4,Paybill,93,29,Yes,No,3,No,Yes
+TXN004918,350562,Nyeri,Machakos,5,Withdraw,49,30,No,Yes,4,No,Yes
+TXN004919,26941,Kakamega,Kisumu,5,Till,82,29,Yes,Yes,5,No,Yes
+TXN004921,2287,Nakuru,Kiambu,1,Withdraw,35,12,Yes,No,5,Yes,Yes
+TXN004922,18798,Machakos,Machakos,12,Paybill,97,12,No,Yes,3,No,Yes
+TXN004923,266974,Nakuru,Meru,18,Withdraw,48,19,Yes,Yes,8,No,Yes
+TXN004925,432910,Uasin Gishu,Uasin Gishu,0,Till,111,27,Yes,Yes,7,Yes,Yes
+TXN004928,454878,Kiambu,Kisumu,1,Till,76,16,Yes,Yes,3,Yes,Yes
+TXN004930,439470,Meru,Mombasa,21,Send Money,109,4,Yes,No,3,No,Yes
+TXN004931,443142,Mombasa,Kisumu,4,Paybill,39,23,Yes,Yes,2,No,Yes
+TXN004933,76408,Nairobi,Kisumu,7,Paybill,34,24,Yes,Yes,4,Yes,Yes
+TXN004934,405847,Kisumu,Kakamega,16,Paybill,90,2,Yes,Yes,1,Yes,Yes
+TXN004935,285563,Nairobi,Meru,15,Send Money,85,22,Yes,No,3,No,Yes
+TXN004938,240368,Kiambu,Nairobi,17,Paybill,75,30,No,Yes,6,Yes,Yes
+TXN004939,189,Nakuru,Uasin Gishu,1,Paybill,83,15,Yes,Yes,6,Yes,Yes
+TXN004940,254410,Kisumu,Uasin Gishu,2,Withdraw,25,30,Yes,No,6,No,Yes
+TXN004942,371085,Kiambu,Nakuru,16,Paybill,58,28,No,Yes,8,Yes,Yes
+TXN004943,33619,Kisumu,Nyeri,7,Paybill,36,14,Yes,Yes,2,Yes,Yes
+TXN004944,273751,Kisumu,Kisumu,6,Till,93,26,Yes,Yes,8,No,Yes
+TXN004947,354128,Kiambu,Uasin Gishu,5,Paybill,4,17,Yes,Yes,5,Yes,Yes
+TXN004948,103133,Machakos,Nyeri,23,Paybill,83,15,No,Yes,5,Yes,Yes
+TXN004951,95420,Nairobi,Nyeri,13,Send Money,95,23,Yes,Yes,0,No,Yes
+TXN004953,88228,Machakos,Uasin Gishu,11,Send Money,96,20,Yes,No,8,Yes,Yes
+TXN004956,93341,Kakamega,Uasin Gishu,20,Send Money,84,10,Yes,Yes,6,No,Yes
+TXN004957,412115,Kiambu,Kakamega,1,Paybill,83,30,No,Yes,5,No,Yes
+TXN004958,105106,Nakuru,Kisumu,0,Withdraw,55,27,No,Yes,4,No,Yes
+TXN004959,167910,Kiambu,Nakuru,9,Send Money,35,28,Yes,Yes,6,Yes,Yes
+TXN004962,126282,Uasin Gishu,Kiambu,18,Withdraw,94,3,Yes,Yes,5,Yes,Yes
+TXN004963,147755,Uasin Gishu,Kiambu,9,Paybill,57,18,No,Yes,6,No,Yes
+TXN004964,265477,Kakamega,Nyeri,2,Send Money,53,21,Yes,Yes,7,Yes,Yes
+TXN004965,383690,Kiambu,Nyeri,0,Till,9,24,Yes,Yes,2,No,Yes
+TXN004970,351975,Machakos,Nairobi,6,Send Money,109,9,Yes,Yes,0,No,Yes
+TXN004973,174182,Kakamega,Kakamega,1,Paybill,52,1,No,Yes,4,Yes,Yes
+TXN004976,138066,Nairobi,Kiambu,22,Withdraw,15,2,No,Yes,6,No,Yes
+TXN004977,97973,Nakuru,Kakamega,2,Paybill,41,12,Yes,Yes,0,No,Yes
+TXN004978,76399,Machakos,Kisumu,9,Send Money,1,15,Yes,No,0,No,Yes
+TXN004982,384343,Nakuru,Kiambu,22,Till,10,11,No,Yes,5,No,Yes
+TXN004986,258371,Nyeri,Mombasa,0,Withdraw,61,16,Yes,No,7,No,Yes
+TXN004988,100186,Nairobi,Nyeri,5,Paybill,96,25,Yes,No,7,Yes,Yes
+TXN004990,384614,Nyeri,Uasin Gishu,18,Withdraw,15,22,Yes,No,6,Yes,Yes
+TXN004993,119863,Uasin Gishu,Uasin Gishu,22,Withdraw,114,26,Yes,Yes,5,Yes,Yes
+TXN004994,337045,Nyeri,Nairobi,20,Send Money,64,14,Yes,No,5,Yes,Yes
+TXN004995,178181,Nairobi,Uasin Gishu,20,Paybill,107,30,Yes,Yes,8,Yes,Yes
+TXN004996,189164,Kiambu,Kiambu,2,Till,7,23,Yes,No,5,No,Yes
+TXN004997,406287,Mombasa,Uasin Gishu,1,Till,9,28,Yes,No,3,No,Yes
+TXN004999,389058,Nyeri,Kiambu,19,Send Money,115,29,No,Yes,6,No,Yes
+TXN005000,124311,Meru,Mombasa,3,Withdraw,18,27,Yes,No,7,No,Yes
